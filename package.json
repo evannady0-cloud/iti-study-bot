@@ -1,0 +1,14 @@
+{
+  "name": "iti-study-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Telegram study bot for ITI admission tests (IQ & English)",
+  "main": "bot.mjs",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}

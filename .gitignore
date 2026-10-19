@@ -1,0 +1,14 @@
+node_modules/
+crops/
+*.log
+audit_*.py
+sample_*.py
+filter_*.py
+parse_*.py
+test_*.py
+count_*.py
+inspect_*.py
+build_*.py
+extracted_situational.json
+extracted_night_items.json
+test1_extracted_raw.txt

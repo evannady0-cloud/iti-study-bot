@@ -1,0 +1,5030 @@
+[
+  {
+    "id": 241,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 1): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 2,
+    "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image150.png"
+  },
+  {
+    "id": 242,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 2): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 0,
+    "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image14.png"
+  },
+  {
+    "id": 243,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 3): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 3,
+    "reasoning": "الحل: Switch D is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image205.png"
+  },
+  {
+    "id": 244,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 4): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 1,
+    "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image24.png"
+  },
+  {
+    "id": 245,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 5): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 2,
+    "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image272.png"
+  },
+  {
+    "id": 246,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 6): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 0,
+    "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image282.png"
+  },
+  {
+    "id": 247,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 7): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 1,
+    "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image89.png"
+  },
+  {
+    "id": 248,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 8): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 3,
+    "reasoning": "الحل: Switch D is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image65.png"
+  },
+  {
+    "id": 249,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 9): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 0,
+    "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image102.png"
+  },
+  {
+    "id": 250,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 10): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 2,
+    "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image154.png"
+  },
+  {
+    "id": 251,
+    "category": "Exam Night (مسائل السويتشات)",
+    "question": "مسألة مفاتيح الدوائر الكهربائية (Switch Problem 11): أي مفتاح من المفاتيح التالية معطل ولا يعمل؟",
+    "options": [
+      "Switch A",
+      "Switch B",
+      "Switch C",
+      "Switch D"
+    ],
+    "correct": 1,
+    "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+    "image": "night_exam/image230.png"
+  },
+  {
+    "id": 252,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which three of the four pieces can be fitted together to form a perfect square?",
+    "options": [
+      "A, B, C",
+      "B, C, D",
+      "A, C, D",
+      "A, B, D"
+    ],
+    "correct": 1,
+    "reasoning": "Pieces B, C, D fit together perfectly to complete a square.",
+    "image": "night_exam/image262.png"
+  },
+  {
+    "id": 253,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which three pieces below can be fitted together to form a perfect square?",
+    "options": [
+      "A, B, D",
+      "A, C, D",
+      "B, C, D",
+      "A, B, C"
+    ],
+    "correct": 2,
+    "reasoning": "Shapes B, C, and D combine to form a perfect square.",
+    "image": "night_exam/image218.png"
+  },
+  {
+    "id": 254,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which three pieces can form a perfect square?",
+    "options": [
+      "A, B, C",
+      "B, C, D",
+      "A, C, D",
+      "A, B, D"
+    ],
+    "correct": 0,
+    "reasoning": "Pieces A, B, and C combine to form a square.",
+    "image": "night_exam/image173.png"
+  },
+  {
+    "id": 255,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which three pieces can form a perfect square?",
+    "options": [
+      "A, B, C",
+      "B, C, D",
+      "A, C, D",
+      "A, B, D"
+    ],
+    "correct": 2,
+    "reasoning": "Pieces A, C, and D form a square.",
+    "image": "night_exam/image62.png"
+  },
+  {
+    "id": 256,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "reasoning": "D: A is the same as E with flaps in/out; B is the same as C.",
+    "image": "night_exam/image8.png"
+  },
+  {
+    "id": 257,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: All other figures are identical when rotated.",
+    "image": "night_exam/image57.png"
+  },
+  {
+    "id": 258,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the odd one out among these circle diagrams?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: In all others the black circle connects to 3 white circles. In C it connects to only 2.",
+    "image": "night_exam/image280.png"
+  },
+  {
+    "id": 259,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: In all others the black circle connects to 3 white circles. In C it connects to only 2.",
+    "image": "night_exam/image21.png"
+  },
+  {
+    "id": 260,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: The rest are the same figure rotated.",
+    "image": "night_exam/image74.png"
+  },
+  {
+    "id": 261,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: It has 3 white and 1 black on the left, and 3 black and 1 white on right. Others are opposite.",
+    "image": "night_exam/image68.png"
+  },
+  {
+    "id": 262,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "correct": 7,
+    "reasoning": "H: In all other figures the outer shape is repeated in the middle.",
+    "image": "night_exam/image181.png"
+  },
+  {
+    "id": 263,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the next face in the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "reasoning": "D: Curl alternates left/right, eyes alternate, nose alternates black/white, mouth alternates happy/sad/straight.",
+    "image": "night_exam/image97.png"
+  },
+  {
+    "id": 264,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure comes next in the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Number of white dots increases by 1 each time, and all white dots remain connected.",
+    "image": "night_exam/image268.png"
+  },
+  {
+    "id": 265,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure comes next?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "reasoning": "A: Figure tumbles 45 degrees at each stage and alternates white/black/striped.",
+    "image": "night_exam/image233.png"
+  },
+  {
+    "id": 266,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure comes next in the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: Top arm moves 45 deg clockwise each stage; bottom arm moves 90 deg clockwise.",
+    "image": "night_exam/image257.png"
+  },
+  {
+    "id": 267,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "To which figure can a dot be added following the same conditions?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "reasoning": "D: Dot must appear in a circle with 3 secant lines passing through it.",
+    "image": "night_exam/image109.png"
+  },
+  {
+    "id": 268,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "To which figure can two dots be added under the same conditions?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "reasoning": "D: One dot in triangle & circle; other dot in triangle & three circles.",
+    "image": "night_exam/image79.png"
+  },
+  {
+    "id": 269,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "To which figure can a dot be added under the same conditions?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Dot must appear in two circles and the square.",
+    "image": "night_exam/image15.png"
+  },
+  {
+    "id": 270,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "To which figure can two dots be added?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: One dot in one triangle; other dot in two triangles.",
+    "image": "night_exam/image94.png"
+  },
+  {
+    "id": 271,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number should replace the question mark?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "reasoning": "5: (8 + 7) × 5 = 75.",
+    "image": "night_exam/image140.png"
+  },
+  {
+    "id": 272,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number should replace the question mark?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "reasoning": "5: (6 + 8) – 9 = 5.",
+    "image": "night_exam/image169.png"
+  },
+  {
+    "id": 273,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number should replace the question mark?",
+    "options": [
+      "28",
+      "32",
+      "36",
+      "40"
+    ],
+    "correct": 2,
+    "reasoning": "36: 32 ÷ 8 × 9 = 36.",
+    "image": "night_exam/image211.png"
+  },
+  {
+    "id": 274,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "reasoning": "1: Each triangle contains the digits 1–9 once each.",
+    "image": "night_exam/image260.png"
+  },
+  {
+    "id": 275,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correct": 2,
+    "reasoning": "16: 12 + 16 = 28 ÷ 7 = 4.",
+    "image": "night_exam/image41.png"
+  },
+  {
+    "id": 276,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What 3-digit number belongs in the pyramid?",
+    "options": [
+      "453",
+      "543",
+      "345",
+      "654"
+    ],
+    "correct": 0,
+    "reasoning": "453: Top ÷ 2, bottom-left ÷ 3, bottom-right ÷ 4.",
+    "image": "night_exam/image40.png"
+  },
+  {
+    "id": 277,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "correct": 2,
+    "reasoning": "29: (31 + 2) – 29 = 4.",
+    "image": "night_exam/image6.png"
+  },
+  {
+    "id": 278,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which circle completes the pair?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: Each pair of circles are mirror images of each other.",
+    "image": "night_exam/image107.png"
+  },
+  {
+    "id": 279,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing inner circle?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Only lines and symbols appearing exactly twice in outer circles appear in inner circle.",
+    "image": "night_exam/image279.png"
+  },
+  {
+    "id": 280,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which circle belongs in the middle?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Symbols transferred to middle circle when they appear in the same position once.",
+    "image": "night_exam/image51.png"
+  },
+  {
+    "id": 281,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which circle replaces the question mark in the pyramid?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "reasoning": "C: Pairs of circles add together to produce the circle above, but common symbols cancel out.",
+    "image": "night_exam/image2.png"
+  },
+  {
+    "id": 282,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which circle completes the pyramid top?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Symbols in lower two circles combine, identical symbols cancel out.",
+    "image": "night_exam/image187.png"
+  },
+  {
+    "id": 283,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing pentagon?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: The right half is a mirror image of the left half.",
+    "image": "night_exam/image48.png"
+  },
+  {
+    "id": 284,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which pentagon completes the top?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: A dot is carried forward only when it appears in corner/centre just once in lower two.",
+    "image": "night_exam/image101.png"
+  },
+  {
+    "id": 285,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile replaces the question mark?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Lines across proceed +2, –3, +2; lines down proceed –3, +2, –3.",
+    "image": "night_exam/image224.png"
+  },
+  {
+    "id": 286,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile completes the grid?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: Rotational logic and shading pattern across rows.",
+    "image": "night_exam/image81.png"
+  },
+  {
+    "id": 287,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "When the net is folded to form a cube, which cube can be produced?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "reasoning": "D: Face alignment of circle and diagonal line produces cube D.",
+    "image": "night_exam/image1.png"
+  },
+  {
+    "id": 288,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing tile in the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Directional rotation and alternating segments.",
+    "image": "night_exam/image149.png"
+  },
+  {
+    "id": 289,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure completes the pattern?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Shape rotation and internal line count.",
+    "image": "night_exam/image71.png"
+  },
+  {
+    "id": 290,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number should replace the question mark?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "reasoning": "4: Column and row summation logic.",
+    "image": "night_exam/image208.png"
+  },
+  {
+    "id": 291,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape completes the matrix?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Overlapping logic with cancellation.",
+    "image": "night_exam/image111.png"
+  },
+  {
+    "id": 292,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing section in the grid?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Each row and column contains 6 complete lines and 6 broken lines.",
+    "image": "night_exam/image267.png"
+  },
+  {
+    "id": 293,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure comes next in the series?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "correct": 5,
+    "reasoning": "F: Rotational progression and element shading.",
+    "image": "night_exam/image124.png"
+  },
+  {
+    "id": 294,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure replaces the question mark?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Line addition and cancellation across rows.",
+    "image": "night_exam/image129.png"
+  },
+  {
+    "id": 295,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape belongs in the empty square?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Sequential movement of internal dots.",
+    "image": "night_exam/image231.png"
+  },
+  {
+    "id": 296,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure completes the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "correct": 5,
+    "reasoning": "F: Dual alternating rotation of arms.",
+    "image": "night_exam/image180.png"
+  },
+  {
+    "id": 297,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile completes the 3x3 grid?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: Horizontal and vertical geometric consistency.",
+    "image": "night_exam/image13.png"
+  },
+  {
+    "id": 298,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Geometric symmetry and angle properties.",
+    "image": "night_exam/image162.png"
+  },
+  {
+    "id": 299,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure completes the matrix?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Element combination rule.",
+    "image": "night_exam/image219.png"
+  },
+  {
+    "id": 300,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number completes the sequence?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2,
+    "reasoning": "8: Step difference logic across rows.",
+    "image": "night_exam/image47.png"
+  },
+  {
+    "id": 301,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape completes the pattern?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Reflection across horizontal axis.",
+    "image": "night_exam/image60.png"
+  },
+  {
+    "id": 302,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure replaces the question mark?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Dot transposition rule.",
+    "image": "night_exam/image90.png"
+  },
+  {
+    "id": 303,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure is the odd one out?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Line segment intersection count.",
+    "image": "night_exam/image45.png"
+  },
+  {
+    "id": 304,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What value replaces the question mark?",
+    "options": [
+      "70.5",
+      "71.5",
+      "72.5",
+      "73.5"
+    ],
+    "correct": 2,
+    "reasoning": "72.5: Arithmetic progression formula.",
+    "image": "night_exam/image85.png"
+  },
+  {
+    "id": 305,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What letter replaces the question mark?",
+    "options": [
+      "I",
+      "J",
+      "K",
+      "L"
+    ],
+    "correct": 2,
+    "reasoning": "K: Alphabetical step progression.",
+    "image": "night_exam/image25.png"
+  },
+  {
+    "id": 306,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What letter completes the sequence?",
+    "options": [
+      "L",
+      "M",
+      "N",
+      "O"
+    ],
+    "correct": 2,
+    "reasoning": "N: Alternating letter jumps.",
+    "image": "night_exam/image217.png"
+  },
+  {
+    "id": 307,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing symbol in the matrix?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Cyclic transformation across rows.",
+    "image": "night_exam/image34.png"
+  },
+  {
+    "id": 308,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "3245",
+      "3445",
+      "3645",
+      "3845"
+    ],
+    "correct": 2,
+    "reasoning": "3645: Exponential multiplication pattern.",
+    "image": "night_exam/image212.png"
+  },
+  {
+    "id": 309,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure completes the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: 90 degree clockwise rotation with inverse fill.",
+    "image": "night_exam/image3.png"
+  },
+  {
+    "id": 310,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct": 2,
+    "reasoning": "17: Sum of opposites minus center value.",
+    "image": "night_exam/image16.png"
+  },
+  {
+    "id": 311,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number belongs in the missing spot?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "reasoning": "4: Intersecting ring values summation.",
+    "image": "night_exam/image226.png"
+  },
+  {
+    "id": 312,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile completes the matrix?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: Visual subtraction rule across columns.",
+    "image": "night_exam/image171.png"
+  },
+  {
+    "id": 313,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure completes the pattern?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: Outer frame clockwise rotation.",
+    "image": "night_exam/image216.png"
+  },
+  {
+    "id": 314,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "reasoning": "7: Diagonal arithmetic progression.",
+    "image": "night_exam/image134.png"
+  },
+  {
+    "id": 315,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile completes the 3x3 pattern?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Start bottom-left corner square and follow progression.",
+    "image": "night_exam/image183.png"
+  },
+  {
+    "id": 316,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number replaces the question mark?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "reasoning": "5: Hexagonal edge sum logic.",
+    "image": "night_exam/image121.png"
+  },
+  {
+    "id": 317,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape completes the sequence?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Shaded sector counter-clockwise motion.",
+    "image": "night_exam/image276.png"
+  },
+  {
+    "id": 318,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which tile replaces the question mark?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: Compound shape overlay rule.",
+    "image": "night_exam/image215.png"
+  },
+  {
+    "id": 319,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which figure is the missing one?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: Feature alternation across grid.",
+    "image": "night_exam/image88.png"
+  },
+  {
+    "id": 320,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "What number completes the diagram?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+    "reasoning": "6: Segment product division rule.",
+    "image": "night_exam/image105.png"
+  },
+  {
+    "id": 321,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which shape comes next in the transformation?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: Square goes inside diamond and diamond inside circle.",
+    "image": "night_exam/image238.jpg"
+  },
+  {
+    "id": 322,
+    "category": "Exam Night (باترن ليلة الامتحان)",
+    "question": "Which is the missing tile?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: Symmetry preservation across middle axis.",
+    "image": "night_exam/image192.png"
+  },
+  {
+    "id": 1,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 1,
+    "question": "\u0007Which piece below, when fitted into the piece on the left, will form a perfect square? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B;",
+    "image": "ultimate_test1_q01.png"
+  },
+  {
+    "id": 2,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 2,
+    "question": "Which word in brackets is most opposite to the word in capitals? PROSCRIBE (allow, stifle, promote, verify, indict)",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 3,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 3,
+    "question": "0, 1, 2, 4, 6, 9, 12, 16, ? What number should replace the question mark?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 4,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 4,
+    "question": "Which number is the odd one out? 9678 4572 5261 5133 3527 6895 7768",
+    "options": [
+      "3527",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "3527: in the others the sum of the first two numbers is equal to the sum of the second two numbers, for example 5 + 2 = 6 + 1;",
+    "image": null
+  },
+  {
+    "id": 5,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 5,
+    "question": "Isotherm is to temperature as isobar is to: atmosphere, wind, pressure, latitude, current",
+    "options": [
+      "pressure",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "pressure;",
+    "image": null
+  },
+  {
+    "id": 6,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 6,
+    "question": "1 2 4 7 4 ? 7 10 6 ? ? 12",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: lines across proceed +1, +2, +3. Lines down proceed +3, +2, +1;",
+    "image": "ultimate_test1_q06.png"
+  },
+  {
+    "id": 7,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 7,
+    "question": "8 10 ? Which is the missing section? 6 5",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test1_q07.png"
+  },
+  {
+    "id": 8,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 8,
+    "question": "Which is the correct figure / answer for Question 8?",
+    "options": [
+      "weight, speed",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "weight, speed;",
+    "image": null
+  },
+  {
+    "id": 9,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 9,
+    "question": "7 12 A 13 B 6 5 7 8 7 9 14 C 13 D",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test1_q09.png"
+  },
+  {
+    "id": 10,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 10,
+    "question": "Which is the odd one out? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: the rest are the same figure rotated;",
+    "image": "ultimate_test1_q10.png"
+  },
+  {
+    "id": 11,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 11,
+    "question": "How many minutes is it before 12 noon, if 48 minutes ago it was twice as many minutes past 9 am?",
+    "options": [
+      "44 minutes",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "44 minutes: 12 noon less 44 minutes = 11.16, 11.16 less 48 minutes = 10.28, 9 am plus 88 minutes (44 × 2) = 10.28;",
+    "image": null
+  },
+  {
+    "id": 12,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 12,
+    "question": "Complete the five words below in such a way that the two letters that end the first word also start the second word, and the two letters that end the second word also start the third word etc. The same two letters that end the fifth word also start the first word, to complete the cycle. ** IV ** ** OT ** ** IC ** ** NG ** ** RA **",
+    "options": [
+      "SHIVER, EROTIC, ICICLE, LENGTH, THRASH",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "SHIVER, EROTIC, ICICLE, LENGTH, THRASH;",
+    "image": null
+  },
+  {
+    "id": 13,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 13,
+    "question": "Which is the odd one out? heptagon, triangle, hexagon, cube, pentagon",
+    "options": [
+      "cube",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "cube: it is a three-dimensional figure. The rest are all two-dimensional figures;",
+    "image": null
+  },
+  {
+    "id": 14,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 14,
+    "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on = ON = OFF Switches C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
+    "options": [
+      "Switch A is faulty",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Switch A is faulty;",
+    "image": "ultimate_test1_q14.png"
+  },
+  {
+    "id": 15,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 15,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: in each line and column, each of the three rings is shaded black once;",
+    "image": "ultimate_test1_q15.png"
+  },
+  {
+    "id": 16,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 16,
+    "question": "Which word in brackets is closest in meaning to the word in capitals? BRUNT (dull, edifice, impact, tawny, nonsense)",
+    "options": [
+      "impact",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "impact;",
+    "image": null
+  },
+  {
+    "id": 17,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 17,
+    "question": "Which of the following is not an anagram of a type of food? PAST EIGHT I CAN ROAM WIN BOAR CAN PEAK COOL CHEAT",
+    "options": [
+      "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT)",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT);",
+    "image": null
+  },
+  {
+    "id": 18,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 18,
+    "question": "3 6 2 7 4 21 16 3 ? What number should replace the question mark?",
+    "options": [
+      "4",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "4: looking across at the three circles, the number in the middle is the product of the two numbers in the same segment in the other two circles. Thus, 3 × 2 = 6, 7 × 3 = 21 and 4 × 4 = 16;",
+    "image": "ultimate_test1_q18.png"
+  },
+  {
+    "id": 19,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 19,
+    "question": "N O I A R O S L F E Work from square to adjacent square horizontally or vertically (but not diago­ nally) to spell out a 12-letter word. You must find the starting point, and provide the missing letters.",
+    "options": [
+      "PROFESSIONAL",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "PROFESSIONAL;",
+    "image": "ultimate_test1_q19.png"
+  },
+  {
+    "id": 20,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 20,
+    "question": "How many lines appear below?",
+    "options": [
+      "11",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "11;",
+    "image": "ultimate_test1_q20.png"
+  },
+  {
+    "id": 21,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 21,
+    "question": "Which is the missing tile? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: in each line across and down the arrows point in each of three directions left, right and down. The number of arrows increases 1, 2, 3 in each row;",
+    "image": "ultimate_test1_q21.png"
+  },
+  {
+    "id": 22,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 22,
+    "question": "67/8, 29/16, 55/8, 33/16, 43/8, ? What number should replace the question mark?",
+    "options": [
+      "51/16",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "51/16: there are two alternate sequences: –11/4 and +11/4;",
+    "image": null
+  },
+  {
+    "id": 23,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 23,
+    "question": "I Y G U L S O L T G O L P N I T Work clockwise round the circles to spell out two eight-letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
+    "options": [
+      "linguist, polyglot",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "linguist, polyglot;",
+    "image": "ultimate_test1_q23.png"
+  },
+  {
+    "id": 24,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 24,
+    "question": "10, 30, 32, 96, 98, 294, 296, ?, ? What two numbers should replace the question marks?",
+    "options": [
+      "888, 890",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "888, 890: the sequence progresses ×3, +2;",
+    "image": null
+  },
+  {
+    "id": 25,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 25,
+    "question": "able, rot, son, king Which word below shares a common feature with all the words above? line, sit, take, hope, night",
+    "options": [
+      "take",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "take: all words can be prefixed with PAR to form another word – parable, parrot, parson, parking, partake;",
+    "image": null
+  },
+  {
+    "id": 26,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 26,
+    "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. SEA (wet, swimmer, ship) SNOW (mountain, ice, skier)",
+    "options": [
+      "swimmer, skier",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "swimmer, skier;",
+    "image": null
+  },
+  {
+    "id": 27,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 27,
+    "question": "Which word meaning LOCALITY becomes a word meaning TEMPO when a letter is removed?",
+    "options": [
+      "place/pace",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "place/pace;",
+    "image": null
+  },
+  {
+    "id": 28,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 28,
+    "question": "Alf has four times as many as Jim, and Jim has three times as many as Sid. Altogether they have 192. How many has each?",
+    "options": [
+      "Alf 144, Jim 36, Sid 12",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Alf 144, Jim 36, Sid 12;",
+    "image": null
+  },
+  {
+    "id": 29,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 29,
+    "question": "Which is the only one of the following that is not an anagram of a word meaning out of this world? flow under sexed Utah enviable blue icier blend",
+    "options": [
+      "sexed Utah = exhausted. The words meaning out of this world are",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "sexed Utah = exhausted. The words meaning out of this world are: wonderful (flow under), unbelievable (enviable blue), incredible (icier blend);",
+    "image": null
+  },
+  {
+    "id": 30,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 30,
+    "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?",
+    "options": [
+      "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks;",
+    "image": null
+  },
+  {
+    "id": 31,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 31,
+    "question": "Draw the missing figure in the above sequence.",
+    "options": [
+      "The black dot is moving up (then down) by one position at each stage",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "The black dot is moving up (then down) by one position at each stage;",
+    "image": "ultimate_test1_q31.png"
+  },
+  {
+    "id": 32,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 32,
+    "question": "How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?",
+    "options": [
+      "37 minutes",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "37 minutes: 12 noon less 37 minutes = 11.23, 11.23 less nine minutes = 11.14.10 am plus 74 minutes (2 × 37) = 11.14;",
+    "image": null
+  },
+  {
+    "id": 33,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 33,
+    "question": "Which two words are closest in meaning? conclave, medley, theme, conglomeration, dissertation, augury",
+    "options": [
+      "medley, conglomeration",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "medley, conglomeration;",
+    "image": null
+  },
+  {
+    "id": 34,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 34,
+    "question": "broke rage prose cute dared ? Which word is missing? palm hymn evil snow take",
+    "options": [
+      "evil",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "evil: when joined together each pair of words forms another word – brokerage, prosecute, daredevil;",
+    "image": null
+  },
+  {
+    "id": 35,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 35,
+    "question": "Find five consecutive numbers below that total 22. 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5",
+    "options": [
+      "93541",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "93541;",
+    "image": null
+  },
+  {
+    "id": 36,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 36,
+    "question": "To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: so that one dot appears in the triangle and one circle; and the other dot appears in the triangle and three circles;",
+    "image": "ultimate_test1_q36.png"
+  },
+  {
+    "id": 37,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 37,
+    "question": "Find two words (4, 6) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away it will be found by tracing around the circumference. Clue: free flight. A Z B Y C D X E W F V G U T H I S R J Q P O N M L K",
+    "options": [
+      "HANG GLIDER",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "HANG GLIDER;",
+    "image": "ultimate_test1_q37.png"
+  },
+  {
+    "id": 38,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 38,
+    "question": "A B H C G F D E What letter is directly opposite the letter that is two letters away clockwise from the letter that is directly opposite the letter E?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 6,
+    "reasoning": "G;",
+    "image": "ultimate_test1_q38.png"
+  },
+  {
+    "id": 39,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 39,
+    "question": "9 7 2 5 7 6 4 6 ? 8 What number should replace the question mark?",
+    "options": [
+      "0",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "0: looking at lines of numbers from the top: 9 × 8 = 72; 72 × 8 = 576; 576 × 8 = 4608;",
+    "image": "ultimate_test1_q39.png"
+  },
+  {
+    "id": 40,
+    "category": "Ultimate IQ Test 1",
+    "test_num": 1,
+    "q_num": 40,
+    "question": "Which is the missing section? A B D C",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: each opposite corner block of four squares are identical.",
+    "image": "ultimate_test1_q40.png"
+  },
+  {
+    "id": 41,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 1,
+    "question": "What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: the number of white dots is increased by one each time, both vertically and horizontally, and all white dots are connected;",
+    "image": "ultimate_test2_q01.png"
+  },
+  {
+    "id": 42,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 2,
+    "question": "Which four-letter word, when placed in the brackets, will complete a word on the left and start another word on the right? RAM (****) RIDGE",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 43,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 3,
+    "question": "20 22 19 21 17 19 16 ? 19 21 ? 20 16 18 15 ? Which is the missing section? 19 18 18 19 18 18 17 17 19 A 17 B 18 C 17 D",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: lines across proceed +2, –3, +2. Lines down proceed –3, +2, –3;",
+    "image": "ultimate_test2_q03.png"
+  },
+  {
+    "id": 44,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 4,
+    "question": "ligno- is to wood as vitro- is to wool, glass, stone, water, paper?",
+    "options": [
+      "6 × 1 = 2 × 3",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "6 × 1 = 2 × 3: 7 × 8 (6 + 2) = 56, 11 × 4 = 44, 4 × 3 = 12, 44 + 12 = 56;",
+    "image": null
+  },
+  {
+    "id": 45,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 5,
+    "question": "3 9 8 44 32 75 8 4 7 2 7 ? What number should replace the question mark?",
+    "options": [
+      "5",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "5: (8 + 7) × 5 = 75;",
+    "image": "ultimate_test2_q05.png"
+  },
+  {
+    "id": 46,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 6,
+    "question": "Solve the anagrams to find a well-known saying. The number of letters in each word is shown. (**** ** ********)(**** *******) (asserting craft)(hint of antic)",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 47,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 7,
+    "question": "is to: as is to: A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: black objects turn to white and vice versa;",
+    "image": "ultimate_test2_q07.png"
+  },
+  {
+    "id": 48,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 8,
+    "question": "0, 4, 2, 6, 3, 7, 3.5, ? What number should replace the question mark?",
+    "options": [
+      "Tile 7 is incorrect, and should be replaced by tile B",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Tile 7 is incorrect, and should be replaced by tile B;",
+    "image": null
+  },
+  {
+    "id": 49,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 9,
+    "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. LONGITUDE (degree, tropics, meridian) LATITUDE (parallel, line, equinox)",
+    "options": [
+      "meridian, parallel",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "meridian, parallel;",
+    "image": null
+  },
+  {
+    "id": 50,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 10,
+    "question": "5 2 3 10 6 4 1 11 1 9 ? 12 12 ? 6 ? Which is the missing section? 4 2 7 3 16 29 15 33 14 35 17 31 A B C D",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: in lines and columns, add the first three numbers to arrive at the fourth number;",
+    "image": "ultimate_test2_q10.png"
+  },
+  {
+    "id": 51,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 11,
+    "question": "Which word in brackets is closest in meaning to the word in capitals? MONITOR (observe, order, meddle, intrude, conclude)",
+    "options": [
+      "observe",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "observe;",
+    "image": null
+  },
+  {
+    "id": 52,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 12,
+    "question": "1 2 3 4 5 6 7 8 9 Looking at lines across and down, if the first two tiles are combined to produce the third tile, with the exception that like symbols are cancelled out, which of the above tiles is incorrect, and with which of the tiles below should it be replaced? A B C D E",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test2_q12.png"
+  },
+  {
+    "id": 53,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 13,
+    "question": "Which two words are most opposite in meaning? liberty, frivolity, chastity, sobriety, irrationality, polarity",
+    "options": [
+      "frivolity, sobriety",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "frivolity, sobriety;",
+    "image": null
+  },
+  {
+    "id": 54,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 14,
+    "question": "Insert four weights of 2 units, 3 units, 4 units and 6 units respectively so that the scales balance perfectly.",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test2_q14.png"
+  },
+  {
+    "id": 55,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 15,
+    "question": "The following clue leads to which pair of rhyming words? measure bulk of grass fodder",
+    "options": [
+      "weigh hay",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "weigh hay;",
+    "image": null
+  },
+  {
+    "id": 56,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 16,
+    "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D;",
+    "image": "ultimate_test2_q16.png"
+  },
+  {
+    "id": 57,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 17,
+    "question": "Which is the odd one out? femur, mandible, fibula, tibia, patella",
+    "options": [
+      "mandible",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "mandible: it is the jaw bone, the rest are bones in the leg;",
+    "image": null
+  },
+  {
+    "id": 58,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 18,
+    "question": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm. What time is it now?",
+    "options": [
+      "10 pm",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "10 pm: 12 noon = 12 noon, 1 pm = 12.43, 2 pm = 1.26, 3 pm = 2.09, 4 pm = 2.52, +6 hours = 10 pm;",
+    "image": null
+  },
+  {
+    "id": 59,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 19,
+    "question": "I Insert all the letters of the phrase UNSPOILT LOCAL into the remaining blank spaces once each only, to produce two words that form a phrase. Clue: things are not always what they appear.",
+    "options": [
+      "OPTICAL ILLUSION",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "OPTICAL ILLUSION;",
+    "image": "ultimate_test2_q19.png"
+  },
+  {
+    "id": 60,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 20,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: each line across and down contains five black dots and four white dots;",
+    "image": "ultimate_test2_q20.png"
+  },
+  {
+    "id": 61,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 21,
+    "question": "What comes next? E A B C D F G H",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: the figure is tumbling 45° at each stage and alternates white/black/striped;",
+    "image": "ultimate_test2_q21.png"
+  },
+  {
+    "id": 62,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 22,
+    "question": "dopiness, uncloaking, dishwasher Which word below has a feature in common with all the words above? gallant, crossfire, whirlwind, assault",
+    "options": [
+      "crossfire",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "crossfire: all words contain an embedded tree – do(pine)ss, uncl(oak)ing, dishw(ash)er, cross(fir)e;",
+    "image": null
+  },
+  {
+    "id": 63,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 23,
+    "question": "1, 101, 15, 4, 29, –93, 43, –190, ? What number should replace the question mark?",
+    "options": [
+      "57",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "57: there are two alternate sequences: +14, –97;",
+    "image": null
+  },
+  {
+    "id": 64,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 24,
+    "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is two letters above the letter two letters to the left of the letter immediately above the letter three letters to the right of the letter Q?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C;",
+    "image": "ultimate_test2_q24.png"
+  },
+  {
+    "id": 65,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 25,
+    "question": "15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33 What three numbers are missing?",
+    "options": [
+      "27, 9, 12",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "27, 9, 12: the sequence progresses ÷3, +3, ×3, –3 repeated;",
+    "image": null
+  },
+  {
+    "id": 66,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 26,
+    "question": "Which shield below has most in common with the shield above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: it contains a triangle in a circle, a circle in a triangle (with the same orienta­ tion of the triangle) and a black dot in a square;",
+    "image": "ultimate_test2_q26.png"
+  },
+  {
+    "id": 67,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 27,
+    "question": "Using the four letters below only, create a seven-letter word. UMNI",
+    "options": [
+      "minimum",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "minimum;",
+    "image": null
+  },
+  {
+    "id": 68,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 28,
+    "question": "5 4 ? 8 5 7 6 9 1 1 7 1 9 1 3 What number should replace the question mark?",
+    "options": [
+      "7",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "7: 91 ÷ 13;",
+    "image": "ultimate_test2_q28.png"
+  },
+  {
+    "id": 69,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 29,
+    "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on = ON = OFF Switches D, C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
+    "options": [
+      "Switch D is faulty",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Switch D is faulty;",
+    "image": "ultimate_test2_q29.png"
+  },
+  {
+    "id": 70,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 30,
+    "question": "Which word in brackets is closest in meaning to the word in capitals? FUSE (muzzle, explode, coalesce, immobilize, tighten)",
+    "options": [
+      "coalesce",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "coalesce;",
+    "image": null
+  },
+  {
+    "id": 71,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 31,
+    "question": "13 ? 12 4 7 1 7 16 8 7 9 5 8 5 14 11 What number should replace the question mark?",
+    "options": [
+      "17",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "17: it is the sum of the two digits (9 + 8) in the quadrant directly opposite;",
+    "image": "ultimate_test2_q31.png"
+  },
+  {
+    "id": 72,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 32,
+    "question": "To which hexagon below can a dot be added so that it then meets the same conditions as in the hexagon above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: so that the dot appears in two circles and the square;",
+    "image": "ultimate_test2_q32.png"
+  },
+  {
+    "id": 73,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 33,
+    "question": "You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?",
+    "options": [
+      "32",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "32: the next cube number below 64 (4 × 4 × 4) is 27 (3 × 3 × 3). In order to construct a solid cube, therefore, with none left over, 59 – 27 = 32 blocks need to be taken away;",
+    "image": null
+  },
+  {
+    "id": 74,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 34,
+    "question": "What word meaning DEDUCE becomes a word meaning PROPEL when a letter is removed?",
+    "options": [
+      "DERIVE/DRIVE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "DERIVE/DRIVE;",
+    "image": null
+  },
+  {
+    "id": 75,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 35,
+    "question": "47 63 55 85 99 92 73 25 ? What number should replace the question mark?",
+    "options": [
+      "49",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "49: (73 + 25) ÷ 2;",
+    "image": "ultimate_test2_q35.png"
+  },
+  {
+    "id": 76,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 36,
+    "question": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced. FEUMOPXCTW",
+    "options": [
+      "COMPUTE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "COMPUTE;",
+    "image": null
+  },
+  {
+    "id": 77,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 37,
+    "question": "Which is the missing section? A B D C",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: the last two rows of figures repeat the first two rows of figures in reverse;",
+    "image": "ultimate_test2_q37.png"
+  },
+  {
+    "id": 78,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 38,
+    "question": "I S U R D O P C E O R E M I E R Work clockwise round the circles to spell out two eight-letter words that are antonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
+    "options": [
+      "MEDIOCRE, SUPERIOR",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "MEDIOCRE, SUPERIOR;",
+    "image": "ultimate_test2_q38.png"
+  },
+  {
+    "id": 79,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 39,
+    "question": "4 7 2 ? 3 4 3 3 5 1 14 20 18 13 What number should replace the question mark?",
+    "options": [
+      "8",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "8: each number in the segment at the bottom is the sum of the four numbers in the sections either side. Thus: 8 + 3 + 4 + 3 = 18;",
+    "image": "ultimate_test2_q39.png"
+  },
+  {
+    "id": 80,
+    "category": "Ultimate IQ Test 2",
+    "test_num": 2,
+    "q_num": 40,
+    "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E.",
+    "image": "ultimate_test2_q40.png"
+  },
+  {
+    "id": 81,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 1,
+    "question": "is to: as: is to: A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: only lines that appear three times in the same position in the first three squares are carried forward to the final square;",
+    "image": "ultimate_test3_q01.png"
+  },
+  {
+    "id": 82,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 2,
+    "question": "Which is the odd one out? cymbal, marimba, vibraphone, trombone, glockenspiel",
+    "options": [
+      "trombone",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "trombone: the rest are percussion instruments;",
+    "image": null
+  },
+  {
+    "id": 83,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 3,
+    "question": "stationary, less, stationery, principal, fewer, principle Place the words above alongside their correct definition below: head of school fundamental truth standing still writing materials smaller in amount smaller in number",
+    "options": [
+      "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683: in the other numbers add the first and last digits to arrive at the middle digit; 5 PAST, FUTURE; 6 L; 7 D: to each arc, add a quarter of a circle clockwise; 8 ESCALATE, HEIGHTEN; 9 30, 26: there are two alternate sequences. Add 5 starting at 1. Subtract 5 starting at 50;",
+    "image": null
+  },
+  {
+    "id": 84,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 4,
+    "question": "Which is the odd number out? 462 683 385 198 253 781 594",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 85,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 5,
+    "question": "PURE AS TUFT is an anagram of which two words that are opposite in meaning?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 86,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 6,
+    "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Which letter is midway between the letter two letters below the letter immedi­ ately to the left of the letter G, and the letter three letters above the letter imme­ diately to the right of the letter V?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test3_q06.png"
+  },
+  {
+    "id": 87,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 7,
+    "question": "is to: as: is to: A B C D E",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test3_q07.png"
+  },
+  {
+    "id": 88,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 8,
+    "question": "L H N A A E T E E E S I G T Complete two eight-letter words, one in each circle, and both reading clock­ wise. The words are synonyms. You must find the starting points and provide the missing letters.",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test3_q08.png"
+  },
+  {
+    "id": 89,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 9,
+    "question": "1, 50, 6, 45, 11, 40, 16, 35, 21, ?, ? Which numbers should replace the question marks?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 90,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 10,
+    "question": "Arrange the words below into alphabetical order. acescence, acetamide, acerbated, acetified, acellular, acescency, acetabula, acerbates",
+    "options": [
+      "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified;",
+    "image": null
+  },
+  {
+    "id": 91,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 11,
+    "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D;",
+    "image": "ultimate_test3_q11.png"
+  },
+  {
+    "id": 92,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 12,
+    "question": "3 9 1 2 8 3 9 ? ? 2 1 9 1 ? ? 3 9 1 2 1 9 3 8 2 8 3 9 1 2 8 3 8 2 1 9 3 Which is the missing section? 8 3 3 8 8 2 2 8 8 2 2 8 8 3 3 8 A B C D",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: start at the bottom left-hand corner square and work along the bottom row, then back along the next row up etc, repeating the numbers 38219;",
+    "image": "ultimate_test3_q12.png"
+  },
+  {
+    "id": 93,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 13,
+    "question": "Solve the anagram in brackets to correctly complete the quotation with a 10-letter word. ‘The difference between golf and (torn veg men) is that in golf you cannot improve your lie’ George Deukmejian",
+    "options": [
+      "government",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "government;",
+    "image": null
+  },
+  {
+    "id": 94,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 14,
+    "question": "Which shield should replace the question mark? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: each line across and down contains one each of the three symbols. In each line one symbol is black, and one is upside down;",
+    "image": "ultimate_test3_q14.png"
+  },
+  {
+    "id": 95,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 15,
+    "question": "P U H M H R E A C L E B O P T R Take one letter from each circle in turn and using each letter once only find two eight-letter words that are similar in meaning. Both words read clockwise and each starts in a different circle.",
+    "options": [
+      "Top left is a third of bottom right, bottom right is three less than top right and top right is half of bottom left.",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Top left is a third of bottom right, bottom right is three less than top right and top right is half of bottom left.",
+    "image": "ultimate_test3_q15.png"
+  },
+  {
+    "id": 96,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 16,
+    "question": "What letters should replace the question marks? F T O ? F I ? R E R E E ?",
+    "options": [
+      "VHU",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "VHU: the numbers spelled out below are the number of sides in the figures in which they appear; F I E V T H E E R F O R U",
+    "image": "ultimate_test3_q16.png"
+  },
+  {
+    "id": 97,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 17,
+    "question": "7 2 5 9 2 8 7 8 4 6 ? 9 What number should replace the question mark?",
+    "options": [
+      "4",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "4: 6 × 9 = 54 (reading down the middle two blocks);",
+    "image": "ultimate_test3_q17.png"
+  },
+  {
+    "id": 98,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 18,
+    "question": "bizarre is to outlandish as eccentric is to: eerie, quirky, esoteric, weird, curious",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 99,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 19,
+    "question": "On taking delivery of a consignment of eggs the market stall owner was furious to find that several were cracked. In fact, on counting them up in order to assess the damage he found that 72 were cracked, which was 12 per cent of the total consignment. How many eggs in total were in the consignment?",
+    "options": [
+      "600",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "600: 72 ÷ 12 × 100;",
+    "image": null
+  },
+  {
+    "id": 100,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 20,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "× = × =",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "× = × =",
+    "image": "ultimate_test3_q20.png"
+  },
+  {
+    "id": 101,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 21,
+    "question": "MTD is to PXB as FRJ is to?",
+    "options": [
+      "IVH",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "IVH: the first letter moves three places in the alphabet forwards: FghI; the second letter moves four letters in the alphabet forwards: RstuV; the third letter moves two places in the alphabet backwards: JiH;",
+    "image": null
+  },
+  {
+    "id": 102,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 22,
+    "question": "A B C D E F G H What letter is two letters to the left of the letter immediately to the right of the letter three letters to the right of the letter A?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C;",
+    "image": null
+  },
+  {
+    "id": 103,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 23,
+    "question": "Which circle below should be placed in the large circle above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: each circle is repeated rotated;",
+    "image": "ultimate_test3_q23.png"
+  },
+  {
+    "id": 104,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 24,
+    "question": "Using the five letters below only, create a nine-letter word. LOPER",
+    "options": [
+      "PROPELLER",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "PROPELLER;",
+    "image": null
+  },
+  {
+    "id": 105,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 25,
+    "question": "16, 23, 19, 19, 22, 15, 25, ? What number should replace the question mark?",
+    "options": [
+      "11",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "11: there are two alternate sequences: +3 and –4;",
+    "image": null
+  },
+  {
+    "id": 106,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 26,
+    "question": "Simplify: 14 55 56 77 ÷ as the lowest fraction.",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 107,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 27,
+    "question": "Which is the missing box? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: each row and column contains six complete lines and six broken lines;",
+    "image": "ultimate_test3_q27.png"
+  },
+  {
+    "id": 108,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 28,
+    "question": "Which word in brackets is most opposite in meaning to the word in capitals? PLAUSIBLE (appropriate, improbable, clichéd, artificial, distasteful)",
+    "options": [
+      "improbable",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "improbable;",
+    "image": null
+  },
+  {
+    "id": 109,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 29,
+    "question": "The cost of an identical three-course lunch for four people was £56.00. The main course cost twice as much as the sweet and the sweet cost twice as much as the starter. How much did the main course cost per person?",
+    "options": [
+      "£8.00 per person",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "£8.00 per person: starter = 1 unit, sweet = 2 units, main course = 4 units, = 7 units in total. Therefore, cost per unit = £56 ÷ 7 = £8.00. The main course, therefore, cost 4 × 8 = 32 (or £8.00 per person);",
+    "image": null
+  },
+  {
+    "id": 110,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 30,
+    "question": "aplomb, dodge, graph, jerk, ? What comes next? laugh, maroon, link, nickel, midnight",
+    "options": [
+      "maroon",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "maroon: the letters start and finish with the alphabetic sequence: ABcDEfGHiJKlMN;",
+    "image": null
+  },
+  {
+    "id": 111,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 31,
+    "question": "What comes next? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: the top arm moves 45° clockwise at each stage and the bottom arm moves 90° clockwise;",
+    "image": "ultimate_test3_q31.png"
+  },
+  {
+    "id": 112,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 32,
+    "question": "14 22 34 41 53 ? What number should replace the question mark?",
+    "options": [
+      "55",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "55: each number indicates its position in the grid. 55 indicates row 5 column 5;",
+    "image": "ultimate_test3_q32.png"
+  },
+  {
+    "id": 113,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 33,
+    "question": "OVATE GNOME is an anagram of which familiar phrase (3, 1, 4, 2)? Clue: make haste.",
+    "options": [
+      "GET A MOVE ON",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "GET A MOVE ON;",
+    "image": null
+  },
+  {
+    "id": 114,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 34,
+    "question": "is to: as: is to: A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: only dots that appear in the same position just twice in the first three hexa­ gons are carried forward to the final hexagons;",
+    "image": "ultimate_test3_q34.png"
+  },
+  {
+    "id": 115,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 35,
+    "question": "268 11 359 ? 17 516 263 16 What number should replace the question mark?",
+    "options": [
+      "12",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "12: add the digits of each three-figure number to obtain the two-digit numbers;",
+    "image": "ultimate_test3_q35.png"
+  },
+  {
+    "id": 116,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 36,
+    "question": "R I N T O G N S A S D A T E T C H Find the starting point and work from letter to adjacent letter vertically, horizon­ tally and diagonally to spell out a 17-letter phrase (2, 7, 8).",
+    "options": [
+      "NO STRINGS ATTACHED",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "NO STRINGS ATTACHED;",
+    "image": "ultimate_test3_q36.png"
+  },
+  {
+    "id": 117,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 37,
+    "question": "Which is the missing tile? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: in each row and column only lines that are common to the first two squares are carried forward to the final square;",
+    "image": "ultimate_test3_q37.png"
+  },
+  {
+    "id": 118,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 38,
+    "question": "At each stage the black dot moves three corners clockwise and the white dot moves four corners anticlockwise. After how many stages will both dots be together in the same corner?",
+    "options": [
+      "They will never appear together in the same corner as in a heptagon three corners clockwise is the same as four corners anticlockwise",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "They will never appear together in the same corner as in a heptagon three corners clockwise is the same as four corners anticlockwise;",
+    "image": "ultimate_test3_q38.png"
+  },
+  {
+    "id": 119,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 39,
+    "question": "A A S G P A H A M R S E E I I U G A * * * * * * * * * The name of which reptile can be placed on the bottom row to complete nine three-letter words reading downwards?",
+    "options": [
+      "CHAMELEON",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "CHAMELEON: to produce ARC, ASH, SEA, GEM, PIE, AIL, HUE, AGO, MAN;",
+    "image": null
+  },
+  {
+    "id": 120,
+    "category": "Ultimate IQ Test 3",
+    "test_num": 3,
+    "q_num": 40,
+    "question": "8 27 6 21 54 24 42 18 9 30 5 ? 60 27 ? ? What numbers should replace the question marks?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test3_q40.png"
+  },
+  {
+    "id": 121,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 1,
+    "question": "What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: the inner hexagon is being dismantled one side at a time working anti- clockwise, while the outer hexagon is being constructed one side at a time working clockwise;",
+    "image": "ultimate_test4_q01.png"
+  },
+  {
+    "id": 122,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 2,
+    "question": "100, 97.4, 94.8, ?, 89.6, 87 What number should replace the question mark?",
+    "options": [
+      "92.2",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "92.2: deduct 2.6 at each stage;",
+    "image": null
+  },
+  {
+    "id": 123,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 3,
+    "question": "E A D I P A Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
+    "options": [
+      "DISAPPEAR",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "DISAPPEAR;",
+    "image": "ultimate_test4_q03.png"
+  },
+  {
+    "id": 124,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 4,
+    "question": "Which number is the odd one out? 9654 4832 5945 7642 7963 8216 3649",
+    "options": [
+      "3649",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "3649: in all the others multiply the first two digits together to produce the number formed by the last two digits;",
+    "image": null
+  },
+  {
+    "id": 125,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 5,
+    "question": "Which two words are closest in meaning? qualified, practicable, puissant, feasible, mundane, fine",
+    "options": [
+      "practicable, feasible",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "practicable, feasible;",
+    "image": null
+  },
+  {
+    "id": 126,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 6,
+    "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. FIRST (second, next, last) PENULTIMATE (last, third, previous)",
+    "options": [
+      "second, last",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "second, last;",
+    "image": null
+  },
+  {
+    "id": 127,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 7,
+    "question": "Find five consecutive numbers below that total 23. 6 2 9 3 4 7 2 9 3 2 6 4 9 1 2",
+    "options": [
+      "72932; 8 Vertical lines turn dotted, one at a time at each stage. One horizontal line is added at each stage, and the previous lines become dotted; 9 dishevelled",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "72932; 8 Vertical lines turn dotted, one at a time at each stage. One horizontal line is added at each stage, and the previous lines become dotted; 9 dishevelled;",
+    "image": null
+  },
+  {
+    "id": 128,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 8,
+    "question": "? Draw the missing figure in the above sequence.",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test4_q08.png"
+  },
+  {
+    "id": 129,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 9,
+    "question": "Which word in brackets is most opposite to the word in capitals? SLEEK (sordid, unimaginative, disorderly, dishevelled, oblique)",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 130,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 10,
+    "question": "36 48 1216 24 72 824 42 51 ? What number should replace the question mark?",
+    "options": [
+      "1417",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "1417: 42 ÷ 3 = 14, 51 ÷ 3 = 17;",
+    "image": "ultimate_test4_q10.png"
+  },
+  {
+    "id": 131,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 11,
+    "question": "Change one letter only in each of the words below to produce a familiar phrase. AND FEEL SO TIE WIRE",
+    "options": [
+      "ADD FUEL TO THE FIRE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "ADD FUEL TO THE FIRE;",
+    "image": null
+  },
+  {
+    "id": 132,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 12,
+    "question": "Which is the odd one out? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: the rest are the same figure rotated;",
+    "image": "ultimate_test4_q12.png"
+  },
+  {
+    "id": 133,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 13,
+    "question": "Which is the odd one out? trivet, tributary, triptych, trident, triad",
+    "options": [
+      "tributary",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "tributary: in the other words the prefix tri- refers to three;",
+    "image": null
+  },
+  {
+    "id": 134,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 14,
+    "question": "5 9 2 3 8 4 5 14 11 19 13 6 ? 20 27 What number should replace the question mark?",
+    "options": [
+      "7",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "7: the numbers round the centre increase by seven (in the others they increase by three and five respectively);",
+    "image": "ultimate_test4_q14.png"
+  },
+  {
+    "id": 135,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 15,
+    "question": "5862 is to 714 and 3498 is to 1113 and 9516 is to 156 therefore 8257 is to ?",
+    "options": [
+      "157",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "157: 7 + 8 = 15, 2 + 5 = 7;",
+    "image": null
+  },
+  {
+    "id": 136,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 16,
+    "question": "Which is the missing tile? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: looking across an outer circle is removed, looking down an outer circle is added;",
+    "image": "ultimate_test4_q16.png"
+  },
+  {
+    "id": 137,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 17,
+    "question": "mohair is to wool as shantung is to: silk, cotton, linen, nylon, fabric",
+    "options": [
+      "silk",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "silk;",
+    "image": null
+  },
+  {
+    "id": 138,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 18,
+    "question": "Place the numbers 1–6 into the circles, one number per circle, so that: the sum of the numbers 4 and 1, and all the numbers between them total 12; the sum of the numbers 4 and 6, and all the numbers between them total 21; the sum of the numbers 2 and 1, and all the numbers between them total 8.",
+    "options": [
+      "425136 or 631524",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "425136 or 631524;",
+    "image": "ultimate_test4_q18.png"
+  },
+  {
+    "id": 139,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 19,
+    "question": "If meat in a river (3 in 6) is T(HAM)ES, can you find a monkey in a tall building (3 in 10)?",
+    "options": [
+      "SKYSCR(APE)R",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "SKYSCR(APE)R;",
+    "image": null
+  },
+  {
+    "id": 140,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 20,
+    "question": "What comes next in the above sequence? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: looking across, the dot in the top left-hand quarter moves to the opposite corner, the dot in the top right-hand quarter moves one corner anticlockwise at each stage, the dot in the bottom left-hand quarter moves between the top two corners, and the dot in the bottom right-hand quarter moves one corner clockwise at each stage;",
+    "image": "ultimate_test4_q20.png"
+  },
+  {
+    "id": 141,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 21,
+    "question": "? Which arc is missing? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: the first three arcs are being repeated; and the position of the arc shifts 180°;",
+    "image": "ultimate_test4_q21.png"
+  },
+  {
+    "id": 142,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 22,
+    "question": "Which four bits can be joined together to form two words that have opposite meanings? ERT, UCE, DES, END, EXP, EAR, AND, SIP, RED, GOS",
+    "options": [
+      "EXPAND, REDUCE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "EXPAND, REDUCE;",
+    "image": null
+  },
+  {
+    "id": 143,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 23,
+    "question": "7 10 13 16 9 12 ? 18 11 ? ? 20 13 16 19 22 Which is the missing section? 16 15 15 16 14 17 14 17 15 18 15 18 D C B A",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: looking across each line add three; looking down each column add two;",
+    "image": "ultimate_test4_q23.png"
+  },
+  {
+    "id": 144,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 24,
+    "question": "Identify two words that sound alike but are spelled differently, which mean: a straight line connecting two points on a curve rope",
+    "options": [
+      "chord, cord",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "chord, cord;",
+    "image": null
+  },
+  {
+    "id": 145,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 25,
+    "question": "Find the ages of Mary, George, Alice, Claire and Stephen if: Mary + George = 33 years between them Alice + Claire = 95 years between them Stephen + Mary = 72 years between them Mary + Claire = 87 years between them Stephen + George = 73 years between them",
+    "options": [
+      "Mary 16, George 17, Alice 24, Stephen 56, Claire 71",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Mary 16, George 17, Alice 24, Stephen 56, Claire 71;",
+    "image": null
+  },
+  {
+    "id": 146,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 26,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: looking across and down, lines are carried forward from the first two squares to the final square when they appear in the same position twice in the first two squares. However, they then change from complete to broken lines, and vice versa;",
+    "image": "ultimate_test4_q26.png"
+  },
+  {
+    "id": 147,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 27,
+    "question": "Using the four letters below only, create a seven-letter word. CILT",
+    "options": [
+      "ILLICIT",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "ILLICIT;",
+    "image": null
+  },
+  {
+    "id": 148,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 28,
+    "question": "53 (3) 59 92 (4) 98 34 (2) 38 71 (?) 79 What number should replace the question mark?",
+    "options": [
+      "9",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "9: (7 × 9) ÷ (7 × 1);",
+    "image": null
+  },
+  {
+    "id": 149,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 29,
+    "question": "C E I S W R P O I F L O L D L E Work clockwise round the circles to spell out two eight-letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
+    "options": [
+      "FOLLOWER, DISCIPLE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "FOLLOWER, DISCIPLE;",
+    "image": "ultimate_test4_q29.png"
+  },
+  {
+    "id": 150,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 30,
+    "question": "? Draw the missing figure in the above sequence.",
+    "options": [
+      "The white dot moves corner/side/corner anticlockwise and the black dot does the same clockwise",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "The white dot moves corner/side/corner anticlockwise and the black dot does the same clockwise;",
+    "image": "ultimate_test4_q30.png"
+  },
+  {
+    "id": 151,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 31,
+    "question": "abashed, derail, little, ? What comes next? mellow, entail, leader, elicit, status",
+    "options": [
+      "elicit",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "elicit: the following word begins with the last two letters of the previous word reversed;",
+    "image": null
+  },
+  {
+    "id": 152,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 32,
+    "question": "Produce an eight-letter word by joining together two of these four-letter sets. cred, agon, lues, once, deva, some, come, pent",
+    "options": [
+      "pentagon",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "pentagon;",
+    "image": null
+  },
+  {
+    "id": 153,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 33,
+    "question": "20 14 12 24 33 3 10 16 15 18 17 7 4 8 6 5 1 9 30 36 39 21 13 2 11 What number is three places away from itself plus three, two places away from itself multiplied by two, two places away from itself less four and two places away from itself divided by three?",
+    "options": [
+      "9",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "9;",
+    "image": "ultimate_test4_q33.png"
+  },
+  {
+    "id": 154,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 34,
+    "question": "? What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: looking across the squares, the top left corner alternates one line/two lines/three lines; the top right corner alternates line right vertical/line left vertical; the bottom left corner alternates top horizontal/bottom horizontal and the bottom right corner alternates diagonal between opposite corners;",
+    "image": "ultimate_test4_q34.png"
+  },
+  {
+    "id": 155,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 35,
+    "question": "What percentage of the figure is shaded?",
+    "options": [
+      "5/8 or 0.625 or 62.5 per cent",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "5/8 or 0.625 or 62.5 per cent;",
+    "image": "ultimate_test4_q35.png"
+  },
+  {
+    "id": 156,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 36,
+    "question": "A B H C G F D E What letter is two letters away clockwise from the letter that is directly opposite the letter three letters away anticlockwise from the letter C?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 5,
+    "reasoning": "F;",
+    "image": "ultimate_test4_q36.png"
+  },
+  {
+    "id": 157,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 37,
+    "question": "B E R I E T A Spiral clockwise round the perimeter and finish at the centre square to spell out a nine-letter word. You must find the starting point and provide the missing letters.",
+    "options": [
+      "HIBERNATE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "HIBERNATE;",
+    "image": "ultimate_test4_q37.png"
+  },
+  {
+    "id": 158,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 38,
+    "question": "What is one-third of one-quarter of one-fifth of one-half of 120?",
+    "options": [
+      "1",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "1: work backwards from 120; that is, 120 – 60 – 12 – 3 – 1;",
+    "image": null
+  },
+  {
+    "id": 159,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 39,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: all lines are continued. However, wavy lines become straight and vice versa;",
+    "image": "ultimate_test4_q39.png"
+  },
+  {
+    "id": 160,
+    "category": "Ultimate IQ Test 4",
+    "test_num": 4,
+    "q_num": 40,
+    "question": "1 10 7 16 28 19 22 13 25 34 31 40 ? 43 46 37 What number should replace the question mark?",
+    "options": [
+      "52",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "52: start at the top left corner and work along the top line, then back along the second line, etc, adding nine then deducting three.",
+    "image": "ultimate_test4_q40.png"
+  },
+  {
+    "id": 161,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 1,
+    "question": "Which is the odd one out? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: it has three white and one black on the left and three black and one white on the right. The rest are the opposite way round;",
+    "image": "ultimate_test5_q01.png"
+  },
+  {
+    "id": 162,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 2,
+    "question": "Which word in brackets is most opposite in meaning to the word in capitals? REVERENT (candid, lucid, cheeky, content, culpable)",
+    "options": [
+      "cheeky",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "cheeky;",
+    "image": null
+  },
+  {
+    "id": 163,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 3,
+    "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. COCHLEA (shell, ear, brain) CEREBELLUM (heart, nose, brain)",
+    "options": [
+      "ear, brain",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "ear, brain;",
+    "image": null
+  },
+  {
+    "id": 164,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 4,
+    "question": "Which number is the odd one out? 3647 2536 5869 6957 1425 4758",
+    "options": [
+      "6957",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "6957: all the rest progress +3, –2, +3;",
+    "image": null
+  },
+  {
+    "id": 165,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 5,
+    "question": "C M I A N I A I Read clockwise to find a 16-letter word. Only alternate letters have been shown, and you have to find the starting point.",
+    "options": [
+      "CIRCUMNAVIGATION",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "CIRCUMNAVIGATION;",
+    "image": "ultimate_test5_q05.png"
+  },
+  {
+    "id": 166,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 6,
+    "question": "How many lines appear below?",
+    "options": [
+      "12",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "12;",
+    "image": "ultimate_test5_q06.png"
+  },
+  {
+    "id": 167,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 7,
+    "question": "0, 1, 2, 5, 20, 25, ?, ? What two numbers should replace the question marks?",
+    "options": [
+      "150, 157",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "150, 157: the sequence progresses +1, ×2, +3, ×4, +5, ×6, +7;",
+    "image": null
+  },
+  {
+    "id": 168,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 8,
+    "question": "Which is the odd one out? exacerbate, alleviate, amplify, escalate, inflate",
+    "options": [
+      "alleviate",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "alleviate: it means to lessen, the rest meaning to increase;",
+    "image": null
+  },
+  {
+    "id": 169,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 9,
+    "question": "9 8 5 6 6 2 8 1 8 3 6 4 ? 5 7 What number should replace the question mark?",
+    "options": [
+      "4",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "4: (6 + 7) – (4 + 5);",
+    "image": "ultimate_test5_q09.png"
+  },
+  {
+    "id": 170,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 10,
+    "question": "The name of which creature can be placed on the bottom row to complete seven three-letter words reading downwards? D A S A M Y W U R A G A O A * * * * * * *",
+    "options": [
+      "OCTOPUS",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "OCTOPUS: to produce DUO, ARC, SAT, AGO, MAP, YOU, WAS;",
+    "image": null
+  },
+  {
+    "id": 171,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 11,
+    "question": "What comes next? A B C D E F",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: at each stage the third circle moves to the end and the sixth circle moves to the beginning;",
+    "image": "ultimate_test5_q11.png"
+  },
+  {
+    "id": 172,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 12,
+    "question": "9 7 6 4 3 8 8 8 5 6 ? 8 7 5 2 7 7 9 What number should replace the question mark?",
+    "options": [
+      "8",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "8: the number in the middle is the average of the numbers round the outside. So, 7 + 8 + 9 + 7 + 8 + 9 = 48, and 48 ÷ 6 = 8;",
+    "image": "ultimate_test5_q12.png"
+  },
+  {
+    "id": 173,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 13,
+    "question": "N E A T M M I Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
+    "options": [
+      "MAGNETISM",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "MAGNETISM;",
+    "image": "ultimate_test5_q13.png"
+  },
+  {
+    "id": 174,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 14,
+    "question": "In eight years time the combined age of me and my two sons will be 124. What will it be in five years time?",
+    "options": [
+      "115",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "115: in eight years the combined age is 124; the age now is 124 – (8 × 3) = 100. Age in five years is 100 + (5 × 3) = 115;",
+    "image": null
+  },
+  {
+    "id": 175,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 15,
+    "question": "Which two words are closest in meaning? old, stiff, ripe, pure, uniform, mellow",
+    "options": [
+      "ripe, mellow",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "ripe, mellow;",
+    "image": null
+  },
+  {
+    "id": 176,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 16,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: all lines carry on and change from dotted to unbroken, and vice versa;",
+    "image": "ultimate_test5_q16.png"
+  },
+  {
+    "id": 177,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 17,
+    "question": "abyss is to chasm as fissure is to: crevice, recess, gorge, canyon, opening",
+    "options": [
+      "crevice",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "crevice;",
+    "image": null
+  },
+  {
+    "id": 178,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 18,
+    "question": "Jack is twice as old as Jill, but in five years time he will only be one and a half times as old. How old are Jack and Jill now?",
+    "options": [
+      "Jack 10 and Jill 5",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Jack 10 and Jill 5;",
+    "image": null
+  },
+  {
+    "id": 179,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 19,
+    "question": "Change one letter only in each of the words below to produce a familiar phrase: HOME SO LINE",
+    "options": [
+      "COME TO LIFE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "COME TO LIFE;",
+    "image": "ultimate_test5_q19.png"
+  },
+  {
+    "id": 180,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 20,
+    "question": "? Draw the missing figure in the above sequence.",
+    "options": [
+      "The sequence progresses circle, triangle, diamond, with alternate horizontal/ vertical lines",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "The sequence progresses circle, triangle, diamond, with alternate horizontal/ vertical lines;",
+    "image": "ultimate_test5_q20.png"
+  },
+  {
+    "id": 181,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 21,
+    "question": "1000, 865, ?, 595, 460, 325 What number should replace the question mark?",
+    "options": [
+      "730",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "730: deduct 135 each time;",
+    "image": null
+  },
+  {
+    "id": 182,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 22,
+    "question": "Which shield below has most in common with the shield above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: it contains four black dots and three white;",
+    "image": "ultimate_test5_q22.png"
+  },
+  {
+    "id": 183,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 23,
+    "question": "Identify two words that sound alike, but are spelled differently, which mean: potency small insect",
+    "options": [
+      "might/mite",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "might/mite;",
+    "image": null
+  },
+  {
+    "id": 184,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 24,
+    "question": "14 26 28 91 18 89 57 177 22 189 16 7 Multiply the lowest even number in the grid by the highest odd number.",
+    "options": [
+      "2646 (14 × 189)",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "2646 (14 × 189);",
+    "image": "ultimate_test5_q24.png"
+  },
+  {
+    "id": 185,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 25,
+    "question": "What is the meaning of laconic? dull, uninspiring tearful using few words emotionally unstable sarcastic",
+    "options": [
+      "using few words",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "using few words;",
+    "image": null
+  },
+  {
+    "id": 186,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 26,
+    "question": "A S T A E T E R L O G R A T Work clockwise round each circle to spell out two eight-letter words that are synonymous. You have to find the starting points and provide the missing letters.",
+    "options": [
+      "SATURATE, WATERLOG",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "SATURATE, WATERLOG;",
+    "image": "ultimate_test5_q26.png"
+  },
+  {
+    "id": 187,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 27,
+    "question": "17, 4, 29, 13, 41, 22, 53, 31, ? What number should replace the question mark?",
+    "options": [
+      "65",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "65: there are two alternate sequences: +12 and +9;",
+    "image": null
+  },
+  {
+    "id": 188,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 28,
+    "question": "What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: the large rectangle is being dismantled, half a side at a time anticlockwise; the small rectangle is being constructed half a side at a time clockwise;",
+    "image": "ultimate_test5_q28.png"
+  },
+  {
+    "id": 189,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 29,
+    "question": "T I E M T N O Spiral clockwise round the perimeter and finish at the centre square to spell out a nine-letter word. You must find the starting point and provide the missing letters.",
+    "options": [
+      "TESTIMONY",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "TESTIMONY;",
+    "image": "ultimate_test5_q29.png"
+  },
+  {
+    "id": 190,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 30,
+    "question": "8 12 ? 18 11 5 16 19 4 What number should replace the question mark?",
+    "options": [
+      "6",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "6: so that the numbers in the triangles, squares and circles add up to 33;",
+    "image": "ultimate_test5_q30.png"
+  },
+  {
+    "id": 191,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 31,
+    "question": "To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: so that one dot appears in one triangle and the other dot appears in two triangles (in the example the right-hand side forms a small triangle and a larger triangle and the dot is in both);",
+    "image": "ultimate_test5_q31.png"
+  },
+  {
+    "id": 192,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 32,
+    "question": "ENGLAND GOLF SCOTLAND TENNIS WALES Three teams, from England, Scotland and Wales, are competing for two trophies, one for golf and one for tennis. How many different outcomes of the two competitions exist? 6, 8, 9 or 12?",
+    "options": [
+      "9",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "9: the alternatives are: England win both golf and tennis, Scotland win both golf and tennis, Wales win both golf and tennis, England win golf, Scotland win tennis, Scotland win golf, England win tennis, England win golf, Wales win tennis, Wales win golf, England win tennis, Scotland win golf, Wales win tennis, Wales win golf, Scotland win tennis;",
+    "image": "ultimate_test5_q32.png"
+  },
+  {
+    "id": 193,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 33,
+    "question": "Which is the odd one out? statement, fluster, retirement, restful, testament",
+    "options": [
+      "retirement",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "retirement: statement/testament and fluster/restful are anagram pairs;",
+    "image": null
+  },
+  {
+    "id": 194,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 34,
+    "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on = ON = OFF Switches B, D, A and C are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
+    "options": [
+      "Switch A is faulty",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "Switch A is faulty;",
+    "image": "ultimate_test5_q34.png"
+  },
+  {
+    "id": 195,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 35,
+    "question": "5 7 4 3 1 1 2 2 6 5 6 6 5 ? 1 2 What number should replace the question mark?",
+    "options": [
+      "2",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "2: so that each square block of four numbers totals 15;",
+    "image": "ultimate_test5_q35.png"
+  },
+  {
+    "id": 196,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 36,
+    "question": "? What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: the small ellipse moves 45° clockwise and alternates inside/outside of the larger ellipse;",
+    "image": "ultimate_test5_q36.png"
+  },
+  {
+    "id": 197,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 37,
+    "question": "Find two words (7, 4) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away, it will be found by tracing around the circumference. Clue: may be difficult to swim over. A Z B Y C D X E W F V G U T H I S R J Q P O N M L K",
+    "options": [
+      "BARRIER REEF",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "BARRIER REEF;",
+    "image": "ultimate_test5_q37.png"
+  },
+  {
+    "id": 198,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 38,
+    "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is immediately to the left of the letter that is immediately below the letter two to the left of the letter I?",
+    "options": [
+      "K",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "K;",
+    "image": "ultimate_test5_q38.png"
+  },
+  {
+    "id": 199,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 39,
+    "question": "Which number is the odd one out? 3861 8712 5247 4356 1485 3645",
+    "options": [
+      "3645",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "3645: in all the others the number formed by the first two digits added to the number formed by the second two digits equals 99;",
+    "image": null
+  },
+  {
+    "id": 200,
+    "category": "Ultimate IQ Test 5",
+    "test_num": 5,
+    "q_num": 40,
+    "question": "Which is the missing tile? A B C D E F G H",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: looking across and down, only dots that appear in the same position in the first two squares are carried forward to the third square; however, they then change from black to white and vice versa.",
+    "image": "ultimate_test5_q40.png"
+  },
+  {
+    "id": 201,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 1,
+    "question": "T S I L A E O C L E C T A F U T U Each square contains the letters of a nine-letter word. Find the two words that are similar in meaning.",
+    "options": [
+      "OSCILLATE, FLUCTUATE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "OSCILLATE, FLUCTUATE;",
+    "image": "ultimate_test6_q01.png"
+  },
+  {
+    "id": 202,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 2,
+    "question": "1, 3, 4, 7, 11, 18, 29, ? What number should replace the question mark?",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 203,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 3,
+    "question": "Which four bits can be joined together to form two words that have opposite meanings? ant, ert, uce, ire, ill, and, red, tic, exp",
+    "options": [
+      "expand, reduce",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "expand, reduce;",
+    "image": null
+  },
+  {
+    "id": 204,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 4,
+    "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test6_q04.png"
+  },
+  {
+    "id": 205,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 5,
+    "question": "blanch is to boil as sauté is to: simmer, fry, soak, roast, garnish",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 206,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 6,
+    "question": "In a game of eight players lasting for 70 minutes, six substitutes alternate with each player. This means that all players, including the substitutes, are on the pitch for the same length of time. For how long?",
+    "options": [
+      "40 minutes",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "40 minutes: (70 × 8) ÷ 14. Total time for eight players = 70 × 8 = 560 minutes. However, as 14 people are each on the pitch for an equal length of time, they are each on the pitch for 40 minutes (560 ÷ 14);",
+    "image": null
+  },
+  {
+    "id": 207,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 7,
+    "question": "If 2 = H are BTO is two heads are better than one, what is the meaning of 2 = S to ES?",
+    "options": [
+      "two sides to every story",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "two sides to every story;",
+    "image": null
+  },
+  {
+    "id": 208,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 8,
+    "question": "Which three of the four pieces below can be fitted together to form a perfect square? A B C D",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C B D",
+    "image": "ultimate_test6_q08.png"
+  },
+  {
+    "id": 209,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 9,
+    "question": "Which is the odd one out? parabolic, lancet, abutment, trefoil, ogee",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 210,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 10,
+    "question": "8 3 4 9 4 6 12 2 ? Look at lines both across and down and work out which number should replace the question mark.",
+    "options": [
+      "4",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "4: in each row and column in order to arrive at the final number multiply the first two numbers together and divide by 6;",
+    "image": "ultimate_test6_q10.png"
+  },
+  {
+    "id": 211,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 11,
+    "question": "A B H C G F D E What letter is directly opposite the letter two places anticlockwise away from the letter directly opposite the letter H?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 5,
+    "reasoning": "F;",
+    "image": "ultimate_test6_q11.png"
+  },
+  {
+    "id": 212,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 12,
+    "question": "Which is the missing tile? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "D: looking both across and down, only lines that appear in both the first two squares are carried forward to the third square;",
+    "image": "ultimate_test6_q12.png"
+  },
+  {
+    "id": 213,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 13,
+    "question": "Change one letter only in each of the words below to produce a familiar phrase: SO LID ON WANT",
+    "options": [
+      "TO LIE IN WAIT",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "TO LIE IN WAIT;",
+    "image": null
+  },
+  {
+    "id": 214,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 14,
+    "question": "Insert the numbers 1–5 in the circles so that for any particular circle the sum of the numbers in the circles connected directly to it equals the value corre­ sponding to the number in that circle as given in the list. 1 4 7 Example: 3 1 = 14 (4 + 3 + 7) 3 = 5 (4 + 1) 4 = 4 (1 + 3) 7 = 1 1 = 4 2 = 12 3 = 7 4 = 8 5 = 9",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": "ultimate_test6_q14.png"
+  },
+  {
+    "id": 215,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 15,
+    "question": "A C O I N A P Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
+    "options": [
+      "PANORAMIC",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "PANORAMIC;",
+    "image": "ultimate_test6_q15.png"
+  },
+  {
+    "id": 216,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 16,
+    "question": "? Which circle should replace the question mark? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: only lines and symbols that appear just twice in the outer circles appear in the inner circle;",
+    "image": "ultimate_test6_q16.png"
+  },
+  {
+    "id": 217,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 17,
+    "question": "I G R C N A C T S U M B L I Find two eight-letter words reading clockwise in each circle. The words are antonyms. You have to find the starting point of each word, and provide the missing letter.",
+    "options": [
+      "× × = × = ×",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "× × = × = ×",
+    "image": "ultimate_test6_q17.png"
+  },
+  {
+    "id": 218,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 18,
+    "question": "Which of the following is not an anagram of a type of building? delta arch raiment cleats the Arctic a blowgun",
+    "options": [
+      "the Arctic = architect. The buildings are",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "the Arctic = architect. The buildings are: cathedral (delta arch), minaret (raiment), castle (cleats), bungalow (a blowgun);",
+    "image": null
+  },
+  {
+    "id": 219,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 19,
+    "question": "If five men can build a house in 16 days, how long will it take just two men to build the same house, assuming all men work at the same rate?",
+    "options": [
+      "40 days",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "40 days: five men take 5 × 16 = 80 man days to build the house. Two men will, therefore, take 40 days to build the house (80 ÷ 2);",
+    "image": null
+  },
+  {
+    "id": 220,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 20,
+    "question": "? Which circle should replace the question mark? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "reasoning": "A: each pair of circles are mirror images of each other;",
+    "image": "ultimate_test6_q20.png"
+  },
+  {
+    "id": 221,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 21,
+    "question": "What comes next? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "reasoning": "E: the number of sides reduces by one at each stage, and the section two clockwise from the single white dot disappears;",
+    "image": "ultimate_test6_q21.png"
+  },
+  {
+    "id": 222,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 22,
+    "question": "Change one letter only in each word to produce a familiar phrase: cone do line",
+    "options": [
+      "come to life",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "come to life;",
+    "image": null
+  },
+  {
+    "id": 223,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 23,
+    "question": "IQS: LNV JRM: ? LOP, MOP, LIP, MOW or KIP?",
+    "options": [
+      "MOP. JklM – RqpO – MnoP",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "MOP. JklM – RqpO – MnoP;",
+    "image": null
+  },
+  {
+    "id": 224,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 24,
+    "question": "742 (8710) 138 395 (12167) 972 819 ( ? ) 356 What number should replace the question mark?",
+    "options": [
+      "11615",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "11615: 8 + 3 = 11; 1 + 5 = 6; 9 + 6 = 15;",
+    "image": null
+  },
+  {
+    "id": 225,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 25,
+    "question": "FAIRER BEETLE is an anagram of which two words that are similar in meaning?",
+    "options": [
+      "FREE, LIBERATE",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "FREE, LIBERATE;",
+    "image": null
+  },
+  {
+    "id": 226,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 26,
+    "question": "Which hexagon below has most in common with the hexagon above? A B C D E",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "reasoning": "C: the two circles overlap each other and the square; the triangle and square overlap;",
+    "image": "ultimate_test6_q26.png"
+  },
+  {
+    "id": 227,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 27,
+    "question": "Identify two words that sound alike but are spelled differently, which mean: regrets artifice",
+    "options": [
+      "rues/ruse",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "rues/ruse;",
+    "image": null
+  },
+  {
+    "id": 228,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 28,
+    "question": "Simplify: 27 74 9 37 6 17 ÷ × to the lowest fraction.",
+    "options": [
+      "",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "",
+    "image": null
+  },
+  {
+    "id": 229,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 29,
+    "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is two letters to the right of the letter two letters above the letter four letters to the left of the letter Z?",
+    "options": [
+      "N",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "N;",
+    "image": "ultimate_test6_q29.png"
+  },
+  {
+    "id": 230,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 30,
+    "question": "Draw the missing figure in the above sequence.",
+    "options": [
+      "At each stage lines are added to a new corner working anticlockwise and a new line is added to corners already containing a line",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "At each stage lines are added to a new corner working anticlockwise and a new line is added to corners already containing a line;",
+    "image": "ultimate_test6_q30.png"
+  },
+  {
+    "id": 231,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 31,
+    "question": "3 1 4 7 2 8 ? 6 4 3 What number should replace the question mark?",
+    "options": [
+      "6",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "6: 36 × 2 = 72; 14 × 2 = 28 and 43 × 2 = 86;",
+    "image": "ultimate_test6_q31.png"
+  },
+  {
+    "id": 232,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 32,
+    "question": "night long boat house ? What comes next? calm, hold, panic, wind, post",
+    "options": [
+      "hold",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "hold: to form compound words: nightlong, longboat, boathouse, household;",
+    "image": null
+  },
+  {
+    "id": 233,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 33,
+    "question": "rifle is to firearm as cutlass is to: blade, sword, weapon, steel, sever",
+    "options": [
+      "sword",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "sword;",
+    "image": null
+  },
+  {
+    "id": 234,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 34,
+    "question": "6 7 9 16 4 3 2 4 6 11 5 32 18 10 13 ? What number should replace the question mark?",
+    "options": [
+      "32",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "32: 6 × 4 = 6 + 18, 7 × 3 = 11 + 10, 9 × 2 = 5 + 13, 16 × 4 = 32 + 32;",
+    "image": "ultimate_test6_q34.png"
+  },
+  {
+    "id": 235,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 35,
+    "question": "Which is the missing section? A B C D",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: looking across and down add another circle, alternating black/white, to alternate squares;",
+    "image": "ultimate_test6_q35.png"
+  },
+  {
+    "id": 236,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 36,
+    "question": "7 4 2 6 3 5 8 1 9 What is the difference between the average of the numbers above and the sec­ ond lowest even number?",
+    "options": [
+      "1",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "1: average 45 ÷ 9= 5; second lowest even number = 4;",
+    "image": null
+  },
+  {
+    "id": 237,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 37,
+    "question": "How much does a bag of flour weigh if it weighs 1 kilogram plus the weight of half the bag of flour?",
+    "options": [
+      "2 kilograms",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "2 kilograms: half weight = 1 kg (+1 kg) =2 kg;",
+    "image": null
+  },
+  {
+    "id": 238,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 38,
+    "question": "Fill in the missing letters to find two types of tree: *U*A*Y**** *A*D*L*O**",
+    "options": [
+      "EUCALYPTUS, SANDALWOOD",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "EUCALYPTUS, SANDALWOOD;",
+    "image": null
+  },
+  {
+    "id": 239,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 39,
+    "question": "9 7 6 11 13 ? 5 3 8 2 8 9 What number should replace the question mark?",
+    "options": [
+      "5",
+      "None of the above",
+      "Cannot be determined",
+      "Opposite"
+    ],
+    "correct": 0,
+    "reasoning": "5: (6 + 8) – 9;",
+    "image": "ultimate_test6_q39.png"
+  },
+  {
+    "id": 240,
+    "category": "Ultimate IQ Test 6",
+    "test_num": 6,
+    "q_num": 40,
+    "question": "? Which is missing? A B C",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "reasoning": "B: so that each connected straight line of three circles contains one each of the three different types of star.",
+    "image": "ultimate_test6_q40.png"
+  }
+]
