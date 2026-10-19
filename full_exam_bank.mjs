@@ -225,10 +225,10 @@ export const fullExamBank = {
     {
       id: 31,
       image: "ultimate_test1_q31.png",
-      question: "In the sequence of circles, what is the position of the black dot?",
+      question: "In the sequence of circles, what is the position of the black dot in the missing figure?",
       options: ["Top", "Middle", "Bottom", "Left"],
-      correct: 1,
-      reasoning: "Official Answer: The black dot moves up then down by one position at each stage."
+      correct: 0,
+      reasoning: "Official Answer: Top. The black dot moves up then down by one position at each stage: Bottom -> Middle -> [TOP] -> Middle -> Bottom -> Middle -> Top."
     },
     {
       id: 32,

@@ -1660,15 +1660,15 @@
     "category": "Ultimate IQ Test 1",
     "test_num": 1,
     "q_num": 31,
-    "question": "Draw the missing figure in the above sequence.",
+    "question": "In the sequence of circles, what is the position of the black dot in the missing figure?",
     "options": [
-      "The black dot is moving up (then down) by one position at each stage",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Top",
+      "Middle",
+      "Bottom",
+      "Left"
     ],
     "correct": 0,
-    "reasoning": "The black dot is moving up (then down) by one position at each stage;",
+    "reasoning": "Official Answer: Top. The black dot moves up then down by one position at each stage: Bottom -> Middle -> [TOP] -> Middle -> Bottom -> Middle -> Top.",
     "image": "ultimate_test1_q31.png"
   },
   {
