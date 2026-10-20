@@ -38,6 +38,13 @@ if (fs.existsSync(largeIqJson)) {
   largeIqQuestions = JSON.parse(fs.readFileSync(largeIqJson, 'utf-8'));
 }
 
+// Load Profit & Loss Bank (IndiaBIX + Fatma El-Zahraa)
+const profitLossJson = path.join(__dirname, 'profit_loss_bank.json');
+let profitLossQuestions = [];
+if (fs.existsSync(profitLossJson)) {
+  profitLossQuestions = JSON.parse(fs.readFileSync(profitLossJson, 'utf-8'));
+}
+
 // User state: supports randomized non-repeating queue
 const userSessions = new Map();
 
@@ -77,6 +84,8 @@ function initUserQueue(chatId, mode) {
     sourcePool = fullExamBank.iq;
   } else if (mode === 'english') {
     sourcePool = fullExamBank.english;
+  } else if (mode === 'profit_loss') {
+    sourcePool = profitLossQuestions;
   }
 
   // Shuffle questions randomly so questions never repeat until all are exhausted!
@@ -161,8 +170,9 @@ async function sendQuestion(chatId) {
       parse_mode: 'HTML',
       reply_markup: {
         inline_keyboard: [
-          [{ text: '🔄 إعادة تشغيل بنك الـ 300 سؤال IQ عشوائياً', callback_data: 'mode_large_iq' }],
-          [{ text: '🇬🇧 تشغيل بنك الإنجليزي (40 سؤال)', callback_data: 'mode_english' }]
+          [{ text: '🔄 إعادة تشغيل بنك الـ 350+ سؤال IQ عشوائياً', callback_data: 'mode_large_iq' }],
+          [{ text: '💰 تدريب مسائل الربح والخسارة (IndiaBIX + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
+          [{ text: '🇬🇧 تشغيل بنك الإنجليزي (100+ سؤال)', callback_data: 'mode_english' }]
         ]
       }
     });
@@ -244,14 +254,16 @@ async function pollUpdates() {
           if (text === '/start' || text === '/quiz' || text === '/help') {
             await apiCall('sendMessage', {
               chat_id: chatId,
-              text: `👋 <b>أهلاً بك في بوت بنك أسئلة ITI الضخم!</b> 🎓\n\n` +
-                `🔥 <b>تم تحديث البنك ليشمل أكثر من 300 سؤال IQ بالصور الأصلية من ملف ليلة الامتحان وكتاب Advanced!</b>\n\n` +
+              text: `👋 <b>أهلاً بك في بوت بنك أسئلة ITI الشامل!</b> 🎓\n\n` +
+                `🔥 <b>تم تحديث البنك ليشمل أكثر من 350+ سؤال IQ بالصور الأصلية من ليلة الامتحان وكتاب ألتيمت!</b>\n` +
+                `💰 <b>تمت إضافة قسم خاص لمسائل الربح والخسارة Profit & Loss من IndiaBIX وشرح م/ فاطمة الزهراء!</b>\n\n` +
                 `✨ <b>ميزة عدم التكرار (No Repeat Shuffle):</b> الأسئلة بتظهر بترتيب عشوائي تماماً، والسؤال اللي تحله مش هيتكرر نهائياً غير لما تخلص البنك كله!\n\n` +
                 `اختر نوع الاختبار لتبدأ فوراً:`,
               parse_mode: 'HTML',
               reply_markup: {
                 inline_keyboard: [
-                  [{ text: '🔥 بنك الـ 320+ سؤال IQ (ليلة الامتحان + ألتيمت + باترن)', callback_data: 'mode_large_iq' }],
+                  [{ text: '🔥 بنك الـ 350+ سؤال IQ الشامل (ليلة الامتحان + ألتيمت + باترن)', callback_data: 'mode_large_iq' }],
+                  [{ text: '💰 مسائل الربح والخسارة Profit & Loss (الهند وبيكس + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
                   [{ text: '📘 40 سؤال Ultimate IQ (Test 1 الأصلي بالصور كاملة)', callback_data: 'mode_ultimate_40' }],
                   [{ text: '🇬🇧 بنك الـ 100+ سؤال English (المواقف Test 1 & 3 + ليلة الامتحان)', callback_data: 'mode_english' }]
                 ]
@@ -269,6 +281,9 @@ async function pollUpdates() {
 
           if (query.data === 'mode_large_iq') {
             initUserQueue(chatId, 'large_iq');
+            await sendQuestion(chatId);
+          } else if (query.data === 'mode_profit_loss') {
+            initUserQueue(chatId, 'profit_loss');
             await sendQuestion(chatId);
           } else if (query.data === 'mode_ultimate_40') {
             initUserQueue(chatId, 'ultimate_40');

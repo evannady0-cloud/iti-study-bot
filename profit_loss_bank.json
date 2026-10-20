@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1001,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+    "options": [
+      "4 4/7%",
+      "5 5/11%",
+      "10%",
+      "12%"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nCost Price (C.P.) = Rs. (4700 + 800) = Rs. 5500. Selling Price (S.P.) = Rs. 5800. Gain = (S.P.) - (C.P.) = Rs.(5800 - 5500) = Rs. 300. Gain % = 300 x 100 % = 5 5/5500% 11"
+  },
+  {
+    "id": 1002,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+    "options": [
+      "15",
+      "16",
+      "18",
+      "25"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nLet C.P. of each article be Re. 1 C.P. of x articles = Rs. x . S.P. of x articles = Rs. 20. Profit = Rs. (20 - x ). 20 - x x 100 = 25 x 2000 - 100 x = 25 x 125 x = 2000 x = 16. Video Explanation: https://youtu.be/sidqvjUoZxY"
+  },
+  {
+    "id": 1003,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+    "options": [
+      "66 2/3%",
+      "100",
+      "105 1/3%",
+      "120"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nLet C.P. be Rs. x and S.P. be Rs. y . Then, 3( y - x ) = (2 y - x ) y = 2 x . Profit = Rs. ( y - x ) = Rs. (2 x - x ) = Rs. x . Profit % = x x 100 % = 100% x Video Explanation: https://youtu.be/dPzF10mGsWE"
+  },
+  {
+    "id": 1004,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+    "options": [
+      "30%",
+      "70%",
+      "100%",
+      "250%"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nLet C.P.= Rs. 100. Then, Profit = Rs. 320, S.P. = Rs. 420. New C.P. = 125% of Rs. 100 = Rs. 125 New S.P. = Rs. 420. Profit = Rs. (420 - 125) = Rs. 295. Required percentage = 295 x 100 % = 1475 % = 70% (approximately). 420 21 Video Explanation: https://youtu.be/bQA8SB8ycbw"
+  },
+  {
+    "id": 1005,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\nC.P. of 6 toffees = Re. 1 S.P. of 6 toffees = 120% of Re. 1 = Rs. 6 5 For Rs. 6 , toffees sold = 6. 5 For Re. 1, toffees sold = 6 x 5 = 5. 6 Video Explanation: https://youtu.be/7wKrnZ0LKA8"
+  },
+  {
+    "id": 1006,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+    "options": [
+      "Rs. 2000",
+      "Rs. 2200",
+      "Rs. 2400",
+      "Data inadequate"
+    ],
+    "correct": 0,
+    "reasoning": "💡 Solution:\nLet C.P. be Rs. x . Then, 1920 - x x 100 = x - 1280 x 100 x x 1920 - x = x - 1280 2 x = 3200 x = 1600 Required S.P. = 125% of Rs. 1600 = Rs. 125 x 1600 = Rs 2000. 100 Video Explanation: https://youtu.be/0tTd5TwCspY"
+  },
+  {
+    "id": 1007,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+    "options": [
+      "Rs. 18.20",
+      "Rs. 70",
+      "Rs. 72",
+      "Rs. 88.25"
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\nC.P. = Rs. 100 x 392 = Rs. 1000 x 392 = Rs. 320 122.5 1225 Profit = Rs. (392 - 320) = Rs. 72. Video Explanation: https://youtu.be/a36nJFgh5yk"
+  },
+  {
+    "id": 1008,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+    "options": [
+      "Rs. 1090",
+      "Rs. 1160",
+      "Rs. 1190",
+      "Rs. 1202"
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\nS.P. = 85% of Rs. 1400 = Rs. 85 x 1400 = Rs. 1190 100 Video Explanation: https://youtu.be/jn0XIafQvAc"
+  },
+  {
+    "id": 1009,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+    "options": [
+      "3.5",
+      "4.5",
+      "5.6",
+      "6.5"
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\nCost Price of 1 toy = Rs. 375 = Rs. 31.25 12 Selling Price of 1 toy = Rs. 33 So, Gain = Rs. (33 - 31.25) = Rs. 1.75 Profit % = 1.75 x 100 % = 28 % = 5.6% 31.25 5 Video Explanation: https://youtu.be/MhswuvDVWzo"
+  },
+  {
+    "id": 1010,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+    "options": [
+      "30%",
+      "33 1/3%",
+      "35%",
+      "44%"
+    ],
+    "correct": 3,
+    "reasoning": "💡 Solution:\nSuppose, number of articles bought = L.C.M. of 6 and 5 = 30. C.P. of 30 articles = Rs. 5 x 30 = Rs. 25. 6 S.P. of 30 articles = Rs. 6 x 30 = Rs. 36. 5 Gain % = 11 x 100 % = 44%. 25"
+  },
+  {
+    "id": 1011,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
+    "options": [
+      "Rs. 45",
+      "Rs. 50",
+      "Rs. 55",
+      "Rs. 60"
+    ],
+    "correct": 3,
+    "reasoning": "💡 Solution:\n(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls) C.P. of 12 balls = S.P. of 17 balls = Rs.720. C.P. of 1 ball = Rs. 720 = Rs. 60. 12"
+  },
+  {
+    "id": 1012,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
+    "options": [
+      "Rs. 21,000",
+      "Rs. 22,500",
+      "Rs. 25,300",
+      "Rs. 25,800"
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\n85 : 18700 = 115 : x x = 18700 x 115 = 25300. 85 Hence, S.P. = Rs. 25,300."
+  },
+  {
+    "id": 1013,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
+    "options": [
+      "14 2/7% gain",
+      "15% gain",
+      "14 2/7% loss",
+      "15 % loss"
+    ],
+    "correct": 0,
+    "reasoning": "💡 Solution:\nC.P. of 1 orange = Rs. 350 = Rs. 3.50 100 S.P. of 1 orange = Rs. 48 = Rs. 4 12 Gain% = 0.50 x 100 % = 100 % = 14 2/3%.50 7 7"
+  },
+  {
+    "id": 1014,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
+    "options": [
+      "5 15/17% loss",
+      "5 15/17% gain",
+      "6 2/3% gain",
+      "None of these"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nC.P. of 1 st transistor = Rs. 100 x 840 = Rs. 700. 120 C.P. of 2 nd transistor = Rs. 100 x 960 = Rs. 1000 96 So, total C.P. = Rs. (700 + 1000) = Rs. 1700. Total S.P. = Rs. (840 + 960) = Rs. 1800. Gain % = 100 x 100 % = 5 15/1700% 17"
+  },
+  {
+    "id": 1015,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+    "options": [
+      "No profit, no loss",
+      "5%",
+      "8%",
+      "10%",
+      "None of these"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nC.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600. S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680. Gain = 80 x 100 % = 5%. 1600"
+  },
+  {
+    "id": 1016,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A shopkeeper sells some articles at the profit of 25% on the original price. What is the exact amount of profit? To find the answer, which of the following information given in Statements I and II is/are necessary? I. Sale price of the article II. Number of articles sold",
+    "options": [
+      "Only I is necessary",
+      "Only II is necessary",
+      "Either I or II is necessary",
+      "Both I and II are necessary",
+      "None of these"
+    ],
+    "correct": 3,
+    "reasoning": "💡 Solution:\nGain = 25% of C.P. In order to find gain, we must know the sale price of each article and the number of articles sold. Correct answer is (D)."
+  },
+  {
+    "id": 1017,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A shopkeeper sells some toys at Rs. 250 each. What percent profit does he make? To find the answer, which of the following information given in Statements I and II is/are necessary? I. Number of toys sold. II. Cost price of each toy.",
+    "options": [
+      "Only I is necessary",
+      "Only II is necessary",
+      "Both I and II are necessary",
+      "Either I or II ins necessary",
+      "None of these"
+    ],
+    "correct": 1,
+    "reasoning": "💡 Solution:\nS.P. = Rs. 250 each. To find gain percent, we must know the C.P. of each. Correct answer is (B)."
+  },
+  {
+    "id": 1018,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "A man mixes two types of rice (X and Y) and sells the mixture at the rate of Rs. 17 per kg. Find his profit percentage. I. The rate of X is Rs. 20 per kg. II. The rate of Y is Rs. 13 per kg.",
+    "options": [
+      "I alone sufficient while II alone not sufficient to answer",
+      "II alone sufficient while I alone not sufficient to answer",
+      "Either I or II alone sufficient to answer",
+      "Both I and II are not sufficient to answer",
+      "Both I and II are necessary to answer"
+    ],
+    "correct": 3,
+    "reasoning": "💡 Solution:\nThe ratio, in which X and Y are mixed, is not given. So, both I and II together cannot give the answer. Correct answer is (D)."
+  },
+  {
+    "id": 1019,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "By selling a product with 20% profit, how much profit was earned? I. The difference between cost and selling price is Rs. 40. II. The selling price is 120 percent of the cost price.",
+    "options": [
+      "I alone sufficient while II alone not sufficient to answer",
+      "II alone sufficient while I alone not sufficient to answer",
+      "Either I or II alone sufficient to answer",
+      "Both I and II are not sufficient to answer",
+      "Both I and II are necessary to answer"
+    ],
+    "correct": 0,
+    "reasoning": "💡 Solution:\nGain = 20% I. Profit = (S.P.) - (C.P.) = Rs. 40. Thus, I give the answer. But, II does not give the answer. Correct answer is (A)."
+  },
+  {
+    "id": 1020,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "By selling an article what is the profit percent gained? I. 5% discount is given on list price. II. If discount is not given, 20% profit is gained. III. The cost price of the articles is Rs. 5000.",
+    "options": [
+      "Only I and II",
+      "Only II and III",
+      "Only I and III",
+      "All I, II and III",
+      "None of these"
+    ],
+    "correct": 0,
+    "reasoning": "💡 Solution:\nI. Let the list price be Rs. x . Then, S.P. = 95% of Rs. x = Rs. x x 95 = Rs. 19 x 100 20 II. When S.P. = Rs. x and gain = 20%. Then, C.P. = Rs. 100 x x = Rs. 5 x 120 6 Gain = 19 x - 5 x = 57 x - 50 x = 7 x 20 6 60 60 Gain % = 7 x x 6 x 100 % = 14%. 60 5 x Thus, I and II only give the answer. Correct answer is (A)."
+  },
+  {
+    "id": 1021,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "What was the percentage of discount given? I. 23.5% profit was earned by selling an almirah for Rs. 12,350. II. If there were no discount, the earned profit would have been 30%. III. The cost price of the almirah was Rs. 10,000.",
+    "options": [
+      "Only I and II",
+      "Only II and III",
+      "Only I and III",
+      "Any two of the three",
+      "None of these"
+    ],
+    "correct": 0,
+    "reasoning": "💡 Solution:\nI. S.P. = Rs. 12350, Gain = 23.5% C.P. = Rs. 100 x 12350 = Rs. 10,000. 123.5 II. M.P. = 130% of C.P. = 130% of Rs. 10,000 = Rs. 13,000. From I and II, discount = Rs. (13000 - 12350) = Rs. 650. Discount % = 650 x 100 % = 5%. 13000 Thus, I and II give the answer. II and III can not give the answer. Because we require profit percentage with discount and profit percentage without discount. So II and III are not sufficient. Since III gives C.P. = Rs. 10,000, I and III give the answer. Therefore, I and II [or] I and III give the answer. Correct answer is (E)."
+  },
+  {
+    "id": 1022,
+    "category": "Quantitative: Profit & Loss (IndiaBIX)",
+    "question": "What is the percent profit earned by the shopkeeper on selling the articles in his shop? I. Labeled price of the articles sold was 130% of the cost price. II. Cost price of each article was Rs. 550. III. A discount of 10% on labeled price was offered.",
+    "options": [
+      "Only I",
+      "Only II",
+      "I and III",
+      "All the three are required",
+      "Question cannot be answer even with information in all the three statements."
+    ],
+    "correct": 2,
+    "reasoning": "💡 Solution:\nI. Let C.P. be Rs. x . Then, M.P. = 130% of x = Rs. 13 x . 10 III. S.P. = 90% of M.P. Thus, I and III give, S.P. = Rs. 90 x 13 x = Rs. 117 x 100 10 100 Gain = Rs. 117 x - x = Rs. 17 x 100 100 Thus, from I and III, gain % can be obtained. Clearly, II is redundant."
+  }
+]
