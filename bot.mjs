@@ -86,6 +86,8 @@ function initUserQueue(chatId, mode) {
     sourcePool = fullExamBank.english;
   } else if (mode === 'profit_loss') {
     sourcePool = profitLossQuestions;
+  } else if (mode === 'night_exam') {
+    sourcePool = largeIqQuestions.filter(q => (q.category || '').includes('Exam Night'));
   }
 
   // Shuffle questions randomly so questions never repeat until all are exhausted!
@@ -170,9 +172,10 @@ async function sendQuestion(chatId) {
       parse_mode: 'HTML',
       reply_markup: {
         inline_keyboard: [
-          [{ text: '🔄 إعادة تشغيل بنك الـ 350+ سؤال IQ عشوائياً', callback_data: 'mode_large_iq' }],
-          [{ text: '💰 تدريب مسائل الربح والخسارة (IndiaBIX + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
-          [{ text: '🇬🇧 تشغيل بنك الإنجليزي (100+ سؤال)', callback_data: 'mode_english' }]
+          [{ text: '⭐ إعادة ملف ليلة الامتحان 2026 (111 سؤال)', callback_data: 'mode_night_exam' }],
+          [{ text: '🔄 بنك الـ 380+ سؤال IQ الشامل عشوائياً', callback_data: 'mode_large_iq' }],
+          [{ text: '💰 مسائل الربح والخسارة (IndiaBIX + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
+          [{ text: '🇬🇧 بنك الإنجليزي (100+ سؤال)', callback_data: 'mode_english' }]
         ]
       }
     });
@@ -255,17 +258,18 @@ async function pollUpdates() {
             await apiCall('sendMessage', {
               chat_id: chatId,
               text: `👋 <b>أهلاً بك في بوت بنك أسئلة ITI الشامل!</b> 🎓\n\n` +
-                `🔥 <b>تم تحديث البنك ليشمل أكثر من 350+ سؤال IQ بالصور الأصلية من ليلة الامتحان وكتاب ألتيمت!</b>\n` +
-                `💰 <b>تمت إضافة قسم خاص لمسائل الربح والخسارة Profit & Loss من IndiaBIX وشرح م/ فاطمة الزهراء!</b>\n\n` +
-                `✨ <b>ميزة عدم التكرار (No Repeat Shuffle):</b> الأسئلة بتظهر بترتيب عشوائي تماماً، والسؤال اللي تحله مش هيتكرر نهائياً غير لما تخلص البنك كله!\n\n` +
+                `⭐ <b>تم دمج جميع أنواع أسئلة ليلة الامتحان والخلاصة 2026 كاملة (سويتشات، عناوين، باترن، صلة قرابة، سرعة وقطارات، وقت وعمل)!</b>\n` +
+                `💰 <b>مع قسم خاص لمسائل الربح والخسارة Profit & Loss من IndiaBIX وشرح م/ فاطمة الزهراء!</b>\n\n` +
+                `✨ <b>ميزة عدم التكرار (No Repeat Shuffle):</b> الأسئلة تظهر بترتيب عشوائي تماماً، والسؤال لا يتكرر حتى تنتهي من كامل البنك!\n\n` +
                 `اختر نوع الاختبار لتبدأ فوراً:`,
               parse_mode: 'HTML',
               reply_markup: {
                 inline_keyboard: [
-                  [{ text: '🔥 بنك الـ 350+ سؤال IQ الشامل (ليلة الامتحان + ألتيمت + باترن)', callback_data: 'mode_large_iq' }],
+                  [{ text: '⭐ ملف ليلة الامتحان 2026 كامل (111 سؤال - سويتشات وباترن وعناوين)', callback_data: 'mode_night_exam' }],
                   [{ text: '💰 مسائل الربح والخسارة Profit & Loss (الهند وبيكس + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
-                  [{ text: '📘 40 سؤال Ultimate IQ (Test 1 الأصلي بالصور كاملة)', callback_data: 'mode_ultimate_40' }],
-                  [{ text: '🇬🇧 بنك الـ 100+ سؤال English (المواقف Test 1 & 3 + ليلة الامتحان)', callback_data: 'mode_english' }]
+                  [{ text: '🔥 بنك الـ 380+ سؤال IQ الشامل (ليلة الامتحان + ألتيمت كامل)', callback_data: 'mode_large_iq' }],
+                  [{ text: '🇬🇧 بنك الـ 100+ سؤال English (المواقف وقواعد ليلة الامتحان)', callback_data: 'mode_english' }],
+                  [{ text: '📘 40 سؤال Ultimate IQ (نموذج امتحان تجريبي قياسي)', callback_data: 'mode_ultimate_40' }]
                 ]
               }
             });
@@ -279,7 +283,10 @@ async function pollUpdates() {
 
           await apiCall('answerCallbackQuery', { callback_query_id: query.id });
 
-          if (query.data === 'mode_large_iq') {
+          if (query.data === 'mode_night_exam') {
+            initUserQueue(chatId, 'night_exam');
+            await sendQuestion(chatId);
+          } else if (query.data === 'mode_large_iq') {
             initUserQueue(chatId, 'large_iq');
             await sendQuestion(chatId);
           } else if (query.data === 'mode_profit_loss') {
