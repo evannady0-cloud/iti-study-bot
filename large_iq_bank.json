@@ -5892,5 +5892,408 @@
     ],
     "correct": 1,
     "reasoning": "Sum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32."
+  },
+  {
+    "id": 389,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Dr. Alistair C. MacIntyre, 4820 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland\"",
+    "options": [
+      "Dr. Alistair C. MacIntyre, 4820 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland",
+      "Dr. Alistair C. Macintyre, 4820 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland",
+      "Dr. Alistair C. MacIntyre, 4802 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland",
+      "Dr. Allistair C. MacIntyre, 4820 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is identical. B has lowercase \"i\" in Macintyre. C swaps digits (4802). D has \"Allistair\"."
+  },
+  {
+    "id": 390,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Kowalski & Zavadski Law, 715 Aleje Jerozolimskie, Apt 14B, 00-977 Warsaw, Poland\"",
+    "options": [
+      "Kowalski & Zavatski Law, 715 Aleje Jerozolimskie, Apt 14B, 00-977 Warsaw, Poland",
+      "Kowalski & Zavadski Law, 715 Aleje Jerozolimskie, Apt 14B, 00-977 Warsaw, Poland",
+      "Kowalski & Zavadski Law, 715 Aleje Jerozolimskie, Apt 14B, 00-971 Warsaw, Poland",
+      "Kowalski & Zavadski Law, 751 Aleje Jerozolimskie, Apt 14B, 00-977 Warsaw, Poland"
+    ],
+    "correct": 1,
+    "reasoning": "Option B is exact. A has Zavatski (t). C has 00-971. D has 751."
+  },
+  {
+    "id": 391,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Mitsui Takahashi Electronics, 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8901, Japan\"",
+    "options": [
+      "Mitsui Takahashi Electronics, 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8910, Japan",
+      "Mitsui Takahasi Electronics, 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8901, Japan",
+      "Mitsui Takahashi Electronics, 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8901, Japan",
+      "Mitsui Takahashi Electronics, 3-1-2 Kasumigaseki, Chiyoda-ku, Tokyo 100-8901, Japan"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A has 100-8910. B has Takahasi. D has 3-1-2."
+  },
+  {
+    "id": 392,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Svensson & Lindström Arkitekter, Vasagatan 48, 4th Floor, 111 20 Stockholm, Sweden\"",
+    "options": [
+      "Svensson & Lindström Arkitekter, Vasagatan 48, 4th Floor, 111 20 Stockholm, Sweden",
+      "Svenson & Lindström Arkitekter, Vasagatan 48, 4th Floor, 111 20 Stockholm, Sweden",
+      "Svensson & Lindstrom Arkitekter, Vasagatan 48, 4th Floor, 111 20 Stockholm, Sweden",
+      "Svensson & Lindström Arkitekter, Vasagatan 84, 4th Floor, 111 20 Stockholm, Sweden"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B has single \"s\". C lacks umlaut ö. D has 84."
+  },
+  {
+    "id": 393,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Cormac O'Flaherty Civil Engineering, 18 Merrion Square East, Dublin 2, D02 F983, Ireland\"",
+    "options": [
+      "Cormac O'Flaherty Civil Enginering, 18 Merrion Square East, Dublin 2, D02 F983, Ireland",
+      "Cormac O'Flaherty Civil Engineering, 18 Merion Square East, Dublin 2, D02 F983, Ireland",
+      "Cormac O'Flaherty Civil Engineering, 18 Merrion Square East, Dublin 2, D02 F983, Ireland",
+      "Cormac O'Flaherty Civil Engineering, 18 Merrion Square East, Dublin 2, D02 F893, Ireland"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A misses \"e\" in Engineering. B has single \"r\" in Merion. D has F893."
+  },
+  {
+    "id": 394,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Valenzuela & Sons Transport, 4520 Westheimer Road, Suite 1250, Houston, TX 77027\"",
+    "options": [
+      "Valenzuela & Sons Transport, 4520 Westheimer Road, Suite 1250, Houston, TX 77072",
+      "Valenzuela & Sons Transport, 4520 Westheimer Road, Suite 1250, Houston, TX 77027",
+      "Valenzuela & Sons Transport, 4250 Westheimer Road, Suite 1250, Houston, TX 77027",
+      "Valenzuala & Sons Transport, 4520 Westheimer Road, Suite 1250, Houston, TX 77027"
+    ],
+    "correct": 1,
+    "reasoning": "Option B is exact. A has 77072. C has 4250. D has Valenzuala."
+  },
+  {
+    "id": 395,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Boutique L'Hirondelle, 27 Rue du Faubourg Saint-Honoré, 75008 Paris, France\"",
+    "options": [
+      "Boutique L'Hirondelle, 27 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+      "Boutique L'Hirondelle, 27 Rue du Fauborg Saint-Honoré, 75008 Paris, France",
+      "Boutique L'Hirondelle, 27 Rue du Faubourg Saint-Honore, 75008 Paris, France",
+      "Boutique L'Hirondelle, 72 Rue du Faubourg Saint-Honoré, 75008 Paris, France"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B misses \"u\" in Faubourg. C lacks accent é. D has 72."
+  },
+  {
+    "id": 396,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Johannes Vermeer Antiquities, Keizersgracht 384, 1016 GB Amsterdam, Netherlands\"",
+    "options": [
+      "Johannes Vermeer Antiquities, Keizersgracht 384, 1016 BG Amsterdam, Netherlands",
+      "Johannes Vermer Antiquities, Keizersgracht 384, 1016 GB Amsterdam, Netherlands",
+      "Johannes Vermeer Antiquities, Keizersgracht 384, 1016 GB Amsterdam, Netherlands",
+      "Johannes Vermeer Antiquities, Keizersgracht 348, 1016 GB Amsterdam, Netherlands"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A has BG. B has Vermer. D has 348."
+  },
+  {
+    "id": 397,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Archibald & Rutherford Wealth, 95 Queen Victoria Street, 6th Fl, London EC4V 4HN\"",
+    "options": [
+      "Archibald & Rutherford Wealth, 95 Queen Victoria Street, 6th Fl, London EC4V 4HN",
+      "Archibald & Rutherfor Wealth, 95 Queen Victoria Street, 6th Fl, London EC4V 4HN",
+      "Archibald & Rutherford Wealth, 95 Queen Victoria Street, 6th Fl, London EC4V 4NH",
+      "Archibald & Rutherford Wealth, 59 Queen Victoria Street, 6th Fl, London EC4V 4HN"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B has Rutherfor. C has 4NH. D has 59."
+  },
+  {
+    "id": 398,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Casa Editrice Belvedere, Via dei Mille 142, Scala B, 80121 Napoli NA, Italy\"",
+    "options": [
+      "Casa Editrice Belvedere, Via dei Mille 124, Scala B, 80121 Napoli NA, Italy",
+      "Casa Editrice Belvedere, Via dei Mille 142, Scala B, 80121 Napoli NA, Italy",
+      "Casa Editrice Belvidere, Via dei Mille 142, Scala B, 80121 Napoli NA, Italy",
+      "Casa Editrice Belvedere, Via dei Mille 142, Scala B, 80112 Napoli NA, Italy"
+    ],
+    "correct": 1,
+    "reasoning": "Option B is exact. A has 124. C has Belvidere. D has 80112."
+  },
+  {
+    "id": 399,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Kaufmann & Zimmermann AG, Bahnhofstrasse 88, Postfach 1234, 8001 Zürich, Switzerland\"",
+    "options": [
+      "Kaufman & Zimmermann AG, Bahnhofstrasse 88, Postfach 1234, 8001 Zürich, Switzerland",
+      "Kaufmann & Zimmermann AG, Bahnhofstrasse 88, Postfach 1234, 8010 Zürich, Switzerland",
+      "Kaufmann & Zimmermann AG, Bahnhofstrasse 88, Postfach 1234, 8001 Zürich, Switzerland",
+      "Kaufmann & Zimmerman AG, Bahnhofstrasse 88, Postfach 1234, 8001 Zürich, Switzerland"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A has single \"n\" in Kaufman. B has 8010. D has single \"n\" in Zimmerman."
+  },
+  {
+    "id": 400,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Nakamura Robotics Laboratory, 5-7-2 Minato-ku, Roppongi Hills 106-6108 Tokyo\"",
+    "options": [
+      "Nakamura Robotics Laboratory, 5-7-2 Minato-ku, Roppongi Hills 106-6108 Tokyo",
+      "Nakamura Robotics Laboratory, 5-7-2 Minato-ku, Ropongi Hills 106-6108 Tokyo",
+      "Nakamura Robotics Laboratory, 5-7-2 Minato-ku, Roppongi Hills 106-6180 Tokyo",
+      "Nakamura Robotics Laboratry, 5-7-2 Minato-ku, Roppongi Hills 106-6108 Tokyo"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B has single \"p\" in Ropongi. C has 6180. D misses \"o\" in Laboratory."
+  },
+  {
+    "id": 401,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Hacienda del Carmen Export, Paseo de la Reforma 250, Piso 18, 06600 Cuauhtémoc, CDMX\"",
+    "options": [
+      "Hacienda del Carmen Export, Paseo de la Reforma 250, Piso 18, 06600 Cuauhtemoc, CDMX",
+      "Hacienda del Carmen Export, Paseo de la Reforma 205, Piso 18, 06600 Cuauhtémoc, CDMX",
+      "Hacienda del Carmen Export, Paseo de la Reforma 250, Piso 18, 06600 Cuauhtémoc, CDMX",
+      "Hacienda del Carmon Export, Paseo de la Reforma 250, Piso 18, 06600 Cuauhtémoc, CDMX"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A lacks accent. B has 205. D has Carmon."
+  },
+  {
+    "id": 402,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Dr. Penelope Featherstone, The Old Vicarage, Church Lane, Little Compton GL56 0RZ\"",
+    "options": [
+      "Dr. Penelope Featherstone, The Old Vicarage, Church Lane, Little Compton GL56 0ZR",
+      "Dr. Penelope Featherstone, The Old Vicarage, Church Lane, Little Compton GL56 0RZ",
+      "Dr. Penelope Featherston, The Old Vicarage, Church Lane, Little Compton GL56 0RZ",
+      "Dr. Penelopy Featherstone, The Old Vicarage, Church Lane, Little Compton GL56 0RZ"
+    ],
+    "correct": 1,
+    "reasoning": "Option B is exact. A has 0ZR. C misses \"e\". D has Penelopy."
+  },
+  {
+    "id": 403,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Esposito & Di Luca Shipping, Calata San Marco 4, Interno 6, 80133 Napoli, Italy\"",
+    "options": [
+      "Esposito & Di Luca Shipping, Calata San Marco 4, Interno 6, 80133 Napoli, Italy",
+      "Esposito & De Luca Shipping, Calata San Marco 4, Interno 6, 80133 Napoli, Italy",
+      "Esposito & Di Luca Shipping, Calata San Marco 4, Interno 6, 80133 Napoli, Italy",
+      "Esposito & Di Luca Shipping, Calata San Marco 4, Interno 6, 80313 Napoli, Italy"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B has De Luca. D has 80313."
+  },
+  {
+    "id": 404,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Thorvaldsen Nordic Logistics, Strandgade 91, 2. sal, 1401 København K, Denmark\"",
+    "options": [
+      "Thorvaldsen Nordic Logistics, Strandgade 91, 2. sal, 1401 Kobenhavn K, Denmark",
+      "Thorvaldsen Nordic Logistics, Strandgade 19, 2. sal, 1401 København K, Denmark",
+      "Thorvaldsen Nordic Logistics, Strandgade 91, 2. sal, 1401 København K, Denmark",
+      "Thorvaldsen Nordic Logistcs, Strandgade 91, 2. sal, 1401 København K, Denmark"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A has o instead of ø. B has 19. D misses \"i\"."
+  },
+  {
+    "id": 405,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"Goldstein, Weinberg & Meyer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10104\"",
+    "options": [
+      "Goldstein, Weinberg & Meyer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10104",
+      "Goldstein, Wienberg & Meyer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10104",
+      "Goldstein, Weinberg & Meyer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10014",
+      "Goldstein, Weinberg & Mayer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10104"
+    ],
+    "correct": 0,
+    "reasoning": "Option A is exact. B has Wienberg. C has 10014. D has Mayer."
+  },
+  {
+    "id": 406,
+    "category": "Exam Night (Address Matching)",
+    "question": "Find the EXACT matching address:\n\nTarget: \"O'Shaughnessy Pharmaceutical Research, 42 Dawson Street, Penthouse B, Dublin 2, D02 H318\"",
+    "options": [
+      "O'Shaughnessy Pharmaceutical Research, 42 Dawson Street, Penthouse B, Dublin 2, D02 H381",
+      "O'Shaughnesy Pharmaceutical Research, 42 Dawson Street, Penthouse B, Dublin 2, D02 H318",
+      "O'Shaughnessy Pharmaceutical Research, 42 Dawson Street, Penthouse B, Dublin 2, D02 H318",
+      "O'Shaughnessy Pharmaceutical Reseach, 42 Dawson Street, Penthouse B, Dublin 2, D02 H318"
+    ],
+    "correct": 2,
+    "reasoning": "Option C is exact. A has H381. B has single \"s\". D misses \"r\" in Research."
+  },
+  {
+    "id": 407,
+    "category": "Exam Night (Blood Relations)",
+    "question": "Pointing to a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Grandmother"
+    ],
+    "correct": 0,
+    "reasoning": "Only daughter of woman's mother is the woman herself! So the woman is the Mother of the man."
+  },
+  {
+    "id": 408,
+    "category": "Exam Night (Blood Relations)",
+    "question": "Looking at a portrait of a man, Harsh said, \"His mother is the wife of my father's only son. I have no brothers or sisters.\" Whose portrait was Harsh looking at?",
+    "options": [
+      "His father",
+      "His son",
+      "His nephew",
+      "His uncle"
+    ],
+    "correct": 1,
+    "reasoning": "Father's only son (since Harsh has no siblings) is Harsh himself. Wife of Harsh is Harsh's wife. The mother of the person in the portrait is Harsh's wife -> The portrait is of Harsh's son!"
+  },
+  {
+    "id": 409,
+    "category": "Exam Night (Blood Relations)",
+    "question": "A man said to a lady, \"Your mother's husband's sister is my aunt.\" How is the lady related to the man?",
+    "options": [
+      "Daughter",
+      "Granddaughter",
+      "Mother",
+      "Sister"
+    ],
+    "correct": 3,
+    "reasoning": "Lady's mother's husband = Lady's father. Lady's father's sister = Lady's aunt. Since she is also the man's aunt, the lady is the man's Sister!"
+  },
+  {
+    "id": 410,
+    "category": "Exam Night (Blood Relations)",
+    "question": "Pointing to a photograph, Vipul said, \"She is the daughter of my grandfather's only son.\" How is Vipul related to the girl?",
+    "options": [
+      "Father",
+      "Brother",
+      "Cousin",
+      "Uncle"
+    ],
+    "correct": 1,
+    "reasoning": "Grandfather's only son = Vipul's father. Daughter of Vipul's father = Vipul's sister -> Vipul is her Brother."
+  },
+  {
+    "id": 411,
+    "category": "Exam Night (Blood Relations)",
+    "question": "A man pointing to a photograph says, \"The lady in the photograph is my nephew's maternal grandmother.\" How is the lady related to the man's sister who has no other sister?",
+    "options": [
+      "Mother",
+      "Mother-in-law",
+      "Sister",
+      "Aunt"
+    ],
+    "correct": 0,
+    "reasoning": "Nephew's mother is the man's sister. Her maternal grandmother is the mother of the man's sister -> Mother."
+  },
+  {
+    "id": 412,
+    "category": "Exam Night (Blood Relations)",
+    "question": "A's mother is sister of B and daughter of C. D is the daughter of B and sister of E. How is C related to E?",
+    "options": [
+      "Father",
+      "Grandfather or Grandmother",
+      "Aunt",
+      "Uncle"
+    ],
+    "correct": 1,
+    "reasoning": "E is child of B. B is child of C. Therefore, C is Grandfather or Grandmother of E."
+  },
+  {
+    "id": 413,
+    "category": "Exam Night (Direction Sense)",
+    "question": "Kunal walks 10 km towards North. From there he walks 6 km towards South. Then, he walks 3 km towards East. How far and in which direction is he with reference to his starting point?",
+    "options": [
+      "5 km North-East",
+      "5 km South-East",
+      "7 km East",
+      "7 km North"
+    ],
+    "correct": 0,
+    "reasoning": "North displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East."
+  },
+  {
+    "id": 414,
+    "category": "Exam Night (Direction Sense)",
+    "question": "A man is facing North-West. He turns 90° in the clockwise direction and then 135° in the anti-clockwise direction. Which direction is he facing now?",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "correct": 1,
+    "reasoning": "Net rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West."
+  },
+  {
+    "id": 415,
+    "category": "Exam Night (Clocks & Calendars)",
+    "question": "How many times do the hands of a clock coincide (overlap) in a 24-hour day?",
+    "options": [
+      "20 times",
+      "22 times",
+      "24 times",
+      "44 times"
+    ],
+    "correct": 1,
+    "reasoning": "The hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times."
+  },
+  {
+    "id": 416,
+    "category": "Exam Night (Clocks & Calendars)",
+    "question": "How many times in a 24-hour day are the hands of a clock at right angles (90°)?",
+    "options": [
+      "22 times",
+      "24 times",
+      "44 times",
+      "48 times"
+    ],
+    "correct": 2,
+    "reasoning": "Right angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours."
+  },
+  {
+    "id": 417,
+    "category": "Exam Night (Time & Work)",
+    "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, what fraction of the work is left?",
+    "options": [
+      "7/15",
+      "8/15",
+      "1/4",
+      "1/10"
+    ],
+    "correct": 1,
+    "reasoning": "Work done in 4 days = 4 * (1/15 + 1/20) = 4 * (7/60) = 7/15. Fraction left = 1 - 7/15 = 8/15."
+  },
+  {
+    "id": 418,
+    "category": "Exam Night (Speed & Trains)",
+    "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. What is the speed of the train in km/hr?",
+    "options": [
+      "45 km/hr",
+      "50 km/hr",
+      "54 km/hr",
+      "55 km/hr"
+    ],
+    "correct": 1,
+    "reasoning": "Relative speed = 125m / 10s = 12.5 m/s = 12.5 * (18/5) = 45 km/hr. Since moving in same direction: Train speed = 45 + 5 = 50 km/hr."
+  },
+  {
+    "id": 419,
+    "category": "Exam Night (Ages & Averages)",
+    "question": "The average age of a class of 30 students is 15 years. If the teacher's age is included, the average increases by 1 year. What is the teacher's age?",
+    "options": [
+      "40 years",
+      "44 years",
+      "46 years",
+      "48 years"
+    ],
+    "correct": 2,
+    "reasoning": "Teacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years."
   }
 ]

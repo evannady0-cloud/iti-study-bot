@@ -45,6 +45,13 @@ if (fs.existsSync(profitLossJson)) {
   profitLossQuestions = JSON.parse(fs.readFileSync(profitLossJson, 'utf-8'));
 }
 
+// Load Pre-built Authentic Exam Models (IQ Models 1-6 & English Models 1-2)
+const examModelsJson = path.join(__dirname, 'exam_models.json');
+let examModels = { iq: {}, english: {} };
+if (fs.existsSync(examModelsJson)) {
+  examModels = JSON.parse(fs.readFileSync(examModelsJson, 'utf-8'));
+}
+
 // User state: supports randomized non-repeating queue
 const userSessions = new Map();
 
@@ -88,6 +95,10 @@ function initUserQueue(chatId, mode) {
     sourcePool = profitLossQuestions;
   } else if (mode === 'night_exam') {
     sourcePool = largeIqQuestions.filter(q => (q.category || '').includes('Exam Night'));
+  } else if (mode.startsWith('iq_model_')) {
+    sourcePool = examModels.iq[mode] || [];
+  } else if (mode.startsWith('english_model_')) {
+    sourcePool = examModels.english[mode] || [];
   }
 
   // Shuffle questions randomly so questions never repeat until all are exhausted!
@@ -172,10 +183,27 @@ async function sendQuestion(chatId) {
       parse_mode: 'HTML',
       reply_markup: {
         inline_keyboard: [
-          [{ text: '⭐ إعادة ملف ليلة الامتحان 2026 (111 سؤال)', callback_data: 'mode_night_exam' }],
-          [{ text: '🔄 بنك الـ 380+ سؤال IQ الشامل عشوائياً', callback_data: 'mode_large_iq' }],
-          [{ text: '💰 مسائل الربح والخسارة (IndiaBIX + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
-          [{ text: '🇬🇧 بنك الإنجليزي (100+ سؤال)', callback_data: 'mode_english' }]
+          [
+            { text: '📝 نموذج IQ (1)', callback_data: 'mode_iq_model_1' },
+            { text: '📝 نموذج IQ (2)', callback_data: 'mode_iq_model_2' },
+            { text: '📝 نموذج IQ (3)', callback_data: 'mode_iq_model_3' }
+          ],
+          [
+            { text: '📝 نموذج IQ (4)', callback_data: 'mode_iq_model_4' },
+            { text: '📝 نموذج IQ (5)', callback_data: 'mode_iq_model_5' },
+            { text: '📝 نموذج IQ (6)', callback_data: 'mode_iq_model_6' }
+          ],
+          [
+            { text: '🇬🇧 نموذج English (1)', callback_data: 'mode_english_model_1' },
+            { text: '🇬🇧 نموذج English (2)', callback_data: 'mode_english_model_2' }
+          ],
+          [
+            { text: '⭐ ليلة الامتحان (111 سؤال)', callback_data: 'mode_night_exam' },
+            { text: '💰 مسائل الربح والخسارة', callback_data: 'mode_profit_loss' }
+          ],
+          [
+            { text: '🔥 بنك الـ IQ الشامل المفتوح (400+ سؤال)', callback_data: 'mode_large_iq' }
+          ]
         ]
       }
     });
@@ -257,19 +285,35 @@ async function pollUpdates() {
           if (text === '/start' || text === '/quiz' || text === '/help') {
             await apiCall('sendMessage', {
               chat_id: chatId,
-              text: `👋 <b>أهلاً بك في بوت بنك أسئلة ITI الشامل!</b> 🎓\n\n` +
-                `⭐ <b>تم دمج جميع أنواع أسئلة ليلة الامتحان والخلاصة 2026 كاملة (سويتشات، عناوين، باترن، صلة قرابة، سرعة وقطارات، وقت وعمل)!</b>\n` +
-                `💰 <b>مع قسم خاص لمسائل الربح والخسارة Profit & Loss من IndiaBIX وشرح م/ فاطمة الزهراء!</b>\n\n` +
-                `✨ <b>ميزة عدم التكرار (No Repeat Shuffle):</b> الأسئلة تظهر بترتيب عشوائي تماماً، والسؤال لا يتكرر حتى تنتهي من كامل البنك!\n\n` +
-                `اختر نوع الاختبار لتبدأ فوراً:`,
+              text: `👋 <b>أهلاً بك في بوت امتحانات وبنك أسئلة ITI القياسية!</b> 🎓\n\n` +
+                `🎯 <b>تم بناء نماذج الامتحانات بدقة طبقاً لتوزيعة الامتحان الحقيقي:</b>\n` +
+                `• كل نموذج IQ يضم <b>40 سؤالاً متوازناً</b> (4 عناوين، 2 سويتشات، 2 ربح وخسارة، 12 باترن وأشكال، 2 صلة قرابة، 2 سرعة وقطارات، 2 وقت وعمل، 2 ساعات واتجاهات، 2 أعمار، 8 ألتيمت لوجيك).\n` +
+                `• كل نموذج English يضم <b>26 سؤالاً</b> (14 مواقف Situational + 12 قواعد وكلمات).\n\n` +
+                `اختر النموذج لتبدأ الامتحان فوراً:`,
               parse_mode: 'HTML',
               reply_markup: {
                 inline_keyboard: [
-                  [{ text: '⭐ ملف ليلة الامتحان 2026 كامل (111 سؤال - سويتشات وباترن وعناوين)', callback_data: 'mode_night_exam' }],
-                  [{ text: '💰 مسائل الربح والخسارة Profit & Loss (الهند وبيكس + فاطمة الزهراء)', callback_data: 'mode_profit_loss' }],
-                  [{ text: '🔥 بنك الـ 380+ سؤال IQ الشامل (ليلة الامتحان + ألتيمت كامل)', callback_data: 'mode_large_iq' }],
-                  [{ text: '🇬🇧 بنك الـ 100+ سؤال English (المواقف وقواعد ليلة الامتحان)', callback_data: 'mode_english' }],
-                  [{ text: '📘 40 سؤال Ultimate IQ (نموذج امتحان تجريبي قياسي)', callback_data: 'mode_ultimate_40' }]
+                  [
+                    { text: '📝 نموذج IQ (1)', callback_data: 'mode_iq_model_1' },
+                    { text: '📝 نموذج IQ (2)', callback_data: 'mode_iq_model_2' },
+                    { text: '📝 نموذج IQ (3)', callback_data: 'mode_iq_model_3' }
+                  ],
+                  [
+                    { text: '📝 نموذج IQ (4)', callback_data: 'mode_iq_model_4' },
+                    { text: '📝 نموذج IQ (5)', callback_data: 'mode_iq_model_5' },
+                    { text: '📝 نموذج IQ (6)', callback_data: 'mode_iq_model_6' }
+                  ],
+                  [
+                    { text: '🇬🇧 نموذج English (1)', callback_data: 'mode_english_model_1' },
+                    { text: '🇬🇧 نموذج English (2)', callback_data: 'mode_english_model_2' }
+                  ],
+                  [
+                    { text: '⭐ ليلة الامتحان (111 سؤال)', callback_data: 'mode_night_exam' },
+                    { text: '💰 مسائل الربح والخسارة', callback_data: 'mode_profit_loss' }
+                  ],
+                  [
+                    { text: '🔥 بنك الـ IQ الشامل المفتوح (400+ سؤال)', callback_data: 'mode_large_iq' }
+                  ]
                 ]
               }
             });
@@ -283,20 +327,9 @@ async function pollUpdates() {
 
           await apiCall('answerCallbackQuery', { callback_query_id: query.id });
 
-          if (query.data === 'mode_night_exam') {
-            initUserQueue(chatId, 'night_exam');
-            await sendQuestion(chatId);
-          } else if (query.data === 'mode_large_iq') {
-            initUserQueue(chatId, 'large_iq');
-            await sendQuestion(chatId);
-          } else if (query.data === 'mode_profit_loss') {
-            initUserQueue(chatId, 'profit_loss');
-            await sendQuestion(chatId);
-          } else if (query.data === 'mode_ultimate_40') {
-            initUserQueue(chatId, 'ultimate_40');
-            await sendQuestion(chatId);
-          } else if (query.data === 'mode_english') {
-            initUserQueue(chatId, 'english');
+          if (query.data.startsWith('mode_')) {
+            const chosenMode = query.data.replace('mode_', '');
+            initUserQueue(chatId, chosenMode);
             await sendQuestion(chatId);
           } else if (query.data === 'next_q') {
             state.currentIndex++;
