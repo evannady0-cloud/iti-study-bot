@@ -60,7 +60,7 @@
           "Johnathan R. Abernathy, 742 Evergreen Terrace, Springfield, OR 97477"
         ],
         "correct": 1,
-        "reasoning": "Option B is the 100% exact match.\n• Option A has incorrect ZIP (97471 instead of 97477).\n• Option C has spelling typo \"Terrase\".\n• Option D has extra \"h\" in \"Johnathan\"."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is the 100% exact match.\n• Option A has incorrect ZIP (97471 instead of 97477).\n• Option C has spelling typo \"Terrase\".\n• Option D has extra \"h\" in \"Johnathan\"."
       },
       {
         "id": 361,
@@ -73,7 +73,7 @@
           "Prof. Elizabeth M. Sterling, Suite 508, 1240 Kensington Ave, Toronto, ON M4B 1B3"
         ],
         "correct": 0,
-        "reasoning": "Option A is the exact match.\n• Option B has \"Elisabeth\" (s instead of z).\n• Option C has \"Suite 580\" (swapped digits).\n• Option D has \"1240\" instead of 1204."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is the exact match.\n• Option B has \"Elisabeth\" (s instead of z).\n• Option C has \"Suite 580\" (swapped digits).\n• Option D has \"1240\" instead of 1204."
       },
       {
         "id": 362,
@@ -86,7 +86,7 @@
           "Dr. Henrich von Schiller, Friedrichstraße 176, 10117 Berlin, Germany"
         ],
         "correct": 2,
-        "reasoning": "Option C is the exact match.\n• Option A has single \"l\" in Schiler.\n• Option B has wrong ZIP (10171).\n• Option D misses \"i\" in Heinrich."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is the exact match.\n• Option A has single \"l\" in Schiler.\n• Option B has wrong ZIP (10171).\n• Option D misses \"i\" in Heinrich."
       },
       {
         "id": 363,
@@ -99,7 +99,7 @@
           "Harrison & Blackwell Consulting, 8900 Wilshire Blvd, Ste 402, Beverly Hills, CA 90211"
         ],
         "correct": 1,
-        "reasoning": "Option B is identical.\n• Option A has Blackwall.\n• Option C has Wiltshire.\n• Option D has Ste 402."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is identical.\n• Option A has Blackwall.\n• Option C has Wiltshire.\n• Option D has Ste 402."
       },
       {
         "id": 241,
@@ -112,7 +112,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image150.png"
       },
       {
@@ -126,7 +126,7 @@
           "Switch D"
         ],
         "correct": 0,
-        "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch A\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch A هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image14.png"
       },
       {
@@ -140,7 +140,7 @@
           "20%"
         ],
         "correct": 2,
-        "reasoning": "Profit = Selling Price (460) - Cost Price (400) = 60 LE.\nProfit % = (Profit / Cost Price) * 100 = (60 / 400) * 100 = 15%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nProfit = Selling Price (460) - Cost Price (400) = 60 LE.\nProfit % = (Profit / Cost Price) * 100 = (60 / 400) * 100 = 15%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 324,
@@ -153,7 +153,7 @@
           "620 LE"
         ],
         "correct": 1,
-        "reasoning": "Selling Price = Cost Price * (1 - Loss %) = C.P * 0.90.\nC.P = 540 / 0.90 = 600 LE."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nSelling Price = Cost Price * (1 - Loss %) = C.P * 0.90.\nC.P = 540 / 0.90 = 600 LE.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 252,
@@ -166,7 +166,7 @@
           "A, B, D"
         ],
         "correct": 1,
-        "reasoning": "Pieces B, C, D fit together perfectly to complete a square.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces B, C, D fit together perfectly to complete a square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image262.png"
       },
       {
@@ -180,7 +180,7 @@
           "A, B, C"
         ],
         "correct": 2,
-        "reasoning": "Shapes B, C, and D combine to form a perfect square.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Shapes B, C, and D combine to form a perfect square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image218.png"
       },
       {
@@ -194,7 +194,7 @@
           "A, B, D"
         ],
         "correct": 0,
-        "reasoning": "Pieces A, B, and C combine to form a square.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces A, B, and C combine to form a square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image173.png"
       },
       {
@@ -208,7 +208,7 @@
           "A, B, D"
         ],
         "correct": 2,
-        "reasoning": "Pieces A, C, and D form a square.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces A, C, and D form a square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image62.png"
       },
       {
@@ -223,7 +223,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "D: A is the same as E with flaps in/out; B is the same as C.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A is the same as E with flaps in/out; B is the same as C.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image8.png"
       },
       {
@@ -238,7 +238,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: All other figures are identical when rotated.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: All other figures are identical when rotated.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image57.png"
       },
       {
@@ -253,7 +253,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: In all others the black circle connects to 3 white circles. In C it connects to only 2.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: In all others the black circle connects to 3 white circles. In C it connects to only 2.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image280.png"
       },
       {
@@ -268,7 +268,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: In all others the black circle connects to 3 white circles. In C it connects to only 2.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: In all others the black circle connects to 3 white circles. In C it connects to only 2.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image21.png"
       },
       {
@@ -283,7 +283,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: The rest are the same figure rotated.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: The rest are the same figure rotated.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image74.png"
       },
       {
@@ -298,7 +298,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: It has 3 white and 1 black on the left, and 3 black and 1 white on right. Others are opposite.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: It has 3 white and 1 black on the left, and 3 black and 1 white on right. Others are opposite.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image68.png"
       },
       {
@@ -316,7 +316,7 @@
           "H"
         ],
         "correct": 7,
-        "reasoning": "H: In all other figures the outer shape is repeated in the middle.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• H: In all other figures the outer shape is repeated in the middle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image181.png"
       },
       {
@@ -331,7 +331,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "D: Curl alternates left/right, eyes alternate, nose alternates black/white, mouth alternates happy/sad/straight.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Curl alternates left/right, eyes alternate, nose alternates black/white, mouth alternates happy/sad/straight.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image97.png"
       },
       {
@@ -345,7 +345,7 @@
           "Cousin"
         ],
         "correct": 2,
-        "reasoning": "The only son of Suresh's mother is Suresh himself! Therefore, the boy in the photo is the son of Suresh -> Suresh is his Father."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nThe only son of Suresh's mother is Suresh himself! Therefore, the boy in the photo is the son of Suresh -> Suresh is his Father.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Father</b>."
       },
       {
         "id": 367,
@@ -358,7 +358,7 @@
           "Grandmother"
         ],
         "correct": 1,
-        "reasoning": "The brother of the man's wife is his brother-in-law (son of his father-in-law). Thus, the lady's only brother is the father-in-law -> The lady is the Sister of the father-in-law."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nThe brother of the man's wife is his brother-in-law (son of his father-in-law). Thus, the lady's only brother is the father-in-law -> The lady is the Sister of the father-in-law.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Sister of father-in-law</b>."
       },
       {
         "id": 372,
@@ -371,7 +371,7 @@
           "9 days"
         ],
         "correct": 1,
-        "reasoning": "Shortcut formula: (A * B) / (A + B) = (10 * 15) / (10 + 15) = 150 / 25 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nShortcut formula: (A * B) / (A + B) = (10 * 15) / (10 + 15) = 150 / 25 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 373,
@@ -384,7 +384,7 @@
           "10 days"
         ],
         "correct": 0,
-        "reasoning": "Formula: (A * Total) / (A - Total) = (12 * 4) / (12 - 4) = 48 / 8 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nFormula: (A * Total) / (A - Total) = (12 * 4) / (12 - 4) = 48 / 8 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 377,
@@ -397,7 +397,7 @@
           "324 m"
         ],
         "correct": 1,
-        "reasoning": "Speed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 378,
@@ -410,7 +410,7 @@
           "120 seconds"
         ],
         "correct": 1,
-        "reasoning": "Speed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 381,
@@ -423,7 +423,7 @@
           "South-West"
         ],
         "correct": 3,
-        "reasoning": "South (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nSouth (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 382,
@@ -436,7 +436,7 @@
           "35 m North"
         ],
         "correct": 1,
-        "reasoning": "North: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 383,
@@ -449,7 +449,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "Formula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 384,
@@ -462,7 +462,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 386,
@@ -475,7 +475,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "x + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 387,
@@ -488,7 +488,7 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "Father is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 2,
@@ -631,7 +631,7 @@
           "Guadalupe Fernández-Vega, Av. de los Insurgentes Sur 1602, Crédito Constructor, 03940 CDMX"
         ],
         "correct": 3,
-        "reasoning": "Option D is the exact match.\n• Option A lacks accent on á.\n• Option B has 1620.\n• Option C has Construcor."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (D) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option D is the exact match.\n• Option A lacks accent on á.\n• Option B has 1620.\n• Option C has Construcor."
       },
       {
         "id": 365,
@@ -644,7 +644,7 @@
           "St. Bartholomew's Hospital, West Smithfield, London EC1A 7EB, United Kingdom"
         ],
         "correct": 0,
-        "reasoning": "Option A is the exact match.\n• Option B has Bartholemew.\n• Option C has Smithfeild.\n• Option D has 7EB."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is the exact match.\n• Option B has Bartholemew.\n• Option C has Smithfeild.\n• Option D has 7EB."
       },
       {
         "id": 389,
@@ -657,7 +657,7 @@
           "Dr. Allistair C. MacIntyre, 4820 Highland Boulevard, Suite 304, Inverness IV2 4PZ, Scotland"
         ],
         "correct": 0,
-        "reasoning": "Option A is identical. B has lowercase \"i\" in Macintyre. C swaps digits (4802). D has \"Allistair\"."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is identical. B has lowercase \"i\" in Macintyre. C swaps digits (4802). D has \"Allistair\"."
       },
       {
         "id": 390,
@@ -670,7 +670,7 @@
           "Kowalski & Zavadski Law, 751 Aleje Jerozolimskie, Apt 14B, 00-977 Warsaw, Poland"
         ],
         "correct": 1,
-        "reasoning": "Option B is exact. A has Zavatski (t). C has 00-971. D has 751."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is exact. A has Zavatski (t). C has 00-971. D has 751."
       },
       {
         "id": 243,
@@ -683,7 +683,7 @@
           "Switch D"
         ],
         "correct": 3,
-        "reasoning": "الحل: Switch D is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch D\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch D هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image205.png"
       },
       {
@@ -697,7 +697,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image24.png"
       },
       {
@@ -711,7 +711,7 @@
           "2400 LE"
         ],
         "correct": 2,
-        "reasoning": "Step 1: Find Cost Price = 1800 / 0.90 = 2000 LE.\nStep 2: Desired Selling Price for 15% profit = 2000 * 1.15 = 2300 LE."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nStep 1: Find Cost Price = 1800 / 0.90 = 2000 LE.\nStep 2: Desired Selling Price for 15% profit = 2000 * 1.15 = 2300 LE.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 326,
@@ -724,7 +724,7 @@
           "25%"
         ],
         "correct": 2,
-        "reasoning": "Rule: Profit % = ((Quantity Bought - Quantity Sold) / Quantity Sold) * 100 = ((15 - 10) / 10) * 100 = 50%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nRule: Profit % = ((Quantity Bought - Quantity Sold) / Quantity Sold) * 100 = ((15 - 10) / 10) * 100 = 50%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 264,
@@ -738,7 +738,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Number of white dots increases by 1 each time, and all white dots remain connected.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Number of white dots increases by 1 each time, and all white dots remain connected.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image268.png"
       },
       {
@@ -753,7 +753,7 @@
           "E"
         ],
         "correct": 0,
-        "reasoning": "A: Figure tumbles 45 degrees at each stage and alternates white/black/striped.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Figure tumbles 45 degrees at each stage and alternates white/black/striped.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image233.png"
       },
       {
@@ -768,7 +768,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: Top arm moves 45 deg clockwise each stage; bottom arm moves 90 deg clockwise.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Top arm moves 45 deg clockwise each stage; bottom arm moves 90 deg clockwise.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image257.png"
       },
       {
@@ -783,7 +783,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "D: Dot must appear in a circle with 3 secant lines passing through it.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Dot must appear in a circle with 3 secant lines passing through it.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image109.png"
       },
       {
@@ -798,7 +798,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "D: One dot in triangle & circle; other dot in triangle & three circles.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: One dot in triangle & circle; other dot in triangle & three circles.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image79.png"
       },
       {
@@ -813,7 +813,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Dot must appear in two circles and the square.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Dot must appear in two circles and the square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image15.png"
       },
       {
@@ -828,7 +828,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: One dot in one triangle; other dot in two triangles.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: One dot in one triangle; other dot in two triangles.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image94.png"
       },
       {
@@ -842,7 +842,7 @@
           "6"
         ],
         "correct": 2,
-        "reasoning": "5: (8 + 7) × 5 = 75.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (8 + 7) × 5 = 75.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image140.png"
       },
       {
@@ -856,7 +856,7 @@
           "7"
         ],
         "correct": 1,
-        "reasoning": "5: (6 + 8) – 9 = 5.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (6 + 8) – 9 = 5.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image169.png"
       },
       {
@@ -870,7 +870,7 @@
           "40"
         ],
         "correct": 2,
-        "reasoning": "36: 32 ÷ 8 × 9 = 36.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 36: 32 ÷ 8 × 9 = 36.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image211.png"
       },
       {
@@ -884,7 +884,7 @@
           "4"
         ],
         "correct": 0,
-        "reasoning": "1: Each triangle contains the digits 1–9 once each.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 1: Each triangle contains the digits 1–9 once each.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image260.png"
       },
       {
@@ -898,7 +898,7 @@
           "18"
         ],
         "correct": 2,
-        "reasoning": "16: 12 + 16 = 28 ÷ 7 = 4.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 16: 12 + 16 = 28 ÷ 7 = 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image41.png"
       },
       {
@@ -912,7 +912,7 @@
           "Son-in-law"
         ],
         "correct": 0,
-        "reasoning": "Father of uncle = grandfather. Daughter of grandfather = mother. Son of mother = Brother!"
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nFather of uncle = grandfather. Daughter of grandfather = mother. Son of mother = Brother!\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Brother</b>."
       },
       {
         "id": 369,
@@ -925,7 +925,7 @@
           "Grandfather"
         ],
         "correct": 1,
-        "reasoning": "A is sister of B, and their mother is C. D is C's father. So D is A's grandfather, which makes A the Granddaughter of D."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nA is sister of B, and their mother is C. D is C's father. So D is A's grandfather, which makes A the Granddaughter of D.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Granddaughter</b>."
       },
       {
         "id": 374,
@@ -938,7 +938,7 @@
           "54 days"
         ],
         "correct": 1,
-        "reasoning": "Efficiency ratio A : B = 2 : 1. Total efficiency = 3 units/day. Total work = 18 * 3 = 54 units. Time for A alone = 54 / 2 = 27 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nEfficiency ratio A : B = 2 : 1. Total efficiency = 3 units/day. Total work = 18 * 3 = 54 units. Time for A alone = 54 / 2 = 27 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 375,
@@ -951,7 +951,7 @@
           "7 days"
         ],
         "correct": 2,
-        "reasoning": "M1 * D1 = M2 * D2 -> 12 * 8 = 16 * D2 -> 96 = 16 * D2 -> D2 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nM1 * D1 = M2 * D2 -> 12 * 8 = 16 * D2 -> 96 = 16 * D2 -> D2 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 379,
@@ -964,7 +964,7 @@
           "10 km/hr"
         ],
         "correct": 1,
-        "reasoning": "5 minutes = 300 seconds.\nSpeed in m/s = 600 / 300 = 2 m/s.\nSpeed in km/hr = 2 * (18 / 5) = 7.2 km/hr."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\n5 minutes = 300 seconds.\nSpeed in m/s = 600 / 300 = 2 m/s.\nSpeed in km/hr = 2 * (18 / 5) = 7.2 km/hr.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 380,
@@ -977,7 +977,7 @@
           "15 seconds"
         ],
         "correct": 1,
-        "reasoning": "Relative speed = 60 + 40 = 100 km/hr = 100 * (5/18) = 250 / 9 m/s.\nTotal distance = 140 + 160 = 300 m.\nTime = 300 / (250/9) = 10.8 seconds."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nRelative speed = 60 + 40 = 100 km/hr = 100 * (5/18) = 250 / 9 m/s.\nTotal distance = 140 + 160 = 300 m.\nTime = 300 / (250/9) = 10.8 seconds.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 413,
@@ -990,7 +990,7 @@
           "7 km North"
         ],
         "correct": 0,
-        "reasoning": "North displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 414,
@@ -1003,7 +1003,7 @@
           "South"
         ],
         "correct": 1,
-        "reasoning": "Net rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNet rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 385,
@@ -1016,7 +1016,7 @@
           "Saturday"
         ],
         "correct": 3,
-        "reasoning": "61 mod 7 = 5 days remainder. Monday + 5 days = Saturday."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n61 mod 7 = 5 days remainder. Monday + 5 days = Saturday.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 415,
@@ -1029,7 +1029,7 @@
           "44 times"
         ],
         "correct": 1,
-        "reasoning": "The hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nThe hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 388,
@@ -1042,7 +1042,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "Sum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 419,
@@ -1055,7 +1055,7 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "Teacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 16,
@@ -1198,7 +1198,7 @@
           "Mitsui Takahashi Electronics, 3-1-2 Kasumigaseki, Chiyoda-ku, Tokyo 100-8901, Japan"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A has 100-8910. B has Takahasi. D has 3-1-2."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A has 100-8910. B has Takahasi. D has 3-1-2."
       },
       {
         "id": 392,
@@ -1211,7 +1211,7 @@
           "Svensson & Lindström Arkitekter, Vasagatan 84, 4th Floor, 111 20 Stockholm, Sweden"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B has single \"s\". C lacks umlaut ö. D has 84."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B has single \"s\". C lacks umlaut ö. D has 84."
       },
       {
         "id": 393,
@@ -1224,7 +1224,7 @@
           "Cormac O'Flaherty Civil Engineering, 18 Merrion Square East, Dublin 2, D02 F893, Ireland"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A misses \"e\" in Engineering. B has single \"r\" in Merion. D has F893."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A misses \"e\" in Engineering. B has single \"r\" in Merion. D has F893."
       },
       {
         "id": 394,
@@ -1237,7 +1237,7 @@
           "Valenzuala & Sons Transport, 4520 Westheimer Road, Suite 1250, Houston, TX 77027"
         ],
         "correct": 1,
-        "reasoning": "Option B is exact. A has 77072. C has 4250. D has Valenzuala."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is exact. A has 77072. C has 4250. D has Valenzuala."
       },
       {
         "id": 245,
@@ -1250,7 +1250,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image272.png"
       },
       {
@@ -1264,7 +1264,7 @@
           "Switch D"
         ],
         "correct": 0,
-        "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch A\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch A هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image282.png"
       },
       {
@@ -1278,7 +1278,7 @@
           "2% Loss"
         ],
         "correct": 2,
-        "reasoning": "Rule: When two items are sold at the same selling price, one with x% gain and one with x% loss, the overall result is ALWAYS a loss of (x/10)^2 %.\nLoss % = (20 / 10)^2 = 4% Loss."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nRule: When two items are sold at the same selling price, one with x% gain and one with x% loss, the overall result is ALWAYS a loss of (x/10)^2 %.\nLoss % = (20 / 10)^2 = 4% Loss.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 328,
@@ -1291,7 +1291,7 @@
           "30%"
         ],
         "correct": 1,
-        "reasoning": "Total Cost Price = Purchase price (1200) + Repairs (300) = 1500 LE.\nProfit = 1800 - 1500 = 300 LE.\nProfit % = (300 / 1500) * 100 = 20%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nTotal Cost Price = Purchase price (1200) + Repairs (300) = 1500 LE.\nProfit = 1800 - 1500 = 300 LE.\nProfit % = (300 / 1500) * 100 = 20%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 276,
@@ -1304,7 +1304,7 @@
           "654"
         ],
         "correct": 0,
-        "reasoning": "453: Top ÷ 2, bottom-left ÷ 3, bottom-right ÷ 4.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 453: Top ÷ 2, bottom-left ÷ 3, bottom-right ÷ 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image40.png"
       },
       {
@@ -1318,7 +1318,7 @@
           "31"
         ],
         "correct": 2,
-        "reasoning": "29: (31 + 2) – 29 = 4.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 29: (31 + 2) – 29 = 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image6.png"
       },
       {
@@ -1332,7 +1332,7 @@
           "D"
         ],
         "correct": 0,
-        "reasoning": "A: Each pair of circles are mirror images of each other.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Each pair of circles are mirror images of each other.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image107.png"
       },
       {
@@ -1346,7 +1346,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Only lines and symbols appearing exactly twice in outer circles appear in inner circle.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Only lines and symbols appearing exactly twice in outer circles appear in inner circle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image279.png"
       },
       {
@@ -1360,7 +1360,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Symbols transferred to middle circle when they appear in the same position once.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symbols transferred to middle circle when they appear in the same position once.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image51.png"
       },
       {
@@ -1375,7 +1375,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "C: Pairs of circles add together to produce the circle above, but common symbols cancel out.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Pairs of circles add together to produce the circle above, but common symbols cancel out.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image2.png"
       },
       {
@@ -1390,7 +1390,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Symbols in lower two circles combine, identical symbols cancel out.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Symbols in lower two circles combine, identical symbols cancel out.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image187.png"
       },
       {
@@ -1404,7 +1404,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: The right half is a mirror image of the left half.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: The right half is a mirror image of the left half.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image48.png"
       },
       {
@@ -1418,7 +1418,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "D: A dot is carried forward only when it appears in corner/centre just once in lower two.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A dot is carried forward only when it appears in corner/centre just once in lower two.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image101.png"
       },
       {
@@ -1432,7 +1432,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Lines across proceed +2, –3, +2; lines down proceed –3, +2, –3.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Lines across proceed +2, –3, +2; lines down proceed –3, +2, –3.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image224.png"
       },
       {
@@ -1446,7 +1446,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "D: Rotational logic and shading pattern across rows.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Rotational logic and shading pattern across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image81.png"
       },
       {
@@ -1461,7 +1461,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "D: Face alignment of circle and diagonal line produces cube D.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Face alignment of circle and diagonal line produces cube D.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image1.png"
       },
       {
@@ -1475,7 +1475,7 @@
           "Brother-in-law"
         ],
         "correct": 2,
-        "reasoning": "The father of Deepak's daughter is Deepak himself. So the gentleman's brother is Deepak's father -> The gentleman is Deepak's Uncle."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nThe father of Deepak's daughter is Deepak himself. So the gentleman's brother is Deepak's father -> The gentleman is Deepak's Uncle.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Uncle</b>."
       },
       {
         "id": 371,
@@ -1488,7 +1488,7 @@
           "Uncle"
         ],
         "correct": 2,
-        "reasoning": "C is A's brother. D is C's child. Since D's gender is not specified, D is either Nephew or Niece to A."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nC is A's brother. D is C's child. Since D's gender is not specified, D is either Nephew or Niece to A.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Nephew or Niece</b>."
       },
       {
         "id": 376,
@@ -1501,7 +1501,7 @@
           "25 minutes"
         ],
         "correct": 1,
-        "reasoning": "Time = (20 * 30) / (20 + 30) = 600 / 50 = 12 minutes."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nTime = (20 * 30) / (20 + 30) = 600 / 50 = 12 minutes.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 417,
@@ -1514,7 +1514,7 @@
           "1/10"
         ],
         "correct": 1,
-        "reasoning": "Work done in 4 days = 4 * (1/15 + 1/20) = 4 * (7/60) = 7/15. Fraction left = 1 - 7/15 = 8/15."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nWork done in 4 days = 4 * (1/15 + 1/20) = 4 * (7/60) = 7/15. Fraction left = 1 - 7/15 = 8/15.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 418,
@@ -1527,7 +1527,7 @@
           "55 km/hr"
         ],
         "correct": 1,
-        "reasoning": "Relative speed = 125m / 10s = 12.5 m/s = 12.5 * (18/5) = 45 km/hr. Since moving in same direction: Train speed = 45 + 5 = 50 km/hr."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nRelative speed = 125m / 10s = 12.5 m/s = 12.5 * (18/5) = 45 km/hr. Since moving in same direction: Train speed = 45 + 5 = 50 km/hr.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 377,
@@ -1540,7 +1540,7 @@
           "324 m"
         ],
         "correct": 1,
-        "reasoning": "Speed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 381,
@@ -1553,7 +1553,7 @@
           "South-West"
         ],
         "correct": 3,
-        "reasoning": "South (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nSouth (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 382,
@@ -1566,7 +1566,7 @@
           "35 m North"
         ],
         "correct": 1,
-        "reasoning": "North: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 416,
@@ -1579,7 +1579,7 @@
           "48 times"
         ],
         "correct": 2,
-        "reasoning": "Right angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nRight angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 383,
@@ -1592,7 +1592,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "Formula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 386,
@@ -1605,7 +1605,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "x + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 387,
@@ -1618,7 +1618,7 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "Father is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 29,
@@ -1761,7 +1761,7 @@
           "Boutique L'Hirondelle, 72 Rue du Faubourg Saint-Honoré, 75008 Paris, France"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B misses \"u\" in Faubourg. C lacks accent é. D has 72."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B misses \"u\" in Faubourg. C lacks accent é. D has 72."
       },
       {
         "id": 396,
@@ -1774,7 +1774,7 @@
           "Johannes Vermeer Antiquities, Keizersgracht 348, 1016 GB Amsterdam, Netherlands"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A has BG. B has Vermer. D has 348."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A has BG. B has Vermer. D has 348."
       },
       {
         "id": 397,
@@ -1787,7 +1787,7 @@
           "Archibald & Rutherford Wealth, 59 Queen Victoria Street, 6th Fl, London EC4V 4HN"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B has Rutherfor. C has 4NH. D has 59."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B has Rutherfor. C has 4NH. D has 59."
       },
       {
         "id": 398,
@@ -1800,7 +1800,7 @@
           "Casa Editrice Belvedere, Via dei Mille 142, Scala B, 80112 Napoli NA, Italy"
         ],
         "correct": 1,
-        "reasoning": "Option B is exact. A has 124. C has Belvidere. D has 80112."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is exact. A has 124. C has Belvidere. D has 80112."
       },
       {
         "id": 247,
@@ -1813,7 +1813,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image89.png"
       },
       {
@@ -1827,7 +1827,7 @@
           "Switch D"
         ],
         "correct": 3,
-        "reasoning": "الحل: Switch D is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch D\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch D هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image65.png"
       },
       {
@@ -1841,7 +1841,7 @@
           "500 LE"
         ],
         "correct": 1,
-        "reasoning": "The difference from -7% loss to +9% gain is 7% + 9% = 16% of C.P.\n16% of C.P = 64 LE -> C.P = 64 / 0.16 = 400 LE."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nThe difference from -7% loss to +9% gain is 7% + 9% = 16% of C.P.\n16% of C.P = 64 LE -> C.P = 64 / 0.16 = 400 LE.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 330,
@@ -1854,7 +1854,7 @@
           "26%"
         ],
         "correct": 1,
-        "reasoning": "Shortcut: d1 + d2 - (d1 * d2 / 100) = 20 + 10 - (200 / 100) = 30 - 2 = 28%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nShortcut: d1 + d2 - (d1 * d2 / 100) = 20 + 10 - (200 / 100) = 30 - 2 = 28%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 288,
@@ -1867,7 +1867,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Directional rotation and alternating segments.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Directional rotation and alternating segments.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image149.png"
       },
       {
@@ -1882,7 +1882,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Shape rotation and internal line count.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shape rotation and internal line count.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image71.png"
       },
       {
@@ -1896,7 +1896,7 @@
           "5"
         ],
         "correct": 2,
-        "reasoning": "4: Column and row summation logic.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Column and row summation logic.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image208.png"
       },
       {
@@ -1910,7 +1910,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Overlapping logic with cancellation.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Overlapping logic with cancellation.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image111.png"
       },
       {
@@ -1924,7 +1924,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Each row and column contains 6 complete lines and 6 broken lines.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Each row and column contains 6 complete lines and 6 broken lines.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image267.png"
       },
       {
@@ -1940,7 +1940,7 @@
           "F"
         ],
         "correct": 5,
-        "reasoning": "F: Rotational progression and element shading.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Rotational progression and element shading.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image124.png"
       },
       {
@@ -1954,7 +1954,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Line addition and cancellation across rows.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Line addition and cancellation across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image129.png"
       },
       {
@@ -1968,7 +1968,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Sequential movement of internal dots.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Sequential movement of internal dots.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image231.png"
       },
       {
@@ -1984,7 +1984,7 @@
           "F"
         ],
         "correct": 5,
-        "reasoning": "F: Dual alternating rotation of arms.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Dual alternating rotation of arms.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image180.png"
       },
       {
@@ -1998,7 +1998,7 @@
           "D"
         ],
         "correct": 0,
-        "reasoning": "A: Horizontal and vertical geometric consistency.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Horizontal and vertical geometric consistency.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image13.png"
       },
       {
@@ -2012,7 +2012,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Geometric symmetry and angle properties.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Geometric symmetry and angle properties.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image162.png"
       },
       {
@@ -2026,7 +2026,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Element combination rule.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Element combination rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image219.png"
       },
       {
@@ -2040,7 +2040,7 @@
           "Grandmother"
         ],
         "correct": 0,
-        "reasoning": "Only daughter of woman's mother is the woman herself! So the woman is the Mother of the man."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nOnly daughter of woman's mother is the woman herself! So the woman is the Mother of the man.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Mother</b>."
       },
       {
         "id": 408,
@@ -2053,7 +2053,7 @@
           "His uncle"
         ],
         "correct": 1,
-        "reasoning": "Father's only son (since Harsh has no siblings) is Harsh himself. Wife of Harsh is Harsh's wife. The mother of the person in the portrait is Harsh's wife -> The portrait is of Harsh's son!"
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nFather's only son (since Harsh has no siblings) is Harsh himself. Wife of Harsh is Harsh's wife. The mother of the person in the portrait is Harsh's wife -> The portrait is of Harsh's son!\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>His son</b>."
       },
       {
         "id": 372,
@@ -2066,7 +2066,7 @@
           "9 days"
         ],
         "correct": 1,
-        "reasoning": "Shortcut formula: (A * B) / (A + B) = (10 * 15) / (10 + 15) = 150 / 25 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nShortcut formula: (A * B) / (A + B) = (10 * 15) / (10 + 15) = 150 / 25 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 373,
@@ -2079,7 +2079,7 @@
           "10 days"
         ],
         "correct": 0,
-        "reasoning": "Formula: (A * Total) / (A - Total) = (12 * 4) / (12 - 4) = 48 / 8 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nFormula: (A * Total) / (A - Total) = (12 * 4) / (12 - 4) = 48 / 8 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 378,
@@ -2092,7 +2092,7 @@
           "120 seconds"
         ],
         "correct": 1,
-        "reasoning": "Speed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 379,
@@ -2105,7 +2105,7 @@
           "10 km/hr"
         ],
         "correct": 1,
-        "reasoning": "5 minutes = 300 seconds.\nSpeed in m/s = 600 / 300 = 2 m/s.\nSpeed in km/hr = 2 * (18 / 5) = 7.2 km/hr."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\n5 minutes = 300 seconds.\nSpeed in m/s = 600 / 300 = 2 m/s.\nSpeed in km/hr = 2 * (18 / 5) = 7.2 km/hr.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 413,
@@ -2118,7 +2118,7 @@
           "7 km North"
         ],
         "correct": 0,
-        "reasoning": "North displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 414,
@@ -2131,7 +2131,7 @@
           "South"
         ],
         "correct": 1,
-        "reasoning": "Net rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNet rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 384,
@@ -2144,7 +2144,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 385,
@@ -2157,7 +2157,7 @@
           "Saturday"
         ],
         "correct": 3,
-        "reasoning": "61 mod 7 = 5 days remainder. Monday + 5 days = Saturday."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n61 mod 7 = 5 days remainder. Monday + 5 days = Saturday.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 388,
@@ -2170,7 +2170,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "Sum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 419,
@@ -2183,7 +2183,7 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "Teacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 46,
@@ -2326,7 +2326,7 @@
           "Kaufmann & Zimmerman AG, Bahnhofstrasse 88, Postfach 1234, 8001 Zürich, Switzerland"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A has single \"n\" in Kaufman. B has 8010. D has single \"n\" in Zimmerman."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A has single \"n\" in Kaufman. B has 8010. D has single \"n\" in Zimmerman."
       },
       {
         "id": 400,
@@ -2339,7 +2339,7 @@
           "Nakamura Robotics Laboratry, 5-7-2 Minato-ku, Roppongi Hills 106-6108 Tokyo"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B has single \"p\" in Ropongi. C has 6180. D misses \"o\" in Laboratory."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B has single \"p\" in Ropongi. C has 6180. D misses \"o\" in Laboratory."
       },
       {
         "id": 401,
@@ -2352,7 +2352,7 @@
           "Hacienda del Carmon Export, Paseo de la Reforma 250, Piso 18, 06600 Cuauhtémoc, CDMX"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A lacks accent. B has 205. D has Carmon."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A lacks accent. B has 205. D has Carmon."
       },
       {
         "id": 402,
@@ -2365,7 +2365,7 @@
           "Dr. Penelopy Featherstone, The Old Vicarage, Church Lane, Little Compton GL56 0RZ"
         ],
         "correct": 1,
-        "reasoning": "Option B is exact. A has 0ZR. C misses \"e\". D has Penelopy."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (B) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option B is exact. A has 0ZR. C misses \"e\". D has Penelopy."
       },
       {
         "id": 249,
@@ -2378,7 +2378,7 @@
           "Switch D"
         ],
         "correct": 0,
-        "reasoning": "الحل: Switch A is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch A\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch A هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image102.png"
       },
       {
@@ -2392,7 +2392,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image154.png"
       },
       {
@@ -2406,7 +2406,7 @@
           "9.09%"
         ],
         "correct": 1,
-        "reasoning": "Profit % = (Error / Weight Given) * 100 = (100 / 900) * 100 = 11.11%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nProfit % = (Error / Weight Given) * 100 = (100 / 900) * 100 = 11.11%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 332,
@@ -2419,7 +2419,7 @@
           "17.5%"
         ],
         "correct": 0,
-        "reasoning": "Let C.P = 100 LE -> Marked Price = 125 LE.\nSelling Price after 10% discount = 125 * 0.90 = 112.5 LE.\nProfit % = 112.5 - 100 = 12.5%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nLet C.P = 100 LE -> Marked Price = 125 LE.\nSelling Price after 10% discount = 125 * 0.90 = 112.5 LE.\nProfit % = 112.5 - 100 = 12.5%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 300,
@@ -2432,7 +2432,7 @@
           "9"
         ],
         "correct": 2,
-        "reasoning": "8: Step difference logic across rows.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 8: Step difference logic across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image47.png"
       },
       {
@@ -2446,7 +2446,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Reflection across horizontal axis.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Reflection across horizontal axis.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image60.png"
       },
       {
@@ -2460,7 +2460,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Dot transposition rule.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Dot transposition rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image90.png"
       },
       {
@@ -2474,7 +2474,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Line segment intersection count.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Line segment intersection count.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image45.png"
       },
       {
@@ -2488,7 +2488,7 @@
           "73.5"
         ],
         "correct": 2,
-        "reasoning": "72.5: Arithmetic progression formula.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 72.5: Arithmetic progression formula.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image85.png"
       },
       {
@@ -2502,7 +2502,7 @@
           "L"
         ],
         "correct": 2,
-        "reasoning": "K: Alphabetical step progression.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• K: Alphabetical step progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image25.png"
       },
       {
@@ -2516,7 +2516,7 @@
           "O"
         ],
         "correct": 2,
-        "reasoning": "N: Alternating letter jumps.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• N: Alternating letter jumps.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image217.png"
       },
       {
@@ -2530,7 +2530,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Cyclic transformation across rows.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Cyclic transformation across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image34.png"
       },
       {
@@ -2544,7 +2544,7 @@
           "3845"
         ],
         "correct": 2,
-        "reasoning": "3645: Exponential multiplication pattern.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 3645: Exponential multiplication pattern.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image212.png"
       },
       {
@@ -2558,7 +2558,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: 90 degree clockwise rotation with inverse fill.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: 90 degree clockwise rotation with inverse fill.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image3.png"
       },
       {
@@ -2572,7 +2572,7 @@
           "18"
         ],
         "correct": 2,
-        "reasoning": "17: Sum of opposites minus center value.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 17: Sum of opposites minus center value.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image16.png"
       },
       {
@@ -2586,7 +2586,7 @@
           "5"
         ],
         "correct": 2,
-        "reasoning": "4: Intersecting ring values summation.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Intersecting ring values summation.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image226.png"
       },
       {
@@ -2600,7 +2600,7 @@
           "Sister"
         ],
         "correct": 3,
-        "reasoning": "Lady's mother's husband = Lady's father. Lady's father's sister = Lady's aunt. Since she is also the man's aunt, the lady is the man's Sister!"
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nLady's mother's husband = Lady's father. Lady's father's sister = Lady's aunt. Since she is also the man's aunt, the lady is the man's Sister!\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Sister</b>."
       },
       {
         "id": 410,
@@ -2613,7 +2613,7 @@
           "Uncle"
         ],
         "correct": 1,
-        "reasoning": "Grandfather's only son = Vipul's father. Daughter of Vipul's father = Vipul's sister -> Vipul is her Brother."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nGrandfather's only son = Vipul's father. Daughter of Vipul's father = Vipul's sister -> Vipul is her Brother.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Brother</b>."
       },
       {
         "id": 374,
@@ -2626,7 +2626,7 @@
           "54 days"
         ],
         "correct": 1,
-        "reasoning": "Efficiency ratio A : B = 2 : 1. Total efficiency = 3 units/day. Total work = 18 * 3 = 54 units. Time for A alone = 54 / 2 = 27 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nEfficiency ratio A : B = 2 : 1. Total efficiency = 3 units/day. Total work = 18 * 3 = 54 units. Time for A alone = 54 / 2 = 27 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 375,
@@ -2639,7 +2639,7 @@
           "7 days"
         ],
         "correct": 2,
-        "reasoning": "M1 * D1 = M2 * D2 -> 12 * 8 = 16 * D2 -> 96 = 16 * D2 -> D2 = 6 days."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nM1 * D1 = M2 * D2 -> 12 * 8 = 16 * D2 -> 96 = 16 * D2 -> D2 = 6 days.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 380,
@@ -2652,7 +2652,7 @@
           "15 seconds"
         ],
         "correct": 1,
-        "reasoning": "Relative speed = 60 + 40 = 100 km/hr = 100 * (5/18) = 250 / 9 m/s.\nTotal distance = 140 + 160 = 300 m.\nTime = 300 / (250/9) = 10.8 seconds."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nRelative speed = 60 + 40 = 100 km/hr = 100 * (5/18) = 250 / 9 m/s.\nTotal distance = 140 + 160 = 300 m.\nTime = 300 / (250/9) = 10.8 seconds.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 418,
@@ -2665,7 +2665,7 @@
           "55 km/hr"
         ],
         "correct": 1,
-        "reasoning": "Relative speed = 125m / 10s = 12.5 m/s = 12.5 * (18/5) = 45 km/hr. Since moving in same direction: Train speed = 45 + 5 = 50 km/hr."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nRelative speed = 125m / 10s = 12.5 m/s = 12.5 * (18/5) = 45 km/hr. Since moving in same direction: Train speed = 45 + 5 = 50 km/hr.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 381,
@@ -2678,7 +2678,7 @@
           "South-West"
         ],
         "correct": 3,
-        "reasoning": "South (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nSouth (-y) -> turns right (West, -x) -> turns left (South, -y). Net direction from start is South-West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 382,
@@ -2691,7 +2691,7 @@
           "35 m North"
         ],
         "correct": 1,
-        "reasoning": "North: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth: 20m. East: +30m. South: -35m (now 15m South). East: +15m (total East = 45m). North: +15m (returns to original horizontal line). Final position: 45m East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 415,
@@ -2704,7 +2704,7 @@
           "44 times"
         ],
         "correct": 1,
-        "reasoning": "The hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nThe hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 416,
@@ -2717,7 +2717,7 @@
           "48 times"
         ],
         "correct": 2,
-        "reasoning": "Right angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nRight angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 386,
@@ -2730,7 +2730,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "x + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 387,
@@ -2743,7 +2743,7 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "Father is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 62,
@@ -2886,7 +2886,7 @@
           "Esposito & Di Luca Shipping, Calata San Marco 4, Interno 6, 80313 Napoli, Italy"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B has De Luca. D has 80313."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B has De Luca. D has 80313."
       },
       {
         "id": 404,
@@ -2899,7 +2899,7 @@
           "Thorvaldsen Nordic Logistcs, Strandgade 91, 2. sal, 1401 København K, Denmark"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A has o instead of ø. B has 19. D misses \"i\"."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A has o instead of ø. B has 19. D misses \"i\"."
       },
       {
         "id": 405,
@@ -2912,7 +2912,7 @@
           "Goldstein, Weinberg & Mayer LLP, 1290 Avenue of the Americas, 29th Fl, New York, NY 10104"
         ],
         "correct": 0,
-        "reasoning": "Option A is exact. B has Wienberg. C has 10014. D has Mayer."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (A) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option A is exact. B has Wienberg. C has 10014. D has Mayer."
       },
       {
         "id": 406,
@@ -2925,7 +2925,7 @@
           "O'Shaughnessy Pharmaceutical Reseach, 42 Dawson Street, Penthouse B, Dublin 2, D02 H318"
         ],
         "correct": 2,
-        "reasoning": "Option C is exact. A has H381. B has single \"s\". D misses \"r\" in Research."
+        "reasoning": "🔍 <b>التدقيق المقارن حرفاً بحرف:</b>\n• <b>الإجابة الصحيحة:</b> الاختيار (C) هو النسخة المطابقة 100% للأصل دون أي زيادة أو نقصان.\n• <b>أماكن الأخطاء في باقي الاختيارات:</b> واضع الامتحان يغير دائماً رقماً في الـ ZIP Code، أو يحذف حرفاً مضاعفاً، أو يبدل رقمين متجاورين في رقم الشارع/الجناح.\n• Option C is exact. A has H381. B has single \"s\". D misses \"r\" in Research."
       },
       {
         "id": 251,
@@ -2938,7 +2938,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "الحل: Switch B is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image230.png"
       },
       {
@@ -2952,7 +2952,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "الحل: Switch C is faulty\nتم توضيح خطوات التبديل والحالات (Toggle states) بالكامل في الصورة المرفقة.",
+        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
         "image": "night_exam/image150.png"
       },
       {
@@ -2966,7 +2966,7 @@
           "16.67%"
         ],
         "correct": 1,
-        "reasoning": "Total items received = 4 + 1 = 5.\nEffective discount % = (Free items / Total items) * 100 = (1 / 5) * 100 = 20%."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nTotal items received = 4 + 1 = 5.\nEffective discount % = (Free items / Total items) * 100 = (1 / 5) * 100 = 20%.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 334,
@@ -2979,7 +2979,7 @@
           "240 LE"
         ],
         "correct": 1,
-        "reasoning": "C.P = 1440 / 0.80 = 1800 LE.\nLoss amount = C.P - S.P = 1800 - 1440 = 360 LE."
+        "reasoning": "💰 <b>الخطوات الرياضية والقانون المستخدم:</b>\nC.P = 1440 / 0.80 = 1800 LE.\nLoss amount = C.P - S.P = 1800 - 1440 = 360 LE.\n\n💡 <b>كسب الوقت في الامتحان:</b> النسبة المئوية للربح أو الخسارة تُحسب دائماً منسوبة إلى <b>سعر الشراء والتكلفة (Cost Price)</b> وليس سعر البيع ما لم يُذكر خلاف ذلك!"
       },
       {
         "id": 312,
@@ -2992,7 +2992,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "C: Visual subtraction rule across columns.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Visual subtraction rule across columns.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image171.png"
       },
       {
@@ -3006,7 +3006,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "D: Outer frame clockwise rotation.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Outer frame clockwise rotation.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image216.png"
       },
       {
@@ -3020,7 +3020,7 @@
           "8"
         ],
         "correct": 2,
-        "reasoning": "7: Diagonal arithmetic progression.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 7: Diagonal arithmetic progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image134.png"
       },
       {
@@ -3034,7 +3034,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Start bottom-left corner square and follow progression.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Start bottom-left corner square and follow progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image183.png"
       },
       {
@@ -3048,7 +3048,7 @@
           "6"
         ],
         "correct": 2,
-        "reasoning": "5: Hexagonal edge sum logic.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: Hexagonal edge sum logic.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image121.png"
       },
       {
@@ -3063,7 +3063,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Shaded sector counter-clockwise motion.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shaded sector counter-clockwise motion.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image276.png"
       },
       {
@@ -3077,7 +3077,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "D: Compound shape overlay rule.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Compound shape overlay rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image215.png"
       },
       {
@@ -3092,7 +3092,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "E: Feature alternation across grid.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Feature alternation across grid.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image88.png"
       },
       {
@@ -3106,7 +3106,7 @@
           "7"
         ],
         "correct": 2,
-        "reasoning": "6: Segment product division rule.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 6: Segment product division rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image105.png"
       },
       {
@@ -3120,7 +3120,7 @@
           "D"
         ],
         "correct": 0,
-        "reasoning": "A: Square goes inside diamond and diamond inside circle.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Square goes inside diamond and diamond inside circle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image238.jpg"
       },
       {
@@ -3134,7 +3134,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B: Symmetry preservation across middle axis.",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symmetry preservation across middle axis.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "night_exam/image192.png"
       },
       {
@@ -3150,7 +3150,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "B;",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
         "image": "ultimate_test1_q01.png"
       },
       {
@@ -3164,7 +3164,7 @@
           "Aunt"
         ],
         "correct": 0,
-        "reasoning": "Nephew's mother is the man's sister. Her maternal grandmother is the mother of the man's sister -> Mother."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nNephew's mother is the man's sister. Her maternal grandmother is the mother of the man's sister -> Mother.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Mother</b>."
       },
       {
         "id": 412,
@@ -3177,7 +3177,7 @@
           "Uncle"
         ],
         "correct": 1,
-        "reasoning": "E is child of B. B is child of C. Therefore, C is Grandfather or Grandmother of E."
+        "reasoning": "👥 <b>فك شجرة العائلة خطوة بخطوة:</b>\n• <b>طريقة التفكير السريعة:</b> فكك العبارة دائماً <b>من اليمين إلى اليسار (من آخر الجملة للبداية)</b>:\nE is child of B. B is child of C. Therefore, C is Grandfather or Grandmother of E.\n• <b>الخلاصة:</b> صلة القرابة الدقيقة هي <b>Grandfather or Grandmother</b>."
       },
       {
         "id": 376,
@@ -3190,7 +3190,7 @@
           "25 minutes"
         ],
         "correct": 1,
-        "reasoning": "Time = (20 * 30) / (20 + 30) = 600 / 50 = 12 minutes."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nTime = (20 * 30) / (20 + 30) = 600 / 50 = 12 minutes.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 417,
@@ -3203,7 +3203,7 @@
           "1/10"
         ],
         "correct": 1,
-        "reasoning": "Work done in 4 days = 4 * (1/15 + 1/20) = 4 * (7/60) = 7/15. Fraction left = 1 - 7/15 = 8/15."
+        "reasoning": "⏱️ <b>القاعدة الرياضية لحساب معدل الإنجاز:</b>\nWork done in 4 days = 4 * (1/15 + 1/20) = 4 * (7/60) = 7/15. Fraction left = 1 - 7/15 = 8/15.\n💡 <b>القانون السريع:</b> عند عمل طرفين معاً، الزمن المشترك = (حاصل ضرب الزمنين) ÷ (مجموع الزمنين)."
       },
       {
         "id": 377,
@@ -3216,7 +3216,7 @@
           "324 m"
         ],
         "correct": 1,
-        "reasoning": "Speed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed in m/s = 60 * (5 / 18) = 50 / 3 m/s.\nDistance (Length) = Speed * Time = (50 / 3) * 9 = 150 meters.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 378,
@@ -3229,7 +3229,7 @@
           "120 seconds"
         ],
         "correct": 1,
-        "reasoning": "Speed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds."
+        "reasoning": "🚆 <b>خطوات حل مسائل السرعة والقطارات:</b>\nSpeed of train = 240 / 24 = 10 m/s.\nTotal distance = 240 + 650 = 890 m.\nTime = 890 / 10 = 89 seconds.\n💡 <b>تذكر دائماً:</b>\n• التحويل من km/hr إلى m/s: اضرب في (5 / 18).\n• عند عبور القطار لعمود أو شخص: المسافة = طول القطار فقط.\n• عند عبور رصيف أو نفق: المسافة = طول القطار + طول الرصيف/النفق."
       },
       {
         "id": 413,
@@ -3242,7 +3242,7 @@
           "7 km North"
         ],
         "correct": 0,
-        "reasoning": "North displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNorth displacement = 10 - 6 = 4 km. East displacement = 3 km. Distance = sqrt(4^2 + 3^2) = 5 km North-East.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 414,
@@ -3255,7 +3255,7 @@
           "South"
         ],
         "correct": 1,
-        "reasoning": "Net rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West."
+        "reasoning": "🧭 <b>تتبع الحركة على المحاور الجغرافية:</b>\nNet rotation = 90° clockwise - 135° anti-clockwise = 45° anti-clockwise. 45° anti-clockwise from North-West is West.\n💡 <b>طريقة الرسم الذهني:</b>\nشمال (+Y) ⬆️ | جنوب (-Y) ⬇️ | شرق (+X) ➡️ | غرب (-X) ⬅️\nالدوران لليمين من الشمال = شرق، والدوران لليمين من الجنوب = غرب."
       },
       {
         "id": 383,
@@ -3268,7 +3268,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "Formula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 384,
@@ -3281,7 +3281,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°."
+        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
       },
       {
         "id": 388,
@@ -3294,7 +3294,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "Sum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 419,
@@ -3307,7 +3307,7 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "Teacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
       },
       {
         "id": 82,
