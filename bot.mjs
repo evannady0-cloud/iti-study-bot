@@ -27,7 +27,20 @@ server.listen(PORT, () => {
   console.log(`🌐 Cloud health server listening on port ${actualPort}`);
 });
 
-const TOKEN = '8744413280:AAHPubO0X9WA0OgAeb5kKFGqO6VCwMfFDKs';
+// Load environment variables if .env exists
+if (fs.existsSync(path.join(__dirname, '.env'))) {
+  const envContent = fs.readFileSync(path.join(__dirname, '.env'), 'utf-8');
+  envContent.split('\n').forEach(line => {
+    const [k, ...v] = line.trim().split('=');
+    if (k && v.length) process.env[k.trim()] = v.join('=').trim();
+  });
+}
+
+const TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
+if (!TOKEN) {
+  console.error('FATAL: TELEGRAM_BOT_TOKEN is not defined in environment or .env file!');
+  process.exit(1);
+}
 const API_BASE = `https://api.telegram.org/bot${TOKEN}`;
 const IMAGES_DIR = path.join(__dirname, 'images');
 
