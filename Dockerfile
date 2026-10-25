@@ -1,6 +1,8 @@
-FROM node:20-slim
+FROM node:20-alpine
 WORKDIR /app
+COPY package*.json ./
+RUN npm install --production
 COPY . .
-EXPOSE 7860
-ENV PORT=7860
+EXPOSE 8080
+ENV PORT=8080
 CMD ["node", "bot.mjs"]

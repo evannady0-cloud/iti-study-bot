@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: iti-study-bot
+    runtime: node
+    plan: free
+    region: frankfurt
+    buildCommand: npm install
+    startCommand: node bot.mjs
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
