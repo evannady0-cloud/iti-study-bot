@@ -245,6 +245,12 @@ async function sendQuestion(chatId) {
     }]);
   }
 
+  // Add "مش عارف (اشرحلي الحل)" helper button
+  buttons.push([{
+    text: '❓ مش عارف (اشرحلي الحل)',
+    callback_data: `ans_${q.id}_unknown`
+  }]);
+
   const categoryLabel = q.category || 'IQ Question';
   const captionText = `🎯 <b>[${categoryLabel}] Question ${state.currentIndex + 1} / ${total}</b>\n\n` +
     `<b>${q.question}</b>`;
@@ -337,12 +343,13 @@ async function pollUpdates() {
           } else if (query.data.startsWith('ans_')) {
             const parts = query.data.split('_');
             const qId = parseInt(parts[1], 10);
-            const userChoice = parseInt(parts[2], 10);
+            const isUnknown = (parts[2] === 'unknown');
+            const userChoice = isUnknown ? -1 : parseInt(parts[2], 10);
 
             const q = state.queue.find(item => item.id === qId);
             if (!q) continue;
 
-            const isCorrect = (userChoice === q.correct);
+            const isCorrect = !isUnknown && (userChoice === q.correct);
             state.totalAnswered++;
             if (isCorrect) state.score++;
 
@@ -353,9 +360,14 @@ async function pollUpdates() {
               ? `<b>[ ${corrLetter} ]</b>`
               : `<b>${corrLetter} ) ${corrText}</b>`;
 
-            const feedbackHeader = isCorrect
-              ? `✅ <b>إجابة صحيحة! الله ينور!</b>`
-              : `❌ <b>إجابة غير صحيحة!</b>\nالإجابة الصحيحة هي: ${displayAns}`;
+            let feedbackHeader = '';
+            if (isUnknown) {
+              feedbackHeader = `🤔 <b>ولا يهمك خالص! تعال نتعلم فكرتها سوا:</b>\nالإجابة الصحيحة هي: ${displayAns}`;
+            } else if (isCorrect) {
+              feedbackHeader = `✅ <b>إجابة صحيحة! الله ينور!</b>`;
+            } else {
+              feedbackHeader = `❌ <b>إجابة غير صحيحة!</b>\nالإجابة الصحيحة هي: ${displayAns}`;
+            }
 
             const feedbackMsg = `${feedbackHeader}\n\n` +
               `💡 <b>Reasoning (التفسير والتعليل):</b>\n${q.reasoning}\n\n` +
