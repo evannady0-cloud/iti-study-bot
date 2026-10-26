@@ -1,3 +1,15 @@
+---
+title: ITI Study Telegram Bot
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.44.1
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🎓 ITI Admission Exam Mega Preparation Bot (@Studdyhelpbot)
 
 بوت تدريب واختبارات القبول المكثفة لمعهد تكنولوجيا المعلومات (ITI) في مجالي الـ **IQ** والـ **English** بأحدث التوزيعات المعتمدة ونماذج ليلة الامتحان.
