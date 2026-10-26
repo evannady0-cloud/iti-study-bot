@@ -4075,6 +4075,716 @@
         "correct": 0,
         "reasoning": "Used to + base verb (study) describes a past habit."
       }
+    ],
+    "english_model_3": [
+      {
+        "id": 69,
+        "category": "English Situations (Test 3)",
+        "question": "You want to buy a new red skirt for yourself. The sales clerk is asking if she can help you. You say:",
+        "options": [
+          "What sizes are available?",
+          "What size do you take?",
+          "How long will you be open tonight?",
+          "Yes, please.",
+          "Which one would you like to wear?"
+        ],
+        "correct": 3,
+        "reasoning": "Official Correct Answer: D) \"Yes, please.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 70,
+        "category": "English Situations (Test 3)",
+        "question": "The children are making a lot of noise and you must study for an important exam the next day. You say:",
+        "options": [
+          "Oh, come on; let's play.",
+          "Please go into the other room and play.",
+          "Why don't you turn up the volume of the television?",
+          "Who's going to study for my examination?",
+          "Do you think I should take the test next week instead?"
+        ],
+        "correct": 1,
+        "reasoning": "Official Correct Answer: B) \"Please go into the other room and play.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 71,
+        "category": "English Situations (Test 3)",
+        "question": "You had promised your mother that you would pick your brother up from school on the way home. You are late getting out of work and are not able to keep your promise. You call your mother and say:",
+        "options": [
+          "I didn't remember to keep my promise.",
+          "I'll be late home. Can you remind my brother?",
+          "I won't be able to get him out of the school.",
+          "I'm not going to be able to meet you.",
+          "I haven't been able to finish up here. Would you send Dad to get him?"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"I haven't been able to finish up here. Would you send Dad to get him?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 72,
+        "category": "English Situations (Test 3)",
+        "question": "You have decided to go to Spain on your holiday. You call the travel agency and say:",
+        "options": [
+          "Will you be going to Spain this year?",
+          "Are there any rooms at the Spanish hotel?",
+          "Is this a very good idea at this time of the year?",
+          "Never mind. I'll go with you next time.",
+          "Will you give me some information about touring Spain?"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"Will you give me some information about touring Spain?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 73,
+        "category": "English Situations (Test 3)",
+        "question": "The telephone is ringing but your hands are full and you can't answer it. Your sister is in the other room and you say:",
+        "options": [
+          "Susan, can you please get that?",
+          "I'll see who that is.",
+          "Please, see who is at the door.",
+          "Take these out of my hands, please.",
+          "What are you going to do with the phone?"
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"Susan, can you please get that?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 74,
+        "category": "English Situations (Test 3)",
+        "question": "You are waiting for a friend at the bus station. Another friend has come with you and asks what your friend looks like. You say:",
+        "options": [
+          "You don’t know him.",
+          "I'll introduce you when he gets here.",
+          "He resembles his cousin Joseph who you know.",
+          "The one with the dark hair.",
+          "It doesn't really matter."
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"He resembles his cousin Joseph who you know.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 75,
+        "category": "English Situations (Test 3)",
+        "question": "You went to the ballet last night. A friend has just asked you what it was like. You say:",
+        "options": [
+          "They sang many lovely songs.",
+          "He was the most interesting speaker I've ever listened to.",
+          "We enjoyed ourselves immensely.",
+          "I'll go with you next time.",
+          "You should have come when he asked you to."
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"We enjoyed ourselves immensely.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 76,
+        "category": "English Situations (Test 3)",
+        "question": "You get onto the bus and someone is sitting in your seat. You say:",
+        "options": [
+          "What are you going to do there?",
+          "It would be a good idea to change your mind about this trip.",
+          "Have you gone by bus before?",
+          "When did you buy your ticket?",
+          "I believe you are in my place."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"I believe you are in my place.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 77,
+        "category": "English Situations (Test 3)",
+        "question": "Your friend has just given you flowers. There is no special occasion today. You are puzzled and say:",
+        "options": [
+          "What is this for?",
+          "How thoughtful of you to remember?",
+          "Let me have them.",
+          "Who do you want me to give them to?",
+          "Why do you always pick the same flowers?"
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"What is this for?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 78,
+        "category": "English Situations (Test 3)",
+        "question": "You have been taking sewing classes and have just made your first article of clothing. You show it to your mother and say:",
+        "options": [
+          "I told you I wouldn't be able to manage.",
+          "What do you think, Mom?",
+          "Who is that for?",
+          "Can you help fix this?",
+          "I wanted you to see this before I bought it. Situational Responses Test 3 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-3/ www.englishtestsonline.com"
+        ],
+        "correct": 1,
+        "reasoning": "Official Correct Answer: B) \"What do you think, Mom?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 79,
+        "category": "English Situations (Advanced)",
+        "question": "You're a university student in the genetic engineering faculty. You really want to be a great scientist and have a Nobel one day. When you get a rather low mark from one of your exams, your professor says that you can never fulfil your dream of being a great scientist. You say to him determinedly:",
+        "options": [
+          "I'm very set on becoming a great scientist and you can’t change this.",
+          "I've already made up my mind to leave the college so don't worry!",
+          "I'm determined to pursue this matter at all costs!",
+          "I didn't know that my capacity was so insufficient.",
+          "You're right, I think. I'd better give up dreams!"
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"I'm determined to pursue this matter at all costs!\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 80,
+        "category": "English Situations (Advanced)",
+        "question": "You're not at all satisfied with the way your mobile phone has been serviced. Therefore, you take it back to the repairman and say to him:",
+        "options": [
+          "You want quite a lot of money, but you do a good job.",
+          "I'm certain you must have worked here for a long time. It can easily be understood from your work!",
+          "You worked hard on my phone and I'm extremely content with it.",
+          "I haven't had the chance to get my mobile phone serviced for a long while. Can you have a look at it tomorrow?",
+          "I must say I'm rather upset about the way my mobile phone has been performing since it was last serviced by you. Please, check it again."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"I must say I'm rather upset about the way my mobile phone has been performing since it was last serviced by you. Please, check it again.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 81,
+        "category": "English Situations (Advanced)",
+        "question": "One of your friends has just lost his job. And he doesn't have the courage to apply for a new job. You want to encourage him and also want to give him some confidence to arrange some job interviews. You say:",
+        "options": [
+          "It's high time you realized that you're not up to the standard for the criteria the firms are looking for.",
+          "A lot of people have already made their interviews for good positions, I think.",
+          "While you're thinking here, the jobs wouldn't wait for you.",
+          "You don't stand much a chance but perhaps you can be accepted to a moderate job. Why don't you try it?",
+          "It seems to me you’ve got many right qualifications. Why don't you apply for a job? Even if you're not accepted, there’s no harm done."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"It seems to me you’ve got many right qualifications. Why don't you apply for a job? Even if you're not accepted, there’s no harm done.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 25,
+        "question": "What is the closest synonym for the word 'RAPID'?",
+        "options": [
+          "Slow",
+          "Fast",
+          "Heavy",
+          "Quiet"
+        ],
+        "correct": 1,
+        "reasoning": "Rapid means Fast / Quick."
+      },
+      {
+        "id": 26,
+        "question": "________ the heavy rain, the telecom technician repaired the network tower.",
+        "options": [
+          "Although",
+          "Despite",
+          "Even though",
+          "In spite"
+        ],
+        "correct": 1,
+        "reasoning": "Despite + noun phrase ('the heavy rain'). Although requires a full clause with subject and verb."
+      },
+      {
+        "id": 27,
+        "question": "The weather forecast says it will be sunny all day. You ________ bring an umbrella.",
+        "options": [
+          "mustn't",
+          "don't need to",
+          "couldn't",
+          "aren't"
+        ],
+        "correct": 1,
+        "reasoning": "Don't need to indicates lack of necessity."
+      },
+      {
+        "id": 28,
+        "question": "I have been living in Cairo ________ 2018.",
+        "options": [
+          "for",
+          "since",
+          "in",
+          "ago"
+        ],
+        "correct": 1,
+        "reasoning": "Since + specific point in time (2018)."
+      },
+      {
+        "id": 29,
+        "question": "They have been working on the telecommunications project ________ three months.",
+        "options": [
+          "since",
+          "for",
+          "during",
+          "while"
+        ],
+        "correct": 1,
+        "reasoning": "For + duration / period of time (3 months)."
+      },
+      {
+        "id": 30,
+        "question": "Neither of the network engineers ________ available right now.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been"
+        ],
+        "correct": 0,
+        "reasoning": "'Neither of' takes a singular verb in formal grammar -> is available."
+      },
+      {
+        "id": 31,
+        "question": "By this time next year, she ________ from the university.",
+        "options": [
+          "will graduate",
+          "will have graduated",
+          "graduated",
+          "is graduating"
+        ],
+        "correct": 1,
+        "reasoning": "Future Perfect: 'By this time next year' + will have + past participle."
+      },
+      {
+        "id": 32,
+        "question": "The team leader asked if I could ________ him a hand with the deployment.",
+        "options": [
+          "give",
+          "make",
+          "take",
+          "do"
+        ],
+        "correct": 0,
+        "reasoning": "Fixed idiom: 'give someone a hand' = help someone."
+      },
+      {
+        "id": 33,
+        "question": "Hardly ________ the server room when the alarm started ringing.",
+        "options": [
+          "I had entered",
+          "had I entered",
+          "did I enter",
+          "I entered"
+        ],
+        "correct": 1,
+        "reasoning": "Inversion with negative adverbs: Hardly + had + subject + past participle."
+      },
+      {
+        "id": 34,
+        "question": "I would rather you ________ me the truth right now.",
+        "options": [
+          "tell",
+          "told",
+          "have told",
+          "will tell"
+        ],
+        "correct": 1,
+        "reasoning": "'Would rather + subject + past subjunctive' expresses present preference -> told."
+      },
+      {
+        "id": 35,
+        "question": "He is famous ________ his innovative algorithm designs.",
+        "options": [
+          "with",
+          "for",
+          "about",
+          "at"
+        ],
+        "correct": 1,
+        "reasoning": "Famous FOR (fixed preposition)."
+      },
+      {
+        "id": 36,
+        "question": "I can't afford ________ a new flagship phone this month.",
+        "options": [
+          "buy",
+          "buying",
+          "to buy",
+          "bought"
+        ],
+        "correct": 2,
+        "reasoning": "Afford + to-infinitive -> afford to buy."
+      },
+      {
+        "id": 37,
+        "question": "In your ITI interview: 'What do you do when you face a difficult technical bug?'",
+        "options": [
+          "I panic and close my laptop.",
+          "I research documentation, break down the problem, and consult team members if needed.",
+          "I tell the client the system is impossible to fix.",
+          "It's never my fault."
+        ],
+        "correct": 1,
+        "reasoning": "Professional problem-solving methodology."
+      }
+    ],
+    "english_model_4": [
+      {
+        "id": 82,
+        "category": "English Situations (Advanced)",
+        "question": "A friend of yours has been drinking heavily for a few years and clearly, this is seriously affecting his health. You want to warn him and say:",
+        "options": [
+          "Are you an alcoholic or what?",
+          "Your health is swiftly deteriorating; thus you'd better give up alcohol.",
+          "I presume it's only in critical periods you drink so much!",
+          "I don't understand why, after all these years, you drink so heavily.",
+          "I think you have psychological problems and this affects me in a bad way."
+        ],
+        "correct": 1,
+        "reasoning": "Official Correct Answer: B) \"Your health is swiftly deteriorating; thus you'd better give up alcohol.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 83,
+        "category": "English Situations (Advanced)",
+        "question": "You are telephoning about a job advertisement you have seen in the newspaper. You would like to arrange an interview with the director. Her name is Mrs Perkins. You say;",
+        "options": [
+          "I want to see Mrs Perkins on Thursday morning at 10 o'clock, ok?",
+          "Mrs Perkins wants to interview me next Monday.",
+          "I would like to arrange an interview with Mrs Perkins, please.",
+          "When can I see Mrs Perkins about an interview?",
+          "Today, I'm coming for my job interview. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"I would like to arrange an interview with Mrs Perkins, please.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 84,
+        "category": "English Situations (Advanced)",
+        "question": "A friend bought you a shirt for your birthday. You like it very much but it is too big for you, so you take it back to the shop and politely ask to change it. You say:",
+        "options": [
+          "This is a nice shirt but it doesn't fit, so I'll have a different one.",
+          "This shirt is too big for my friend; please, give me a different one.",
+          "Do you think this shirt is too big for me? If so, I want to change it.",
+          "Do you have this shirt in a smaller size? I would like to change it, please.",
+          "You'd better change this shirt or I'll call the police."
+        ],
+        "correct": 3,
+        "reasoning": "Official Correct Answer: D) \"Do you have this shirt in a smaller size? I would like to change it, please.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 85,
+        "category": "English Situations (Advanced)",
+        "question": "You are a science teacher in a public school. You are taking visitors to the laboratory to see how your experiment has been set up. It is important that no one touches anything. You say:",
+        "options": [
+          "Regarding the experiment, let us keep in touch.",
+          "If you want to touch anything, be sure it is safe.",
+          "It's essential that nobody touches anything related to the experiment.",
+          "I'm certain no one has touched anything.",
+          "Please keep away from the experiment area."
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"It's essential that nobody touches anything related to the experiment.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 86,
+        "category": "English Situations (Advanced)",
+        "question": "Unexpectedly, you are called in for an important meeting and, therefore, cannot keep your appointment with the doctor. So you call his secretary and say:",
+        "options": [
+          "Tell the doctor to telephone me when he returns",
+          "I'm sure the doctor has left a message to you, concerning my appointment.",
+          "I think many patients will cancel their appointment today.",
+          "This is Mary Wilson. I'm afraid I have to cancel my 4 o'clock appointment with the doctor.",
+          "Concerning my appointment, I'll be late for some time."
+        ],
+        "correct": 3,
+        "reasoning": "Official Correct Answer: D) \"This is Mary Wilson. I'm afraid I have to cancel my 4 o'clock appointment with the doctor.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 87,
+        "category": "English Situations (Advanced)",
+        "question": "You are at an art exhibition and have just met the artist. You want to express your appreciation of his works. You say:",
+        "options": [
+          "I'm really very impressed with your paintings.",
+          "I understand most of your paintings are for sale.",
+          "You must have at least over forty paintings on exhibition.",
+          "I like your works but I don't like you at all.",
+          "My father has bought one of your earlier paintings."
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"I'm really very impressed with your paintings.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 88,
+        "category": "English Situations (Advanced)",
+        "question": "Your brother comments on how old your bed is. You are already aware of it and have been putting aside money for a new one. You say:",
+        "options": [
+          "Yes, I know. It is second-hand.",
+          "I have enough money, don't worry about it.",
+          "Oh, come on, please! It isn't that old.",
+          "It may be out of fashion but I like it.",
+          "I know. I'm going to buy another one soon."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"I know. I'm going to buy another one soon.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 89,
+        "category": "English Situations (Advanced)",
+        "question": "Your friend has invited you to her house for dinner. When you see her, you want to say something nice about her appearance; you say to her:",
+        "options": [
+          "I liked your dress; you really look gorgeous in it.",
+          "Your scarf doesn’t go with your handbag.",
+          "Everything is wonderful except your clothes!",
+          "Are you crazy? Why did you wear such an awful outfit?",
+          "Your shoes look as if they had been borrowed."
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"I liked your dress; you really look gorgeous in it.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 90,
+        "category": "English Situations (Advanced)",
+        "question": "You are in a shop and paying for what you've bought. You've realised that the salesman has made a mistake while counting the money. He's trying to give you more than it should be as change money. Despite the fact that the mistake is to your advantage, you think you must warn him. So you stop him and say:",
+        "options": [
+          "You've overcharged me, please correct your mistake.",
+          "I'm sorry, but you've charged me for eight items and I only have seven.",
+          "Excuse me, but this sweater is 2.90 pounds, not"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 91,
+        "category": "English Situations (Advanced)",
+        "question": "You arrange to meet a friend of yours tonight. Unexpectedly, your boss goes abroad and you're requested to give him a lift to the airport. You call your friend and say:",
+        "options": [
+          "I'm afraid we can't arrange an appointment for tonight as I will go abroad.",
+          "I'm sorry but my boss wants to see me at the airport today",
+          "I regret cancelling our appointment, let’s meet tonight.",
+          "Such things occur every day, why did you get so angry about the cancellation?",
+          "Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 92,
+        "category": "English Situations (Advanced)",
+        "question": "You visit your English teacher first time. In her flat, you see her library consisting of English novels numbering around a hundred. Expressing your astonishment, you say:",
+        "options": [
+          "You must like reading",
+          "I think it's time you stopped wasting your money buying such useless things.",
+          "I wish I had so many books, too.",
+          "What a large collection of books!",
+          "Ma'am, did you borrow all these books?"
+        ],
+        "correct": 3,
+        "reasoning": "Official Correct Answer: D) \"What a large collection of books!\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 93,
+        "category": "English Situations (Advanced)",
+        "question": "Your boss has written your name down for another position which requires more effort. You don't think it will contribute much to your present situation. And also you don't want to work longer hours due to your age. You refuse it politely:",
+        "options": [
+          "I hope you won't get annoyed if I refuse this kind of offer.",
+          "I'm in two minds about whether I should accept it or not.",
+          "I'm terribly sorry but I think I won't be able to maintain this new position since I don't feel energetic enough.",
+          "Why did you choose me for this position?",
+          "Don't you see that I'm too old to cope with it?"
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"I'm terribly sorry but I think I won't be able to maintain this new position since I don't feel energetic enough.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 94,
+        "category": "English Situations (Advanced)",
+        "question": "Your roommate in the dormitory borrowed your shoes without asking your permission. When she brought them back, you saw that they're dirtier than usual. Now, you're really angry and you want to warn your friend. So you say:",
+        "options": [
+          "Oh! Come on! It’s okay, everything will be all right soon.",
+          "How on earth can you do such a thing?",
+          "Don't worry. There's nothing to get annoyed about.",
+          "Sorry but why did you do that?",
+          "Your irresponsible behaviour has irritated me a lot so you'd better not do this again."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"Your irresponsible behaviour has irritated me a lot so you'd better not do this again.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 95,
+        "category": "English Situations (Advanced)",
+        "question": "You own a shop in the downtown. While you're checking the records on the computer, you see that one of your customers has failed to keep up with the instalments. Thus, you send a note to remind him of this in a kind manner so, you say:",
+        "options": [
+          "I’d like to remind you that there are a few instalments of you which you haven't paid for yet; if it's possible, could you please pay for them?",
+          "Don’t forget to pay for your instalments; next time I'll go to the court.",
+          "My advice would be for you to pay all your debts.",
+          "I’m rather doubtful about the future of your payments, but if I were you, I'd pay for them.",
+          "The fact that you’ve been so negligent in this matter makes me angry."
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"I’d like to remind you that there are a few instalments of you which you haven't paid for yet; if it's possible, could you please pay for them?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 96,
+        "category": "English Situations (Advanced)",
+        "question": "One of your friends has been chosen as a candidate for the coming elections. If he's chosen, he'll be the new representative of your city. You find his possibility to be elected representative rather weak. You want to declare your opinion without hurting him. So you say:",
+        "options": [
+          "To be honest, I have to say I'm very pessimistic about the elections.",
+          "I’m really very sorry but in my opinion, it's impossible that you'll be elected representative.",
+          "Don't give it up please; you have still a chance to be chosen.",
+          "I anticipate success on behalf of you in this particular enterprise for the coming elections.",
+          "I regret to say you this because you're quite a qualified person for this post but the likelihood of your being elected representative seems rather remote to me."
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"I regret to say you this because you're quite a qualified person for this post but the likelihood of your being elected representative seems rather remote to me.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 97,
+        "category": "English Situations (Advanced)",
+        "question": "You've been invited to a party given by the history club of your school. In fact, you’re very pleased to be invited by them since you’re not a member of the club. But on the same day, you're going to celebrate your brother's graduation from university with your family. You want to refuse the invitation kindly. You say:",
+        "options": [
+          "Much to my regret, I will be unable to attend your party since I'll be out of town for business.",
+          "Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.",
+          "I can't tell how sorry I am. Please, forgive me.",
+          "You have my whole-hearted support; however, I have to reject your offer.",
+          "I want to come to your party but I'm not still certain about whether I can come or not. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+        ],
+        "correct": 1,
+        "reasoning": "Official Correct Answer: B) \"Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 98,
+        "category": "English Situations (Advanced)",
+        "question": "In an exam at school, the student sitting next to you is copying your answers. You're rather angry about this behaviour but also don't want to hurt your friend. You say politely:",
+        "options": [
+          "I can tell you, what you want.",
+          "You're such an idiot. Stop that!",
+          "If you really need it, go on copying.",
+          "You're so fool to understand me.",
+          "Could you please stop looking at my papers and get involved in your own exam?"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"Could you please stop looking at my papers and get involved in your own exam?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 99,
+        "category": "English Situations (Advanced)",
+        "question": "You're at home and accidentally broke your mother's favourite vase. You feel guilty. You want to be honest and confess it to your mother. In an apologetic manner, you say:",
+        "options": [
+          "I regret to tell you that I've broken your vase, mummy.",
+          "Mum, somebody has broken the vase, but I promise I'll find who he is.",
+          "I can repair your vase, mother.",
+          "Okay, I broke it, it was already too old and out of fashion.",
+          "I can buy you a new vase if you like it so much."
+        ],
+        "correct": 0,
+        "reasoning": "Official Correct Answer: A) \"I regret to tell you that I've broken your vase, mummy.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 100,
+        "category": "English Situations (Advanced)",
+        "question": "You are with your friend in a shop. Suddenly, you see him taking a CD and putting it in his pocket. You hate such spoiled behaviours. You want to warn your friend. Determinedly, you say:",
+        "options": [
+          "Why don't you leave it and take the other one?",
+          "Why did you take that CD? You don't have a CD recorder.",
+          "My advice to you would be to earn your own money.",
+          "If you do that again, I'll never forgive you.",
+          "I’m really apprehensive about you."
+        ],
+        "correct": 3,
+        "reasoning": "Official Correct Answer: D) \"If you do that again, I'll never forgive you.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 101,
+        "category": "English Situations (Advanced)",
+        "question": "You've been given two invitations for a concert that isn't open to the general public. The singer is very famous and as one of your friends is a fan of him, you decide to ask her to join you; you call her and say:",
+        "options": [
+          "The concert we're going to is sure to be very crowded, so let's be there early.",
+          "I've got two tickets for the Tarkan concert. I thought you'd be interested. Can you use these tickets?",
+          "There is a private Sezen Aksu concert coming up. I have two invitations for it and thought you might like to come along with me.",
+          "I'm sure you would have enjoyed the concert. It's a pity you couldn't attend.",
+          "Would a concert be of any interest to you? If so, I can send you an invitation."
+        ],
+        "correct": 2,
+        "reasoning": "Official Correct Answer: C) \"There is a private Sezen Aksu concert coming up. I have two invitations for it and thought you might like to come along with me.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 102,
+        "category": "English Situations (Advanced)",
+        "question": "You see some foreigners in the street. You think they are tourists. They're carefully studying on a map and really look confused. You know your city very well and want to be of some assistance. You go near them and say:",
+        "options": [
+          "Do you like our country?",
+          "Can we practise some English?",
+          "Isn't reading that map difficult for you?",
+          "I suppose the museum you're looking for is on Çankırı street",
+          "If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+        ],
+        "correct": 4,
+        "reasoning": "Official Correct Answer: E) \"If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      },
+      {
+        "id": 38,
+        "question": "The company announced a significant increase ________ fiber-optic bandwidth.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        "correct": 0,
+        "reasoning": "Increase IN something (fixed collocation)."
+      },
+      {
+        "id": 39,
+        "question": "Unless you ________ hard, you will not clear the ITI admission test.",
+        "options": [
+          "study",
+          "don't study",
+          "studied",
+          "will study"
+        ],
+        "correct": 0,
+        "reasoning": "'Unless' already means 'if not' -> Unless you study."
+      },
+      {
+        "id": 40,
+        "question": "What is the closest synonym for the word 'ABUNDANT'?",
+        "options": [
+          "Scarce",
+          "Plentiful",
+          "Empty",
+          "Tiny"
+        ],
+        "correct": 1,
+        "reasoning": "Abundant = Plentiful = Existing in large quantities (وفير)."
+      },
+      {
+        "id": 901,
+        "category": "ITI 2026 Exam Update: Vocabulary",
+        "question": "Why is life not fair? Because some people are ______ their lives while others are struggling.",
+        "options": [
+          "wicked",
+          "harsh",
+          "robust",
+          "enjoying"
+        ],
+        "correct": 3,
+        "reasoning": "الاستخدام السياقي الصحيح: enjoying their lives (يستمتعون بحياتهم) في مقابلة while others are struggling (بينما الآخرون يعانون ويجاهدون)."
+      },
+      {
+        "id": 902,
+        "category": "ITI 2026 Exam Update: Prepositions",
+        "question": "There are 50 questions ___ this test.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "with"
+        ],
+        "correct": 1,
+        "reasoning": "حرف الجر الصحيح مع الاختبارات والامتحانات هو on: (There are 50 questions ON this test) وليس in."
+      },
+      {
+        "id": 903,
+        "category": "ITI 2026 Exam Update: Advanced Vocabulary",
+        "question": "He admits _____ that he is a bit of a womanizer.",
+        "options": [
+          "plumply",
+          "usurpingly",
+          "genealogically",
+          "unabashedly",
+          "fastidiously"
+        ],
+        "correct": 3,
+        "reasoning": "معنى الكلمة: unabashedly (بلا خجل أو حرج / بصراحة تامة دون تردد)."
+      }
     ]
   }
 }

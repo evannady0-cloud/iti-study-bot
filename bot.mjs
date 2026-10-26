@@ -211,6 +211,10 @@ async function sendQuestion(chatId) {
             { text: '🇬🇧 نموذج English (2)', callback_data: 'mode_english_model_2' }
           ],
           [
+            { text: '🇬🇧 نموذج English (3)', callback_data: 'mode_english_model_3' },
+            { text: '🇬🇧 نموذج English (4)', callback_data: 'mode_english_model_4' }
+          ],
+          [
             { text: '⭐ ليلة الامتحان (111 سؤال)', callback_data: 'mode_night_exam' },
             { text: '💰 مسائل الربح والخسارة', callback_data: 'mode_profit_loss' }
           ],
@@ -325,6 +329,10 @@ async function pollUpdates() {
                   [
                     { text: '🇬🇧 نموذج English (1)', callback_data: 'mode_english_model_1' },
                     { text: '🇬🇧 نموذج English (2)', callback_data: 'mode_english_model_2' }
+                  ],
+                  [
+                    { text: '🇬🇧 نموذج English (3)', callback_data: 'mode_english_model_3' },
+                    { text: '🇬🇧 نموذج English (4)', callback_data: 'mode_english_model_4' }
                   ],
                   [
                     { text: '⭐ ليلة الامتحان (111 سؤال)', callback_data: 'mode_night_exam' },
