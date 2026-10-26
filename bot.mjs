@@ -230,12 +230,36 @@ async function sendQuestion(chatId) {
   const q = state.queue[state.currentIndex];
   const total = state.queue.length;
 
-  // Smart inline keyboard builder for mobile
+  // Smart inline keyboard & text builder for mobile
   const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
   const allShort = q.options.every(opt => String(opt).trim().length <= 4);
-  
+  const anyLong = q.options.some(opt => String(opt).trim().length > 20);
+
   let buttons = [];
-  if (allShort && q.options.length <= 5) {
+  let extraOptionsText = '';
+
+  if (anyLong) {
+    // For long options (Address Matching, long English situations):
+    // Display full options in the message body so Telegram NEVER truncates them!
+    extraOptionsText = '\n\n' + q.options.map((opt, idx) => `<b>${letters[idx]} )</b>  ${opt}`).join('\n\n');
+    
+    // Sleek single-row or two-row letter buttons
+    if (q.options.length <= 5) {
+      buttons = [q.options.map((opt, idx) => ({
+        text: `[ ${letters[idx]} ]`,
+        callback_data: `ans_${q.id}_${idx}`
+      }))];
+    } else {
+      const r1 = [];
+      const r2 = [];
+      q.options.forEach((opt, idx) => {
+        const btn = { text: `[ ${letters[idx]} ]`, callback_data: `ans_${q.id}_${idx}` };
+        if (idx < 4) r1.push(btn);
+        else r2.push(btn);
+      });
+      buttons = [r1, r2];
+    }
+  } else if (allShort && q.options.length <= 5) {
     // Place all short options in a single horizontal row for sleek mobile UI
     buttons = [q.options.map((opt, idx) => ({
       text: String(opt).trim().toUpperCase() === letters[idx] ? `[ ${letters[idx]} ]` : `${letters[idx]} ) ${opt}`,
@@ -255,7 +279,7 @@ async function sendQuestion(chatId) {
     });
     buttons = [r1, r2];
   } else {
-    // Longer text options: 1 per line
+    // Medium text options: 1 per line
     buttons = q.options.map((opt, idx) => [{
       text: `${letters[idx]} )  ${opt}`,
       callback_data: `ans_${q.id}_${idx}`
@@ -270,7 +294,7 @@ async function sendQuestion(chatId) {
 
   const categoryLabel = q.category || 'IQ Question';
   const captionText = `🎯 <b>[${categoryLabel}] Question ${state.currentIndex + 1} / ${total}</b>\n\n` +
-    `<b>${q.question}</b>`;
+    `<b>${q.question}</b>${extraOptionsText}`;
 
   if (q.image) {
     const photoPath = path.join(IMAGES_DIR, q.image);
