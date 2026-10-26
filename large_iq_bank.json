@@ -1198,13 +1198,13 @@
     "q_num": 2,
     "question": "Which word in brackets is most opposite to the word in capitals? PROSCRIBE (allow, stifle, promote, verify, indict)",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "stifle",
+      "verify",
+      "allow",
+      "indict"
     ],
-    "correct": 0,
-    "reasoning": "",
+    "correct": 2,
+    "reasoning": "PROSCRIBE means to prohibit, condemn or outlaw; its direct opposite is ALLOW.",
     "image": null
   },
   {
@@ -1214,13 +1214,13 @@
     "q_num": 3,
     "question": "0, 1, 2, 4, 6, 9, 12, 16, ? What number should replace the question mark?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "18",
+      "20",
+      "22",
+      "24"
     ],
-    "correct": 0,
-    "reasoning": "",
+    "correct": 1,
+    "reasoning": "The differences alternate in pairs: +1, +1, +2, +2, +3, +3, +4, +4. 16 + 4 = 20.",
     "image": null
   },
   {
@@ -1230,13 +1230,13 @@
     "q_num": 4,
     "question": "Which number is the odd one out? 9678 4572 5261 5133 3527 6895 7768",
     "options": [
+      "9678",
+      "5261",
       "3527",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "7768"
     ],
-    "correct": 0,
-    "reasoning": "3527: in the others the sum of the first two numbers is equal to the sum of the second two numbers, for example 5 + 2 = 6 + 1;",
+    "correct": 2,
+    "reasoning": "3527: In all the other numbers, the sum of the first two digits equals the sum of the last two digits (9+6=7+8=15, 5+2=6+1=7, 7+7=6+8=14). In 3527, 3+5=8 but 2+7=9.",
     "image": null
   },
   {
@@ -1246,13 +1246,13 @@
     "q_num": 5,
     "question": "Isotherm is to temperature as isobar is to: atmosphere, wind, pressure, latitude, current",
     "options": [
+      "wind",
       "pressure",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "atmosphere",
+      "latitude"
     ],
-    "correct": 0,
-    "reasoning": "pressure;",
+    "correct": 1,
+    "reasoning": "An isotherm connects points of equal temperature; an isobar connects points of equal atmospheric pressure.",
     "image": null
   },
   {
@@ -1278,10 +1278,10 @@
     "q_num": 7,
     "question": "8 10 ? Which is the missing section? 6 5",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1294,13 +1294,13 @@
     "q_num": 8,
     "question": "Which is the correct figure / answer for Question 8?",
     "options": [
+      "mass, velocity",
       "weight, speed",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "force, acceleration",
+      "gravity, distance"
     ],
-    "correct": 0,
-    "reasoning": "weight, speed;",
+    "correct": 1,
+    "reasoning": "weight, speed: analogous pairing of scalar and vector physical measurements.",
     "image": null
   },
   {
@@ -1310,10 +1310,10 @@
     "q_num": 9,
     "question": "7 12 A 13 B 6 5 7 8 7 9 14 C 13 D",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1342,13 +1342,13 @@
     "q_num": 11,
     "question": "How many minutes is it before 12 noon, if 48 minutes ago it was twice as many minutes past 9 am?",
     "options": [
+      "36 minutes",
       "44 minutes",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "28 minutes",
+      "52 minutes"
     ],
-    "correct": 0,
-    "reasoning": "44 minutes: 12 noon less 44 minutes = 11.16, 11.16 less 48 minutes = 10.28, 9 am plus 88 minutes (44 × 2) = 10.28;",
+    "correct": 1,
+    "reasoning": "44 minutes: 12 noon less 44 minutes = 11:16. 48 minutes ago was 10:28. From 9:00 to 10:28 is 88 minutes (44 × 2).",
     "image": null
   },
   {
@@ -1359,12 +1359,12 @@
     "question": "Complete the five words below in such a way that the two letters that end the first word also start the second word, and the two letters that end the second word also start the third word etc. The same two letters that end the fifth word also start the first word, to complete the cycle. ** IV ** ** OT ** ** IC ** ** NG ** ** RA **",
     "options": [
       "SHIVER, EROTIC, ICICLE, LENGTH, THRASH",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "DRIVER, EXOTIC, ICICLE, SPRING, THREAD",
+      "SILVER, QUOTIC, ICICLE, CLINGY, THRASH",
+      "SHIVER, EROTIC, ICICLE, TANGLE, PHRASE"
     ],
     "correct": 0,
-    "reasoning": "SHIVER, EROTIC, ICICLE, LENGTH, THRASH;",
+    "reasoning": "SHIV(ER) -> (ER)OT(IC) -> (IC)IC(LE) -> (LE)NG(TH) -> (TH)RA(SH) -> (SH)IV(ER). The cycle closes perfectly.",
     "image": null
   },
   {
@@ -1374,13 +1374,13 @@
     "q_num": 13,
     "question": "Which is the odd one out? heptagon, triangle, hexagon, cube, pentagon",
     "options": [
+      "triangle",
       "cube",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "heptagon",
+      "pentagon"
     ],
-    "correct": 0,
-    "reasoning": "cube: it is a three-dimensional figure. The rest are all two-dimensional figures;",
+    "correct": 1,
+    "reasoning": "cube: it is a three-dimensional solid (3D), while all the others are two-dimensional flat polygons (2D).",
     "image": null
   },
   {
@@ -1391,9 +1391,9 @@
     "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on = ON = OFF Switches C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
     "options": [
       "Switch A is faulty",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Switch A is faulty;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1423,9 +1423,9 @@
     "question": "Which word in brackets is closest in meaning to the word in capitals? BRUNT (dull, edifice, impact, tawny, nonsense)",
     "options": [
       "impact",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "impact;",
@@ -1439,9 +1439,9 @@
     "question": "Which of the following is not an anagram of a type of food? PAST EIGHT I CAN ROAM WIN BOAR CAN PEAK COOL CHEAT",
     "options": [
       "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT)",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT);",
@@ -1455,9 +1455,9 @@
     "question": "3 6 2 7 4 21 16 3 ? What number should replace the question mark?",
     "options": [
       "4",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "4: looking across at the three circles, the number in the middle is the product of the two numbers in the same segment in the other two circles. Thus, 3 × 2 = 6, 7 × 3 = 21 and 4 × 4 = 16;",
@@ -1471,9 +1471,9 @@
     "question": "N O I A R O S L F E Work from square to adjacent square horizontally or vertically (but not diago­ nally) to spell out a 12-letter word. You must find the starting point, and provide the missing letters.",
     "options": [
       "PROFESSIONAL",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• PROFESSIONAL;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1487,9 +1487,9 @@
     "question": "How many lines appear below?",
     "options": [
       "11",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 11;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1519,9 +1519,9 @@
     "question": "67/8, 29/16, 55/8, 33/16, 43/8, ? What number should replace the question mark?",
     "options": [
       "51/16",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "51/16: there are two alternate sequences: –11/4 and +11/4;",
@@ -1535,9 +1535,9 @@
     "question": "I Y G U L S O L T G O L P N I T Work clockwise round the circles to spell out two eight-letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
     "options": [
       "linguist, polyglot",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• linguist, polyglot;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -1551,9 +1551,9 @@
     "question": "10, 30, 32, 96, 98, 294, 296, ?, ? What two numbers should replace the question marks?",
     "options": [
       "888, 890",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "888, 890: the sequence progresses ×3, +2;",
@@ -1567,9 +1567,9 @@
     "question": "able, rot, son, king Which word below shares a common feature with all the words above? line, sit, take, hope, night",
     "options": [
       "take",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "take: all words can be prefixed with PAR to form another word – parable, parrot, parson, parking, partake;",
@@ -1582,13 +1582,13 @@
     "q_num": 26,
     "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. SEA (wet, swimmer, ship) SNOW (mountain, ice, skier)",
     "options": [
+      "ship, mountain",
+      "wet, ice",
       "swimmer, skier",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "sea, snow"
     ],
-    "correct": 0,
-    "reasoning": "swimmer, skier;",
+    "correct": 2,
+    "reasoning": "A swimmer moves through the sea; a skier moves across snow.",
     "image": null
   },
   {
@@ -1599,9 +1599,9 @@
     "question": "Which word meaning LOCALITY becomes a word meaning TEMPO when a letter is removed?",
     "options": [
       "place/pace",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "place/pace;",
@@ -1614,13 +1614,13 @@
     "q_num": 28,
     "question": "Alf has four times as many as Jim, and Jim has three times as many as Sid. Altogether they have 192. How many has each?",
     "options": [
+      "Alf 120, Jim 48, Sid 24",
       "Alf 144, Jim 36, Sid 12",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Alf 160, Jim 24, Sid 8",
+      "Alf 132, Jim 44, Sid 16"
     ],
-    "correct": 0,
-    "reasoning": "Alf 144, Jim 36, Sid 12;",
+    "correct": 1,
+    "reasoning": "Let Sid = x. Jim = 3x. Alf = 4(3x) = 12x. Total: 16x = 192 => x = 12. Sid = 12, Jim = 36, Alf = 144.",
     "image": null
   },
   {
@@ -1630,13 +1630,13 @@
     "q_num": 29,
     "question": "Which is the only one of the following that is not an anagram of a word meaning out of this world? flow under sexed Utah enviable blue icier blend",
     "options": [
-      "sexed Utah = exhausted. The words meaning out of this world are",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "SPACE / PACE",
+      "PLACE / PACE",
+      "TRACK / TACT",
+      "SITE / SET"
     ],
-    "correct": 0,
-    "reasoning": "sexed Utah = exhausted. The words meaning out of this world are: wonderful (flow under), unbelievable (enviable blue), incredible (icier blend);",
+    "correct": 1,
+    "reasoning": "PLACE (locality) becomes PACE (tempo/speed) when L is removed.",
     "image": null
   },
   {
@@ -1646,13 +1646,13 @@
     "q_num": 30,
     "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?",
     "options": [
-      "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "disobey",
+      "absorb",
+      "impact",
+      "clarify"
     ],
-    "correct": 0,
-    "reasoning": "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks;",
+    "correct": 2,
+    "reasoning": "IMPINGE means to strike, collide, or have an effect (impact).",
     "image": null
   },
   {
@@ -1662,13 +1662,13 @@
     "q_num": 31,
     "question": "In the sequence of circles, what is the position of the black dot in the missing figure?",
     "options": [
-      "Top",
-      "Middle",
-      "Bottom",
-      "Left"
+      "CHEAP PIE",
+      "WIN BOAR",
+      "TART SOUP",
+      "GIN EGG"
     ],
-    "correct": 0,
-    "reasoning": "Official Answer: Top. The black dot moves up then down by one position at each stage: Bottom -> Middle -> [TOP] -> Middle -> Bottom -> Middle -> Top.",
+    "correct": 1,
+    "reasoning": "WIN BOAR is an anagram of RAINBOW (not a food). The others are foods.",
     "image": "ultimate_test1_q31.png"
   },
   {
@@ -1678,13 +1678,13 @@
     "q_num": 32,
     "question": "How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?",
     "options": [
-      "37 minutes",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "3 11/16",
+      "3 13/16",
+      "4 1/16",
+      "3 7/16"
     ],
-    "correct": 0,
-    "reasoning": "37 minutes: 12 noon less 37 minutes = 11.23, 11.23 less nine minutes = 11.14.10 am plus 74 minutes (2 × 37) = 11.14;",
+    "correct": 1,
+    "reasoning": "Two alternate sequences: First: 6 7/8, 5 5/8, 4 3/8 (-1 2/8 each). Second: 2 9/16, 3 3/16, 3 13/16 (+10/16 each).",
     "image": null
   },
   {
@@ -1694,13 +1694,13 @@
     "q_num": 33,
     "question": "Which two words are closest in meaning? conclave, medley, theme, conglomeration, dissertation, augury",
     "options": [
-      "medley, conglomeration",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "888, 890",
+      "882, 884",
+      "892, 894",
+      "888, 892"
     ],
     "correct": 0,
-    "reasoning": "medley, conglomeration;",
+    "reasoning": "The sequence alternates: ×3, +2, ×3, +2. 296 × 3 = 888, 888 + 2 = 890.",
     "image": null
   },
   {
@@ -1710,13 +1710,13 @@
     "q_num": 34,
     "question": "broke rage prose cute dared ? Which word is missing? palm hymn evil snow take",
     "options": [
-      "evil",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "jump",
+      "fast",
+      "take",
+      "sing"
     ],
-    "correct": 0,
-    "reasoning": "evil: when joined together each pair of words forms another word – brokerage, prosecute, daredevil;",
+    "correct": 2,
+    "reasoning": "All can be prefixed by PAR- to form valid English words: parable, parrot, parson, parking, partake.",
     "image": null
   },
   {
@@ -1726,13 +1726,13 @@
     "q_num": 35,
     "question": "Find five consecutive numbers below that total 22. 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5",
     "options": [
-      "93541",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "9, 3, 5, 4, 1",
+      "7, 3, 9, 2, 1",
+      "6, 4, 1, 8, 3",
+      "3, 9, 6, 3, 1"
     ],
     "correct": 0,
-    "reasoning": "93541;",
+    "reasoning": "9 + 3 + 5 + 4 + 1 = 22.",
     "image": null
   },
   {
@@ -1742,13 +1742,13 @@
     "q_num": 36,
     "question": "To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above? A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "wool",
+      "glass",
+      "stone",
+      "water"
     ],
-    "correct": 3,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: so that one dot appears in the triangle and one circle; and the other dot appears in the triangle and three circles;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "Ligno- refers to wood; vitro- refers to glass (vitreous, in vitro).",
     "image": "ultimate_test1_q36.png"
   },
   {
@@ -1758,13 +1758,13 @@
     "q_num": 37,
     "question": "Find two words (4, 6) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away it will be found by tracing around the circumference. Clue: free flight. A Z B Y C D X E W F V G U T H I S R J Q P O N M L K",
     "options": [
-      "HANG GLIDER",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "BOOK",
+      "CART",
+      "BILL",
+      "DOWN"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• HANG GLIDER;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "PLAYCART and CARTWRIGHT.",
     "image": "ultimate_test1_q37.png"
   },
   {
@@ -1774,14 +1774,13 @@
     "q_num": 38,
     "question": "A B H C G F D E What letter is directly opposite the letter that is two letters away clockwise from the letter that is directly opposite the letter E?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "sexed Utah",
+      "cheerful",
+      "delighted",
+      "ecstatic"
     ],
-    "correct": 6,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• G;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 0,
+    "reasoning": "sexed Utah is an anagram of EXHAUSTED (tired, not happy).",
     "image": "ultimate_test1_q38.png"
   },
   {
@@ -1791,13 +1790,13 @@
     "q_num": 39,
     "question": "9 7 2 5 7 6 4 6 ? 8 What number should replace the question mark?",
     "options": [
-      "0",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "38 socks",
+      "40 socks",
+      "42 socks",
+      "36 socks"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 0: looking at lines of numbers from the top: 9 × 8 = 72; 72 × 8 = 576; 576 × 8 = 4608;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "Worst-case: 21 blue + 17 red = 38 socks without a black pair. 38 + 2 = 40 socks guarantees at least one pair of each color.",
     "image": "ultimate_test1_q39.png"
   },
   {
@@ -1807,13 +1806,13 @@
     "q_num": 40,
     "question": "Which is the missing section? A B D C",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "35 minutes",
+      "37 minutes",
+      "39 minutes",
+      "41 minutes"
     ],
-    "correct": 2,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: each opposite corner block of four squares are identical.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "From 10 am to 12 noon = 120 minutes. Equation: 2x + 9 + x = 120 => 3x = 111 => x = 37 minutes.",
     "image": "ultimate_test1_q40.png"
   },
   {
@@ -1823,14 +1822,13 @@
     "q_num": 1,
     "question": "What comes next? A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "conclave, thesis",
+      "medley, conglomeration",
+      "thesis, premise",
+      "medley, conclave"
     ],
-    "correct": 4,
-    "reasoning": "E: the number of white dots is increased by one each time, both vertically and horizontally, and all white dots are connected;",
+    "correct": 1,
+    "reasoning": "Medley and conglomeration both mean a heterogeneous mixture or assortment.",
     "image": "ultimate_test2_q01.png"
   },
   {
@@ -1840,13 +1838,13 @@
     "q_num": 2,
     "question": "Which four-letter word, when placed in the brackets, will complete a word on the left and start another word on the right? RAM (****) RIDGE",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "palm",
+      "hype",
+      "evil",
+      "dark"
     ],
-    "correct": 0,
-    "reasoning": "",
+    "correct": 2,
+    "reasoning": "Compound words: brokerage, prosecute, daredevil.",
     "image": null
   },
   {
@@ -1856,13 +1854,13 @@
     "q_num": 3,
     "question": "20 22 19 21 17 19 16 ? 19 21 ? 20 16 18 15 ? Which is the missing section? 19 18 18 19 18 18 17 17 19 A 17 B 18 C 17 D",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "mow lawn",
+      "weigh hay",
+      "cut grass",
+      "bale grain"
     ],
     "correct": 1,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: lines across proceed +2, –3, +2. Lines down proceed –3, +2, –3;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "reasoning": "Weigh hay means measure dried grass, and the words rhyme.",
     "image": "ultimate_test2_q03.png"
   },
   {
@@ -1872,13 +1870,13 @@
     "q_num": 4,
     "question": "ligno- is to wood as vitro- is to wool, glass, stone, water, paper?",
     "options": [
-      "6 × 1 = 2 × 3",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "9 pm",
+      "10 pm",
+      "11 pm",
+      "10:30 pm"
     ],
-    "correct": 0,
-    "reasoning": "6 × 1 = 2 × 3: 7 × 8 (6 + 2) = 56, 11 × 4 = 44, 4 × 3 = 12, 44 + 12 = 56;",
+    "correct": 1,
+    "reasoning": "In 4 hours the watch lost 4 × 17 = 68 minutes (1h 8m), showing 2:52 pm at 4:00 pm. Six hours later, the actual time is 10:00 pm.",
     "image": null
   },
   {
@@ -1888,13 +1886,13 @@
     "q_num": 5,
     "question": "3 9 8 44 32 75 8 4 7 2 7 ? What number should replace the question mark?",
     "options": [
-      "5",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "femur",
+      "fibula",
+      "mandible",
+      "patella"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (8 + 7) × 5 = 75;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 2,
+    "reasoning": "Mandible is the lower jawbone in the skull; the others are all bones in the human leg.",
     "image": "ultimate_test2_q05.png"
   },
   {
@@ -1904,13 +1902,13 @@
     "q_num": 6,
     "question": "Solve the anagrams to find a well-known saying. The number of letters in each word is shown. (**** ** ********)(**** *******) (asserting craft)(hint of antic)",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "A stitch in time saves nine",
+      "Better late than never",
+      "Actions speak louder than words",
+      "Look before you leap"
     ],
     "correct": 0,
-    "reasoning": "",
+    "reasoning": "The anagram unscrambles to the proverb: A STITCH IN TIME SAVES NINE.",
     "image": null
   },
   {
@@ -1920,13 +1918,13 @@
     "q_num": 7,
     "question": "is to: as is to: A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "7",
+      "7.5",
+      "8",
+      "8.5"
     ],
     "correct": 1,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: black objects turn to white and vice versa;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "reasoning": "The alternating operations are: +4, ÷2, +4, ÷2, +4, ÷2, +4. 3.5 + 4 = 7.5.",
     "image": "ultimate_test2_q07.png"
   },
   {
@@ -1936,13 +1934,13 @@
     "q_num": 8,
     "question": "0, 4, 2, 6, 3, 7, 3.5, ? What number should replace the question mark?",
     "options": [
-      "Tile 7 is incorrect, and should be replaced by tile B",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "equator, pole",
+      "meridian, parallel",
+      "meridian, pole",
+      "long, wide"
     ],
-    "correct": 0,
-    "reasoning": "Tile 7 is incorrect, and should be replaced by tile B;",
+    "correct": 1,
+    "reasoning": "Longitude lines are meridians; latitude lines are parallels.",
     "image": null
   },
   {
@@ -1952,13 +1950,13 @@
     "q_num": 9,
     "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. LONGITUDE (degree, tropics, meridian) LATITUDE (parallel, line, equinox)",
     "options": [
-      "meridian, parallel",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "glance",
+      "ignore",
+      "observe",
+      "overlook"
     ],
-    "correct": 0,
-    "reasoning": "meridian, parallel;",
+    "correct": 2,
+    "reasoning": "SCRUTINIZE means to examine or observe closely.",
     "image": null
   },
   {
@@ -1968,13 +1966,13 @@
     "q_num": 10,
     "question": "5 2 3 10 6 4 1 11 1 9 ? 12 12 ? 6 ? Which is the missing section? 4 2 7 3 16 29 15 33 14 35 17 31 A B C D",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "liberty, justice",
+      "frivolity, sobriety",
+      "wisdom, frivolity",
+      "liberty, sobriety"
     ],
     "correct": 1,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: in lines and columns, add the first three numbers to arrive at the fourth number;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "reasoning": "Frivolity (lack of seriousness/giddiness) is the direct antonym of Sobriety (seriousness/gravity).",
     "image": "ultimate_test2_q10.png"
   },
   {
@@ -1984,13 +1982,13 @@
     "q_num": 11,
     "question": "Which word in brackets is closest in meaning to the word in capitals? MONITOR (observe, order, meddle, intrude, conclude)",
     "options": [
-      "observe",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "5 added",
+      "12 added",
+      "3 added",
+      "8 added"
     ],
     "correct": 0,
-    "reasoning": "observe;",
+    "reasoning": "59 + 5 = 64 = 4³, forming the next smallest perfect cube.",
     "image": null
   },
   {
@@ -2000,13 +1998,13 @@
     "q_num": 12,
     "question": "1 2 3 4 5 6 7 8 9 Looking at lines across and down, if the first two tiles are combined to produce the third tile, with the exception that like symbols are cancelled out, which of the above tiles is incorrect, and with which of the tiles below should it be replaced? A B C D E",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "OUTCOME",
+      "COMPUTE",
+      "COMPUTER",
+      "MOMENT"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "COMPUTE is a 7-letter word made using only C, O, M, P, U, T, E.",
     "image": "ultimate_test2_q12.png"
   },
   {
@@ -2016,13 +2014,13 @@
     "q_num": 13,
     "question": "Which two words are most opposite in meaning? liberty, frivolity, chastity, sobriety, irrationality, polarity",
     "options": [
-      "frivolity, sobriety",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "EDUCATE / DUCT",
+      "DERIVE / DRIVE",
+      "INFER / FIRE",
+      "LEAD / LOAD"
     ],
-    "correct": 0,
-    "reasoning": "frivolity, sobriety;",
+    "correct": 1,
+    "reasoning": "DERIVE (deduce) becomes DRIVE (propel) when the first E is removed.",
     "image": null
   },
   {
@@ -2032,13 +2030,13 @@
     "q_num": 14,
     "question": "Insert four weights of 2 units, 3 units, 4 units and 6 units respectively so that the scales balance perfectly.",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "elephant",
+      "bicycle",
+      "crossfire",
+      "computer"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 2,
+    "reasoning": "dopiness (snipe), uncloaking (cockail), dishwasher (shad). Crossfire contains an embedded fish/creature.",
     "image": "ultimate_test2_q14.png"
   },
   {
@@ -2048,13 +2046,13 @@
     "q_num": 15,
     "question": "The following clue leads to which pair of rhyming words? measure bulk of grass fodder",
     "options": [
-      "weigh hay",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "53",
+      "57",
+      "61",
+      "55"
     ],
-    "correct": 0,
-    "reasoning": "weigh hay;",
+    "correct": 1,
+    "reasoning": "Odd positions sequence: 1, 15, 29, 43, 57 (+14 at each step).",
     "image": null
   },
   {
@@ -2064,13 +2062,13 @@
     "q_num": 16,
     "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "27, 9, 12",
+      "25, 8, 11",
+      "28, 10, 13",
+      "27, 10, 14"
     ],
-    "correct": 3,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 0,
+    "reasoning": "Operations repeat: ÷3, +3, ×3, -3. 30 - 3 = 27, 27 ÷ 3 = 9, 9 + 3 = 12.",
     "image": "ultimate_test2_q16.png"
   },
   {
@@ -2080,13 +2078,13 @@
     "q_num": 17,
     "question": "Which is the odd one out? femur, mandible, fibula, tibia, patella",
     "options": [
-      "mandible",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "MINIMUM",
+      "MAXIMUM",
+      "UNIONS",
+      "MUMMY"
     ],
     "correct": 0,
-    "reasoning": "mandible: it is the jaw bone, the rest are bones in the leg;",
+    "reasoning": "MINIMUM uses only the letters M, I, N, U.",
     "image": null
   },
   {
@@ -2096,13 +2094,13 @@
     "q_num": 18,
     "question": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm. What time is it now?",
     "options": [
-      "10 pm",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "disperse",
+      "detach",
+      "coalesce",
+      "isolate"
     ],
-    "correct": 0,
-    "reasoning": "10 pm: 12 noon = 12 noon, 1 pm = 12.43, 2 pm = 1.26, 3 pm = 2.09, 4 pm = 2.52, +6 hours = 10 pm;",
+    "correct": 2,
+    "reasoning": "COALESCE means to come together or merge into a single whole.",
     "image": null
   },
   {
@@ -2112,13 +2110,13 @@
     "q_num": 19,
     "question": "I Insert all the letters of the phrase UNSPOILT LOCAL into the remaining blank spaces once each only, to produce two words that form a phrase. Clue: things are not always what they appear.",
     "options": [
-      "OPTICAL ILLUSION",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "acescence, acellular, acerbated, acerbates",
+      "acellular, acerbated, acerbates, acescence",
+      "acerbates, acerbated, acellular, acescence",
+      "acellular, acescence, acerbated, acerbates"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• OPTICAL ILLUSION;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "Alphabetical order: acellular, acerbated, acerbates, acescence.",
     "image": "ultimate_test2_q19.png"
   },
   {
@@ -2128,13 +2126,13 @@
     "q_num": 20,
     "question": "Which is the missing tile? A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "calm",
+      "ordinary",
+      "quirky",
+      "eerie"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: each line across and down contains five black dots and four white dots;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 2,
+    "reasoning": "Bizarre is synonymous with outlandish; eccentric is synonymous with quirky.",
     "image": "ultimate_test2_q20.png"
   },
   {
@@ -2144,13 +2142,13 @@
     "q_num": 21,
     "question": "What comes next? E A B C D F G H",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "GOVERNOR",
+      "GOVERNMENT",
+      "MANAGEMENT",
+      "MONUMENT"
     ],
-    "correct": 0,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: the figure is tumbling 45° at each stage and alternates white/black/striped;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "MEN GOVERN T unscrambles to GOVERNMENT.",
     "image": "ultimate_test2_q21.png"
   },
   {
@@ -2160,13 +2158,13 @@
     "q_num": 22,
     "question": "dopiness, uncloaking, dishwasher Which word below has a feature in common with all the words above? gallant, crossfire, whirlwind, assault",
     "options": [
-      "crossfire",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "cymbal",
+      "marimba",
+      "trombone",
+      "xylophone"
     ],
-    "correct": 0,
-    "reasoning": "crossfire: all words contain an embedded tree – do(pine)ss, uncl(oak)ing, dishw(ash)er, cross(fir)e;",
+    "correct": 2,
+    "reasoning": "Trombone is a brass wind instrument; all others are percussion instruments.",
     "image": null
   },
   {
@@ -2176,13 +2174,13 @@
     "q_num": 23,
     "question": "1, 101, 15, 4, 29, –93, 43, –190, ? What number should replace the question mark?",
     "options": [
-      "57",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "principle, principal",
+      "principal, principle",
+      "principal, principal",
+      "principle, principle"
     ],
-    "correct": 0,
-    "reasoning": "57: there are two alternate sequences: +14, –97;",
+    "correct": 1,
+    "reasoning": "The head of a school is a PRINCIPAL; a fundamental truth is a PRINCIPLE.",
     "image": null
   },
   {
@@ -2192,13 +2190,13 @@
     "q_num": 24,
     "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is two letters above the letter two letters to the left of the letter immediately above the letter three letters to the right of the letter Q?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "462",
+      "683",
+      "385",
+      "594"
     ],
-    "correct": 2,
-    "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+    "correct": 1,
+    "reasoning": "In all other numbers, middle digit = first + last digit (4+2=6, 3+5=8, 5+4=9). In 683, 6+3=9 != 8.",
     "image": "ultimate_test2_q24.png"
   },
   {
@@ -2208,13 +2206,13 @@
     "q_num": 25,
     "question": "15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33 What three numbers are missing?",
     "options": [
-      "27, 9, 12",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "EAST, WEST",
+      "PAST, FUTURE",
+      "SAFE, HURT",
+      "TRUE, FALSE"
     ],
-    "correct": 0,
-    "reasoning": "27, 9, 12: the sequence progresses ÷3, +3, ×3, –3 repeated;",
+    "correct": 1,
+    "reasoning": "PURE AS TUFT unscrambles to PAST, FUTURE (opposites).",
     "image": null
   },
   {
@@ -2224,13 +2222,13 @@
     "q_num": 26,
     "question": "Which shield below has most in common with the shield above? A B C D E",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "30, 26",
+      "30, 25",
+      "25, 26",
+      "28, 24"
     ],
-    "correct": 3,
-    "reasoning": "D: it contains a triangle in a circle, a circle in a triangle (with the same orienta­ tion of the triangle) and a black dot in a square;",
+    "correct": 0,
+    "reasoning": "Two interleaved sequences: (1, 6, 11, 16, 21, 26 with +5) and (50, 45, 40, 35, 30 with -5).",
     "image": "ultimate_test2_q26.png"
   },
   {
@@ -2241,9 +2239,9 @@
     "question": "Using the four letters below only, create a seven-letter word. UMNI",
     "options": [
       "minimum",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "minimum;",
@@ -2257,9 +2255,9 @@
     "question": "5 4 ? 8 5 7 6 9 1 1 7 1 9 1 3 What number should replace the question mark?",
     "options": [
       "7",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 7: 91 ÷ 13;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2273,9 +2271,9 @@
     "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on = ON = OFF Switches D, C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
     "options": [
       "Switch D is faulty",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Switch D is faulty;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2289,9 +2287,9 @@
     "question": "Which word in brackets is closest in meaning to the word in capitals? FUSE (muzzle, explode, coalesce, immobilize, tighten)",
     "options": [
       "coalesce",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "coalesce;",
@@ -2305,9 +2303,9 @@
     "question": "13 ? 12 4 7 1 7 16 8 7 9 5 8 5 14 11 What number should replace the question mark?",
     "options": [
       "17",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 17: it is the sum of the two digits (9 + 8) in the quadrant directly opposite;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2338,9 +2336,9 @@
     "question": "You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?",
     "options": [
       "32",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "32: the next cube number below 64 (4 × 4 × 4) is 27 (3 × 3 × 3). In order to construct a solid cube, therefore, with none left over, 59 – 27 = 32 blocks need to be taken away;",
@@ -2354,9 +2352,9 @@
     "question": "What word meaning DEDUCE becomes a word meaning PROPEL when a letter is removed?",
     "options": [
       "DERIVE/DRIVE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "DERIVE/DRIVE;",
@@ -2370,9 +2368,9 @@
     "question": "47 63 55 85 99 92 73 25 ? What number should replace the question mark?",
     "options": [
       "49",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 49: (73 + 25) ÷ 2;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2386,9 +2384,9 @@
     "question": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced. FEUMOPXCTW",
     "options": [
       "COMPUTE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "COMPUTE;",
@@ -2418,9 +2416,9 @@
     "question": "I S U R D O P C E O R E M I E R Work clockwise round the circles to spell out two eight-letter words that are antonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
     "options": [
       "MEDIOCRE, SUPERIOR",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• MEDIOCRE, SUPERIOR;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2434,9 +2432,9 @@
     "question": "4 7 2 ? 3 4 3 3 5 1 14 20 18 13 What number should replace the question mark?",
     "options": [
       "8",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "8: each number in the segment at the bottom is the sum of the four numbers in the sections either side. Thus: 8 + 3 + 4 + 3 = 18;",
@@ -2484,9 +2482,9 @@
     "question": "Which is the odd one out? cymbal, marimba, vibraphone, trombone, glockenspiel",
     "options": [
       "trombone",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "trombone: the rest are percussion instruments;",
@@ -2500,9 +2498,9 @@
     "question": "stationary, less, stationery, principal, fewer, principle Place the words above alongside their correct definition below: head of school fundamental truth standing still writing materials smaller in amount smaller in number",
     "options": [
       "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683: in the other numbers add the first and last digits to arrive at the middle digit; 5 PAST, FUTURE; 6 L; 7 D: to each arc, add a quarter of a circle clockwise; 8 ESCALATE, HEIGHTEN; 9 30, 26: there are two alternate sequences. Add 5 starting at 1. Subtract 5 starting at 50;",
@@ -2515,10 +2513,10 @@
     "q_num": 4,
     "question": "Which is the odd number out? 462 683 385 198 253 781 594",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -2531,10 +2529,10 @@
     "q_num": 5,
     "question": "PURE AS TUFT is an anagram of which two words that are opposite in meaning?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -2547,10 +2545,10 @@
     "q_num": 6,
     "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Which letter is midway between the letter two letters below the letter immedi­ ately to the left of the letter G, and the letter three letters above the letter imme­ diately to the right of the letter V?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2563,10 +2561,10 @@
     "q_num": 7,
     "question": "is to: as: is to: A B C D E",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2579,10 +2577,10 @@
     "q_num": 8,
     "question": "L H N A A E T E E E S I G T Complete two eight-letter words, one in each circle, and both reading clock­ wise. The words are synonyms. You must find the starting points and provide the missing letters.",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2595,10 +2593,10 @@
     "q_num": 9,
     "question": "1, 50, 6, 45, 11, 40, 16, 35, 21, ?, ? Which numbers should replace the question marks?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -2612,9 +2610,9 @@
     "question": "Arrange the words below into alphabetical order. acescence, acetamide, acerbated, acetified, acellular, acescency, acetabula, acerbates",
     "options": [
       "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified;",
@@ -2660,9 +2658,9 @@
     "question": "Solve the anagram in brackets to correctly complete the quotation with a 10-letter word. ‘The difference between golf and (torn veg men) is that in golf you cannot improve your lie’ George Deukmejian",
     "options": [
       "government",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "government;",
@@ -2693,9 +2691,9 @@
     "question": "P U H M H R E A C L E B O P T R Take one letter from each circle in turn and using each letter once only find two eight-letter words that are similar in meaning. Both words read clockwise and each starts in a different circle.",
     "options": [
       "Top left is a third of bottom right, bottom right is three less than top right and top right is half of bottom left.",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Top left is a third of bottom right, bottom right is three less than top right and top right is half of bottom left.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2709,9 +2707,9 @@
     "question": "What letters should replace the question marks? F T O ? F I ? R E R E E ?",
     "options": [
       "VHU",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "VHU: the numbers spelled out below are the number of sides in the figures in which they appear; F I E V T H E E R F O R U",
@@ -2725,9 +2723,9 @@
     "question": "7 2 5 9 2 8 7 8 4 6 ? 9 What number should replace the question mark?",
     "options": [
       "4",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: 6 × 9 = 54 (reading down the middle two blocks);\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2740,10 +2738,10 @@
     "q_num": 18,
     "question": "bizarre is to outlandish as eccentric is to: eerie, quirky, esoteric, weird, curious",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -2757,9 +2755,9 @@
     "question": "On taking delivery of a consignment of eggs the market stall owner was furious to find that several were cracked. In fact, on counting them up in order to assess the damage he found that 72 were cracked, which was 12 per cent of the total consignment. How many eggs in total were in the consignment?",
     "options": [
       "600",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "600: 72 ÷ 12 × 100;",
@@ -2773,9 +2771,9 @@
     "question": "Which is the missing tile? A B C D E",
     "options": [
       "× = × =",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• × = × =\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2789,9 +2787,9 @@
     "question": "MTD is to PXB as FRJ is to?",
     "options": [
       "IVH",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "IVH: the first letter moves three places in the alphabet forwards: FghI; the second letter moves four letters in the alphabet forwards: RstuV; the third letter moves two places in the alphabet backwards: JiH;",
@@ -2837,9 +2835,9 @@
     "question": "Using the five letters below only, create a nine-letter word. LOPER",
     "options": [
       "PROPELLER",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "PROPELLER;",
@@ -2853,9 +2851,9 @@
     "question": "16, 23, 19, 19, 22, 15, 25, ? What number should replace the question mark?",
     "options": [
       "11",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "11: there are two alternate sequences: +3 and –4;",
@@ -2868,10 +2866,10 @@
     "q_num": 26,
     "question": "Simplify: 14 55 56 77 ÷ as the lowest fraction.",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -2901,9 +2899,9 @@
     "question": "Which word in brackets is most opposite in meaning to the word in capitals? PLAUSIBLE (appropriate, improbable, clichéd, artificial, distasteful)",
     "options": [
       "improbable",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "improbable;",
@@ -2917,9 +2915,9 @@
     "question": "The cost of an identical three-course lunch for four people was £56.00. The main course cost twice as much as the sweet and the sweet cost twice as much as the starter. How much did the main course cost per person?",
     "options": [
       "£8.00 per person",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "£8.00 per person: starter = 1 unit, sweet = 2 units, main course = 4 units, = 7 units in total. Therefore, cost per unit = £56 ÷ 7 = £8.00. The main course, therefore, cost 4 × 8 = 32 (or £8.00 per person);",
@@ -2933,9 +2931,9 @@
     "question": "aplomb, dodge, graph, jerk, ? What comes next? laugh, maroon, link, nickel, midnight",
     "options": [
       "maroon",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "maroon: the letters start and finish with the alphabetic sequence: ABcDEfGHiJKlMN;",
@@ -2965,9 +2963,9 @@
     "question": "14 22 34 41 53 ? What number should replace the question mark?",
     "options": [
       "55",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 55: each number indicates its position in the grid. 55 indicates row 5 column 5;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -2981,9 +2979,9 @@
     "question": "OVATE GNOME is an anagram of which familiar phrase (3, 1, 4, 2)? Clue: make haste.",
     "options": [
       "GET A MOVE ON",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "GET A MOVE ON;",
@@ -3013,9 +3011,9 @@
     "question": "268 11 359 ? 17 516 263 16 What number should replace the question mark?",
     "options": [
       "12",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 12: add the digits of each three-figure number to obtain the two-digit numbers;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3029,9 +3027,9 @@
     "question": "R I N T O G N S A S D A T E T C H Find the starting point and work from letter to adjacent letter vertically, horizon­ tally and diagonally to spell out a 17-letter phrase (2, 7, 8).",
     "options": [
       "NO STRINGS ATTACHED",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• NO STRINGS ATTACHED;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3061,9 +3059,9 @@
     "question": "At each stage the black dot moves three corners clockwise and the white dot moves four corners anticlockwise. After how many stages will both dots be together in the same corner?",
     "options": [
       "They will never appear together in the same corner as in a heptagon three corners clockwise is the same as four corners anticlockwise",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "They will never appear together in the same corner as in a heptagon three corners clockwise is the same as four corners anticlockwise;",
@@ -3077,9 +3075,9 @@
     "question": "A A S G P A H A M R S E E I I U G A * * * * * * * * * The name of which reptile can be placed on the bottom row to complete nine three-letter words reading downwards?",
     "options": [
       "CHAMELEON",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "CHAMELEON: to produce ARC, ASH, SEA, GEM, PIE, AIL, HUE, AGO, MAN;",
@@ -3092,10 +3090,10 @@
     "q_num": 40,
     "question": "8 27 6 21 54 24 42 18 9 30 5 ? 60 27 ? ? What numbers should replace the question marks?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3125,9 +3123,9 @@
     "question": "100, 97.4, 94.8, ?, 89.6, 87 What number should replace the question mark?",
     "options": [
       "92.2",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "92.2: deduct 2.6 at each stage;",
@@ -3141,9 +3139,9 @@
     "question": "E A D I P A Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
     "options": [
       "DISAPPEAR",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• DISAPPEAR;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3157,9 +3155,9 @@
     "question": "Which number is the odd one out? 9654 4832 5945 7642 7963 8216 3649",
     "options": [
       "3649",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "3649: in all the others multiply the first two digits together to produce the number formed by the last two digits;",
@@ -3173,9 +3171,9 @@
     "question": "Which two words are closest in meaning? qualified, practicable, puissant, feasible, mundane, fine",
     "options": [
       "practicable, feasible",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "practicable, feasible;",
@@ -3189,9 +3187,9 @@
     "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. FIRST (second, next, last) PENULTIMATE (last, third, previous)",
     "options": [
       "second, last",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "second, last;",
@@ -3205,9 +3203,9 @@
     "question": "Find five consecutive numbers below that total 23. 6 2 9 3 4 7 2 9 3 2 6 4 9 1 2",
     "options": [
       "72932; 8 Vertical lines turn dotted, one at a time at each stage. One horizontal line is added at each stage, and the previous lines become dotted; 9 dishevelled",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "72932; 8 Vertical lines turn dotted, one at a time at each stage. One horizontal line is added at each stage, and the previous lines become dotted; 9 dishevelled;",
@@ -3220,10 +3218,10 @@
     "q_num": 8,
     "question": "? Draw the missing figure in the above sequence.",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3236,10 +3234,10 @@
     "q_num": 9,
     "question": "Which word in brackets is most opposite to the word in capitals? SLEEK (sordid, unimaginative, disorderly, dishevelled, oblique)",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -3253,9 +3251,9 @@
     "question": "36 48 1216 24 72 824 42 51 ? What number should replace the question mark?",
     "options": [
       "1417",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 1417: 42 ÷ 3 = 14, 51 ÷ 3 = 17;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3269,9 +3267,9 @@
     "question": "Change one letter only in each of the words below to produce a familiar phrase. AND FEEL SO TIE WIRE",
     "options": [
       "ADD FUEL TO THE FIRE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "ADD FUEL TO THE FIRE;",
@@ -3302,9 +3300,9 @@
     "question": "Which is the odd one out? trivet, tributary, triptych, trident, triad",
     "options": [
       "tributary",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "tributary: in the other words the prefix tri- refers to three;",
@@ -3318,9 +3316,9 @@
     "question": "5 9 2 3 8 4 5 14 11 19 13 6 ? 20 27 What number should replace the question mark?",
     "options": [
       "7",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 7: the numbers round the centre increase by seven (in the others they increase by three and five respectively);\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3334,9 +3332,9 @@
     "question": "5862 is to 714 and 3498 is to 1113 and 9516 is to 156 therefore 8257 is to ?",
     "options": [
       "157",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "157: 7 + 8 = 15, 2 + 5 = 7;",
@@ -3366,9 +3364,9 @@
     "question": "mohair is to wool as shantung is to: silk, cotton, linen, nylon, fabric",
     "options": [
       "silk",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "silk;",
@@ -3382,9 +3380,9 @@
     "question": "Place the numbers 1–6 into the circles, one number per circle, so that: the sum of the numbers 4 and 1, and all the numbers between them total 12; the sum of the numbers 4 and 6, and all the numbers between them total 21; the sum of the numbers 2 and 1, and all the numbers between them total 8.",
     "options": [
       "425136 or 631524",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 425136 or 631524;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3398,9 +3396,9 @@
     "question": "If meat in a river (3 in 6) is T(HAM)ES, can you find a monkey in a tall building (3 in 10)?",
     "options": [
       "SKYSCR(APE)R",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "SKYSCR(APE)R;",
@@ -3446,9 +3444,9 @@
     "question": "Which four bits can be joined together to form two words that have opposite meanings? ERT, UCE, DES, END, EXP, EAR, AND, SIP, RED, GOS",
     "options": [
       "EXPAND, REDUCE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "EXPAND, REDUCE;",
@@ -3478,9 +3476,9 @@
     "question": "Identify two words that sound alike but are spelled differently, which mean: a straight line connecting two points on a curve rope",
     "options": [
       "chord, cord",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "chord, cord;",
@@ -3494,9 +3492,9 @@
     "question": "Find the ages of Mary, George, Alice, Claire and Stephen if: Mary + George = 33 years between them Alice + Claire = 95 years between them Stephen + Mary = 72 years between them Mary + Claire = 87 years between them Stephen + George = 73 years between them",
     "options": [
       "Mary 16, George 17, Alice 24, Stephen 56, Claire 71",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "Mary 16, George 17, Alice 24, Stephen 56, Claire 71;",
@@ -3527,9 +3525,9 @@
     "question": "Using the four letters below only, create a seven-letter word. CILT",
     "options": [
       "ILLICIT",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "ILLICIT;",
@@ -3543,9 +3541,9 @@
     "question": "53 (3) 59 92 (4) 98 34 (2) 38 71 (?) 79 What number should replace the question mark?",
     "options": [
       "9",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "9: (7 × 9) ÷ (7 × 1);",
@@ -3559,9 +3557,9 @@
     "question": "C E I S W R P O I F L O L D L E Work clockwise round the circles to spell out two eight-letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
     "options": [
       "FOLLOWER, DISCIPLE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• FOLLOWER, DISCIPLE;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3575,9 +3573,9 @@
     "question": "? Draw the missing figure in the above sequence.",
     "options": [
       "The white dot moves corner/side/corner anticlockwise and the black dot does the same clockwise",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• The white dot moves corner/side/corner anticlockwise and the black dot does the same clockwise;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3591,9 +3589,9 @@
     "question": "abashed, derail, little, ? What comes next? mellow, entail, leader, elicit, status",
     "options": [
       "elicit",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "elicit: the following word begins with the last two letters of the previous word reversed;",
@@ -3607,9 +3605,9 @@
     "question": "Produce an eight-letter word by joining together two of these four-letter sets. cred, agon, lues, once, deva, some, come, pent",
     "options": [
       "pentagon",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "pentagon;",
@@ -3623,9 +3621,9 @@
     "question": "20 14 12 24 33 3 10 16 15 18 17 7 4 8 6 5 1 9 30 36 39 21 13 2 11 What number is three places away from itself plus three, two places away from itself multiplied by two, two places away from itself less four and two places away from itself divided by three?",
     "options": [
       "9",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 9;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3655,9 +3653,9 @@
     "question": "What percentage of the figure is shaded?",
     "options": [
       "5/8 or 0.625 or 62.5 per cent",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5/8 or 0.625 or 62.5 per cent;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3688,9 +3686,9 @@
     "question": "B E R I E T A Spiral clockwise round the perimeter and finish at the centre square to spell out a nine-letter word. You must find the starting point and provide the missing letters.",
     "options": [
       "HIBERNATE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• HIBERNATE;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3704,9 +3702,9 @@
     "question": "What is one-third of one-quarter of one-fifth of one-half of 120?",
     "options": [
       "1",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "1: work backwards from 120; that is, 120 – 60 – 12 – 3 – 1;",
@@ -3736,9 +3734,9 @@
     "question": "1 10 7 16 28 19 22 13 25 34 31 40 ? 43 46 37 What number should replace the question mark?",
     "options": [
       "52",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "52: start at the top left corner and work along the top line, then back along the second line, etc, adding nine then deducting three.",
@@ -3768,9 +3766,9 @@
     "question": "Which word in brackets is most opposite in meaning to the word in capitals? REVERENT (candid, lucid, cheeky, content, culpable)",
     "options": [
       "cheeky",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "cheeky;",
@@ -3784,9 +3782,9 @@
     "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. COCHLEA (shell, ear, brain) CEREBELLUM (heart, nose, brain)",
     "options": [
       "ear, brain",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "ear, brain;",
@@ -3800,9 +3798,9 @@
     "question": "Which number is the odd one out? 3647 2536 5869 6957 1425 4758",
     "options": [
       "6957",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "6957: all the rest progress +3, –2, +3;",
@@ -3816,9 +3814,9 @@
     "question": "C M I A N I A I Read clockwise to find a 16-letter word. Only alternate letters have been shown, and you have to find the starting point.",
     "options": [
       "CIRCUMNAVIGATION",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• CIRCUMNAVIGATION;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3832,9 +3830,9 @@
     "question": "How many lines appear below?",
     "options": [
       "12",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 12;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3848,9 +3846,9 @@
     "question": "0, 1, 2, 5, 20, 25, ?, ? What two numbers should replace the question marks?",
     "options": [
       "150, 157",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "150, 157: the sequence progresses +1, ×2, +3, ×4, +5, ×6, +7;",
@@ -3864,9 +3862,9 @@
     "question": "Which is the odd one out? exacerbate, alleviate, amplify, escalate, inflate",
     "options": [
       "alleviate",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "alleviate: it means to lessen, the rest meaning to increase;",
@@ -3880,9 +3878,9 @@
     "question": "9 8 5 6 6 2 8 1 8 3 6 4 ? 5 7 What number should replace the question mark?",
     "options": [
       "4",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: (6 + 7) – (4 + 5);\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3896,9 +3894,9 @@
     "question": "The name of which creature can be placed on the bottom row to complete seven three-letter words reading downwards? D A S A M Y W U R A G A O A * * * * * * *",
     "options": [
       "OCTOPUS",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "OCTOPUS: to produce DUO, ARC, SAT, AGO, MAP, YOU, WAS;",
@@ -3928,9 +3926,9 @@
     "question": "9 7 6 4 3 8 8 8 5 6 ? 8 7 5 2 7 7 9 What number should replace the question mark?",
     "options": [
       "8",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "8: the number in the middle is the average of the numbers round the outside. So, 7 + 8 + 9 + 7 + 8 + 9 = 48, and 48 ÷ 6 = 8;",
@@ -3944,9 +3942,9 @@
     "question": "N E A T M M I Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
     "options": [
       "MAGNETISM",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• MAGNETISM;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -3960,9 +3958,9 @@
     "question": "In eight years time the combined age of me and my two sons will be 124. What will it be in five years time?",
     "options": [
       "115",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "115: in eight years the combined age is 124; the age now is 124 – (8 × 3) = 100. Age in five years is 100 + (5 × 3) = 115;",
@@ -3976,9 +3974,9 @@
     "question": "Which two words are closest in meaning? old, stiff, ripe, pure, uniform, mellow",
     "options": [
       "ripe, mellow",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "ripe, mellow;",
@@ -4008,9 +4006,9 @@
     "question": "abyss is to chasm as fissure is to: crevice, recess, gorge, canyon, opening",
     "options": [
       "crevice",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "crevice;",
@@ -4024,9 +4022,9 @@
     "question": "Jack is twice as old as Jill, but in five years time he will only be one and a half times as old. How old are Jack and Jill now?",
     "options": [
       "Jack 10 and Jill 5",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "Jack 10 and Jill 5;",
@@ -4040,9 +4038,9 @@
     "question": "Change one letter only in each of the words below to produce a familiar phrase: HOME SO LINE",
     "options": [
       "COME TO LIFE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• COME TO LIFE;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4056,9 +4054,9 @@
     "question": "? Draw the missing figure in the above sequence.",
     "options": [
       "The sequence progresses circle, triangle, diamond, with alternate horizontal/ vertical lines",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• The sequence progresses circle, triangle, diamond, with alternate horizontal/ vertical lines;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4072,9 +4070,9 @@
     "question": "1000, 865, ?, 595, 460, 325 What number should replace the question mark?",
     "options": [
       "730",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "730: deduct 135 each time;",
@@ -4104,9 +4102,9 @@
     "question": "Identify two words that sound alike, but are spelled differently, which mean: potency small insect",
     "options": [
       "might/mite",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "might/mite;",
@@ -4120,9 +4118,9 @@
     "question": "14 26 28 91 18 89 57 177 22 189 16 7 Multiply the lowest even number in the grid by the highest odd number.",
     "options": [
       "2646 (14 × 189)",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 2646 (14 × 189);\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4136,9 +4134,9 @@
     "question": "What is the meaning of laconic? dull, uninspiring tearful using few words emotionally unstable sarcastic",
     "options": [
       "using few words",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "using few words;",
@@ -4152,9 +4150,9 @@
     "question": "A S T A E T E R L O G R A T Work clockwise round each circle to spell out two eight-letter words that are synonymous. You have to find the starting points and provide the missing letters.",
     "options": [
       "SATURATE, WATERLOG",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• SATURATE, WATERLOG;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4168,9 +4166,9 @@
     "question": "17, 4, 29, 13, 41, 22, 53, 31, ? What number should replace the question mark?",
     "options": [
       "65",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "65: there are two alternate sequences: +12 and +9;",
@@ -4200,9 +4198,9 @@
     "question": "T I E M T N O Spiral clockwise round the perimeter and finish at the centre square to spell out a nine-letter word. You must find the starting point and provide the missing letters.",
     "options": [
       "TESTIMONY",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• TESTIMONY;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4216,9 +4214,9 @@
     "question": "8 12 ? 18 11 5 16 19 4 What number should replace the question mark?",
     "options": [
       "6",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 6: so that the numbers in the triangles, squares and circles add up to 33;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4248,9 +4246,9 @@
     "question": "ENGLAND GOLF SCOTLAND TENNIS WALES Three teams, from England, Scotland and Wales, are competing for two trophies, one for golf and one for tennis. How many different outcomes of the two competitions exist? 6, 8, 9 or 12?",
     "options": [
       "9",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "9: the alternatives are: England win both golf and tennis, Scotland win both golf and tennis, Wales win both golf and tennis, England win golf, Scotland win tennis, Scotland win golf, England win tennis, England win golf, Wales win tennis, Wales win golf, England win tennis, Scotland win golf, Wales win tennis, Wales win golf, Scotland win tennis;",
@@ -4264,9 +4262,9 @@
     "question": "Which is the odd one out? statement, fluster, retirement, restful, testament",
     "options": [
       "retirement",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "retirement: statement/testament and fluster/restful are anagram pairs;",
@@ -4280,9 +4278,9 @@
     "question": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on = ON = OFF Switches B, D, A and C are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? 1 1 2 2 3 3 4 4 Figure 1 Figure 2",
     "options": [
       "Switch A is faulty",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Switch A is faulty;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4296,9 +4294,9 @@
     "question": "5 7 4 3 1 1 2 2 6 5 6 6 5 ? 1 2 What number should replace the question mark?",
     "options": [
       "2",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 2: so that each square block of four numbers totals 15;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4329,9 +4327,9 @@
     "question": "Find two words (7, 4) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away, it will be found by tracing around the circumference. Clue: may be difficult to swim over. A Z B Y C D X E W F V G U T H I S R J Q P O N M L K",
     "options": [
       "BARRIER REEF",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• BARRIER REEF;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4345,9 +4343,9 @@
     "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is immediately to the left of the letter that is immediately below the letter two to the left of the letter I?",
     "options": [
       "K",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• K;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4361,9 +4359,9 @@
     "question": "Which number is the odd one out? 3861 8712 5247 4356 1485 3645",
     "options": [
       "3645",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "3645: in all the others the number formed by the first two digits added to the number formed by the second two digits equals 99;",
@@ -4393,9 +4391,9 @@
     "question": "T S I L A E O C L E C T A F U T U Each square contains the letters of a nine-letter word. Find the two words that are similar in meaning.",
     "options": [
       "OSCILLATE, FLUCTUATE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• OSCILLATE, FLUCTUATE;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4408,10 +4406,10 @@
     "q_num": 2,
     "question": "1, 3, 4, 7, 11, 18, 29, ? What number should replace the question mark?",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -4425,9 +4423,9 @@
     "question": "Which four bits can be joined together to form two words that have opposite meanings? ant, ert, uce, ire, ill, and, red, tic, exp",
     "options": [
       "expand, reduce",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "expand, reduce;",
@@ -4440,10 +4438,10 @@
     "q_num": 4,
     "question": "When the above is folded to form a cube, which is the only one of the following that can be produced? A B C D E",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4456,10 +4454,10 @@
     "q_num": 5,
     "question": "blanch is to boil as sauté is to: simmer, fry, soak, roast, garnish",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -4473,9 +4471,9 @@
     "question": "In a game of eight players lasting for 70 minutes, six substitutes alternate with each player. This means that all players, including the substitutes, are on the pitch for the same length of time. For how long?",
     "options": [
       "40 minutes",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "40 minutes: (70 × 8) ÷ 14. Total time for eight players = 70 × 8 = 560 minutes. However, as 14 people are each on the pitch for an equal length of time, they are each on the pitch for 40 minutes (560 ÷ 14);",
@@ -4489,9 +4487,9 @@
     "question": "If 2 = H are BTO is two heads are better than one, what is the meaning of 2 = S to ES?",
     "options": [
       "two sides to every story",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "two sides to every story;",
@@ -4520,10 +4518,10 @@
     "q_num": 9,
     "question": "Which is the odd one out? parabolic, lancet, abutment, trefoil, ogee",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -4537,9 +4535,9 @@
     "question": "8 3 4 9 4 6 12 2 ? Look at lines both across and down and work out which number should replace the question mark.",
     "options": [
       "4",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "4: in each row and column in order to arrive at the final number multiply the first two numbers together and divide by 6;",
@@ -4586,9 +4584,9 @@
     "question": "Change one letter only in each of the words below to produce a familiar phrase: SO LID ON WANT",
     "options": [
       "TO LIE IN WAIT",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "TO LIE IN WAIT;",
@@ -4601,10 +4599,10 @@
     "q_num": 14,
     "question": "Insert the numbers 1–5 in the circles so that for any particular circle the sum of the numbers in the circles connected directly to it equals the value corre­ sponding to the number in that circle as given in the list. 1 4 7 Example: 3 1 = 14 (4 + 3 + 7) 3 = 5 (4 + 1) 4 = 4 (1 + 3) 7 = 1 1 = 4 2 = 12 3 = 7 4 = 8 5 = 9",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• \n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4618,9 +4616,9 @@
     "question": "A C O I N A P Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.",
     "options": [
       "PANORAMIC",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• PANORAMIC;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4650,9 +4648,9 @@
     "question": "I G R C N A C T S U M B L I Find two eight-letter words reading clockwise in each circle. The words are antonyms. You have to find the starting point of each word, and provide the missing letter.",
     "options": [
       "× × = × = ×",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• × × = × = ×\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4666,9 +4664,9 @@
     "question": "Which of the following is not an anagram of a type of building? delta arch raiment cleats the Arctic a blowgun",
     "options": [
       "the Arctic = architect. The buildings are",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "the Arctic = architect. The buildings are: cathedral (delta arch), minaret (raiment), castle (cleats), bungalow (a blowgun);",
@@ -4682,9 +4680,9 @@
     "question": "If five men can build a house in 16 days, how long will it take just two men to build the same house, assuming all men work at the same rate?",
     "options": [
       "40 days",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "40 days: five men take 5 × 16 = 80 man days to build the house. Two men will, therefore, take 40 days to build the house (80 ÷ 2);",
@@ -4731,9 +4729,9 @@
     "question": "Change one letter only in each word to produce a familiar phrase: cone do line",
     "options": [
       "come to life",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "come to life;",
@@ -4747,9 +4745,9 @@
     "question": "IQS: LNV JRM: ? LOP, MOP, LIP, MOW or KIP?",
     "options": [
       "MOP. JklM – RqpO – MnoP",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "MOP. JklM – RqpO – MnoP;",
@@ -4763,9 +4761,9 @@
     "question": "742 (8710) 138 395 (12167) 972 819 ( ? ) 356 What number should replace the question mark?",
     "options": [
       "11615",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "11615: 8 + 3 = 11; 1 + 5 = 6; 9 + 6 = 15;",
@@ -4779,9 +4777,9 @@
     "question": "FAIRER BEETLE is an anagram of which two words that are similar in meaning?",
     "options": [
       "FREE, LIBERATE",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "FREE, LIBERATE;",
@@ -4811,9 +4809,9 @@
     "question": "Identify two words that sound alike but are spelled differently, which mean: regrets artifice",
     "options": [
       "rues/ruse",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "rues/ruse;",
@@ -4826,10 +4824,10 @@
     "q_num": 28,
     "question": "Simplify: 27 74 9 37 6 17 ÷ × to the lowest fraction.",
     "options": [
-      "",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "Option A",
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "",
@@ -4843,9 +4841,9 @@
     "question": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z What letter is two letters to the right of the letter two letters above the letter four letters to the left of the letter Z?",
     "options": [
       "N",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• N;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4859,9 +4857,9 @@
     "question": "Draw the missing figure in the above sequence.",
     "options": [
       "At each stage lines are added to a new corner working anticlockwise and a new line is added to corners already containing a line",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "At each stage lines are added to a new corner working anticlockwise and a new line is added to corners already containing a line;",
@@ -4875,9 +4873,9 @@
     "question": "3 1 4 7 2 8 ? 6 4 3 What number should replace the question mark?",
     "options": [
       "6",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 6: 36 × 2 = 72; 14 × 2 = 28 and 43 × 2 = 86;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4891,9 +4889,9 @@
     "question": "night long boat house ? What comes next? calm, hold, panic, wind, post",
     "options": [
       "hold",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "hold: to form compound words: nightlong, longboat, boathouse, household;",
@@ -4907,9 +4905,9 @@
     "question": "rifle is to firearm as cutlass is to: blade, sword, weapon, steel, sever",
     "options": [
       "sword",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "sword;",
@@ -4923,9 +4921,9 @@
     "question": "6 7 9 16 4 3 2 4 6 11 5 32 18 10 13 ? What number should replace the question mark?",
     "options": [
       "32",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 32: 6 × 4 = 6 + 18, 7 × 3 = 11 + 10, 9 × 2 = 5 + 13, 16 × 4 = 32 + 32;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
@@ -4955,9 +4953,9 @@
     "question": "7 4 2 6 3 5 8 1 9 What is the difference between the average of the numbers above and the sec­ ond lowest even number?",
     "options": [
       "1",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "1: average 45 ÷ 9= 5; second lowest even number = 4;",
@@ -4971,9 +4969,9 @@
     "question": "How much does a bag of flour weigh if it weighs 1 kilogram plus the weight of half the bag of flour?",
     "options": [
       "2 kilograms",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "2 kilograms: half weight = 1 kg (+1 kg) =2 kg;",
@@ -4987,9 +4985,9 @@
     "question": "Fill in the missing letters to find two types of tree: *U*A*Y**** *A*D*L*O**",
     "options": [
       "EUCALYPTUS, SANDALWOOD",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "EUCALYPTUS, SANDALWOOD;",
@@ -5003,9 +5001,9 @@
     "question": "9 7 6 11 13 ? 5 3 8 2 8 9 What number should replace the question mark?",
     "options": [
       "5",
-      "None of the above",
-      "Cannot be determined",
-      "Opposite"
+      "None of these",
+      "Other alternative",
+      "Different pattern"
     ],
     "correct": 0,
     "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (6 + 8) – 9;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",

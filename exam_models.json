@@ -8,13 +8,13 @@
         "q_num": 11,
         "question": "How many minutes is it before 12 noon, if 48 minutes ago it was twice as many minutes past 9 am?",
         "options": [
+          "36 minutes",
           "44 minutes",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "28 minutes",
+          "52 minutes"
         ],
-        "correct": 0,
-        "reasoning": "44 minutes: 12 noon less 44 minutes = 11.16, 11.16 less 48 minutes = 10.28, 9 am plus 88 minutes (44 × 2) = 10.28;",
+        "correct": 1,
+        "reasoning": "44 minutes: 12 noon less 44 minutes = 11:16. 48 minutes ago was 10:28. From 9:00 to 10:28 is 88 minutes (44 × 2).",
         "image": null
       },
       {
@@ -24,13 +24,13 @@
         "q_num": 13,
         "question": "Which is the odd one out? heptagon, triangle, hexagon, cube, pentagon",
         "options": [
+          "triangle",
           "cube",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "heptagon",
+          "pentagon"
         ],
-        "correct": 0,
-        "reasoning": "cube: it is a three-dimensional figure. The rest are all two-dimensional figures;",
+        "correct": 1,
+        "reasoning": "cube: it is a three-dimensional solid (3D), while all the others are two-dimensional flat polygons (2D).",
         "image": null
       },
       {
@@ -41,12 +41,12 @@
         "question": "Complete the five words below in such a way that the two letters that end the first word also start the second word, and the two letters that end the second word also start the third word etc. The same two letters that end the fifth word also start the first word, to complete the cycle. ** IV ** ** OT ** ** IC ** ** NG ** ** RA **",
         "options": [
           "SHIVER, EROTIC, ICICLE, LENGTH, THRASH",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "DRIVER, EXOTIC, ICICLE, SPRING, THREAD",
+          "SILVER, QUOTIC, ICICLE, CLINGY, THRASH",
+          "SHIVER, EROTIC, ICICLE, TANGLE, PHRASE"
         ],
         "correct": 0,
-        "reasoning": "SHIVER, EROTIC, ICICLE, LENGTH, THRASH;",
+        "reasoning": "SHIV(ER) -> (ER)OT(IC) -> (IC)IC(LE) -> (LE)NG(TH) -> (TH)RA(SH) -> (SH)IV(ER). The cycle closes perfectly.",
         "image": null
       },
       {
@@ -497,13 +497,13 @@
         "q_num": 2,
         "question": "Which word in brackets is most opposite to the word in capitals? PROSCRIBE (allow, stifle, promote, verify, indict)",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "stifle",
+          "verify",
+          "allow",
+          "indict"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 2,
+        "reasoning": "PROSCRIBE means to prohibit, condemn or outlaw; its direct opposite is ALLOW.",
         "image": null
       },
       {
@@ -513,13 +513,13 @@
         "q_num": 3,
         "question": "0, 1, 2, 4, 6, 9, 12, 16, ? What number should replace the question mark?",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "18",
+          "20",
+          "22",
+          "24"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 1,
+        "reasoning": "The differences alternate in pairs: +1, +1, +2, +2, +3, +3, +4, +4. 16 + 4 = 20.",
         "image": null
       },
       {
@@ -529,13 +529,13 @@
         "q_num": 4,
         "question": "Which number is the odd one out? 9678 4572 5261 5133 3527 6895 7768",
         "options": [
+          "9678",
+          "5261",
           "3527",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "7768"
         ],
-        "correct": 0,
-        "reasoning": "3527: in the others the sum of the first two numbers is equal to the sum of the second two numbers, for example 5 + 2 = 6 + 1;",
+        "correct": 2,
+        "reasoning": "3527: In all the other numbers, the sum of the first two digits equals the sum of the last two digits (9+6=7+8=15, 5+2=6+1=7, 7+7=6+8=14). In 3527, 3+5=8 but 2+7=9.",
         "image": null
       },
       {
@@ -545,13 +545,13 @@
         "q_num": 5,
         "question": "Isotherm is to temperature as isobar is to: atmosphere, wind, pressure, latitude, current",
         "options": [
+          "wind",
           "pressure",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "atmosphere",
+          "latitude"
         ],
-        "correct": 0,
-        "reasoning": "pressure;",
+        "correct": 1,
+        "reasoning": "An isotherm connects points of equal temperature; an isobar connects points of equal atmospheric pressure.",
         "image": null
       },
       {
@@ -561,13 +561,13 @@
         "q_num": 8,
         "question": "Which is the correct figure / answer for Question 8?",
         "options": [
+          "mass, velocity",
           "weight, speed",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "force, acceleration",
+          "gravity, distance"
         ],
-        "correct": 0,
-        "reasoning": "weight, speed;",
+        "correct": 1,
+        "reasoning": "weight, speed: analogous pairing of scalar and vector physical measurements.",
         "image": null
       }
     ],
@@ -579,13 +579,13 @@
         "q_num": 26,
         "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. SEA (wet, swimmer, ship) SNOW (mountain, ice, skier)",
         "options": [
+          "ship, mountain",
+          "wet, ice",
           "swimmer, skier",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "sea, snow"
         ],
-        "correct": 0,
-        "reasoning": "swimmer, skier;",
+        "correct": 2,
+        "reasoning": "A swimmer moves through the sea; a skier moves across snow.",
         "image": null
       },
       {
@@ -595,13 +595,13 @@
         "q_num": 28,
         "question": "Alf has four times as many as Jim, and Jim has three times as many as Sid. Altogether they have 192. How many has each?",
         "options": [
+          "Alf 120, Jim 48, Sid 24",
           "Alf 144, Jim 36, Sid 12",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "Alf 160, Jim 24, Sid 8",
+          "Alf 132, Jim 44, Sid 16"
         ],
-        "correct": 0,
-        "reasoning": "Alf 144, Jim 36, Sid 12;",
+        "correct": 1,
+        "reasoning": "Let Sid = x. Jim = 3x. Alf = 4(3x) = 12x. Total: 16x = 192 => x = 12. Sid = 12, Jim = 36, Alf = 144.",
         "image": null
       },
       {
@@ -611,13 +611,13 @@
         "q_num": 27,
         "question": "Which word meaning LOCALITY becomes a word meaning TEMPO when a letter is removed?",
         "options": [
-          "place/pace",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "SPACE / PACE",
+          "PLACE / PACE",
+          "TRACK / TACT",
+          "SITE / SET"
         ],
-        "correct": 0,
-        "reasoning": "place/pace;",
+        "correct": 1,
+        "reasoning": "PLACE (locality) becomes PACE (tempo/speed) when L is removed.",
         "image": null
       },
       {
@@ -1064,13 +1064,13 @@
         "q_num": 16,
         "question": "Which word in brackets is closest in meaning to the word in capitals? BRUNT (dull, edifice, impact, tawny, nonsense)",
         "options": [
+          "disobey",
+          "absorb",
           "impact",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "clarify"
         ],
-        "correct": 0,
-        "reasoning": "impact;",
+        "correct": 2,
+        "reasoning": "IMPINGE means to strike, collide with, or have an effect (impact).",
         "image": null
       },
       {
@@ -1080,13 +1080,13 @@
         "q_num": 17,
         "question": "Which of the following is not an anagram of a type of food? PAST EIGHT I CAN ROAM WIN BOAR CAN PEAK COOL CHEAT",
         "options": [
-          "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT)",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "CHEAP PIE",
+          "WIN BOAR",
+          "TART SOUP",
+          "GIN EGG"
         ],
-        "correct": 0,
-        "reasoning": "WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT);",
+        "correct": 1,
+        "reasoning": "WIN BOAR is an anagram of RAINBOW (not a food). The other anagrams are all foods (spaghetti, macaroni, pancake, chocolate).",
         "image": null
       },
       {
@@ -1096,13 +1096,13 @@
         "q_num": 22,
         "question": "67/8, 29/16, 55/8, 33/16, 43/8, ? What number should replace the question mark?",
         "options": [
-          "51/16",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "3 11/16",
+          "3 3/16 (51/16)",
+          "4 1/16",
+          "3 7/16"
         ],
-        "correct": 0,
-        "reasoning": "51/16: there are two alternate sequences: –11/4 and +11/4;",
+        "correct": 1,
+        "reasoning": "There are two alternate sequences: 6 7/8, 5 5/8, 4 3/8 (-1 1/4 each) and 2 9/16, 3 3/16, 3 13/16 (+1 1/4 each).",
         "image": null
       },
       {
@@ -1113,12 +1113,12 @@
         "question": "10, 30, 32, 96, 98, 294, 296, ?, ? What two numbers should replace the question marks?",
         "options": [
           "888, 890",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "882, 884",
+          "892, 894",
+          "888, 892"
         ],
         "correct": 0,
-        "reasoning": "888, 890: the sequence progresses ×3, +2;",
+        "reasoning": "The sequence alternates: ×3, +2, ×3, +2. 296 × 3 = 888, 888 + 2 = 890.",
         "image": null
       },
       {
@@ -1128,13 +1128,13 @@
         "q_num": 25,
         "question": "able, rot, son, king Which word below shares a common feature with all the words above? line, sit, take, hope, night",
         "options": [
+          "jump",
+          "fast",
           "take",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "sing"
         ],
-        "correct": 0,
-        "reasoning": "take: all words can be prefixed with PAR to form another word – parable, parrot, parson, parking, partake;",
+        "correct": 2,
+        "reasoning": "All can be prefixed by PAR- to form valid English words: parable, parrot, parson, parking, partake.",
         "image": null
       }
     ],
@@ -1146,13 +1146,13 @@
         "q_num": 35,
         "question": "Find five consecutive numbers below that total 22. 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5",
         "options": [
-          "93541",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "9, 3, 5, 4, 1",
+          "7, 3, 9, 2, 1",
+          "6, 4, 1, 8, 3",
+          "3, 9, 6, 3, 1"
         ],
         "correct": 0,
-        "reasoning": "93541;",
+        "reasoning": "9 + 3 + 5 + 4 + 1 = 22.",
         "image": null
       },
       {
@@ -1162,13 +1162,13 @@
         "q_num": 4,
         "question": "ligno- is to wood as vitro- is to wool, glass, stone, water, paper?",
         "options": [
-          "6 × 1 = 2 × 3",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "9 pm",
+          "10 pm",
+          "11 pm",
+          "10:30 pm"
         ],
-        "correct": 0,
-        "reasoning": "6 × 1 = 2 × 3: 7 × 8 (6 + 2) = 56, 11 × 4 = 44, 4 × 3 = 12, 44 + 12 = 56;",
+        "correct": 1,
+        "reasoning": "In 4 hours the watch lost 4 × 17 = 68 minutes (1h 8m), showing 2:52 pm at 4:00 pm. Six hours later, the actual time is 10:00 pm.",
         "image": null
       },
       {
@@ -1178,13 +1178,13 @@
         "q_num": 2,
         "question": "Which four-letter word, when placed in the brackets, will complete a word on the left and start another word on the right? RAM (****) RIDGE",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "palm",
+          "hype",
+          "evil",
+          "dark"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 2,
+        "reasoning": "Compound words: brokerage, prosecute, daredevil.",
         "image": null
       },
       {
@@ -1627,13 +1627,13 @@
         "q_num": 29,
         "question": "Which is the only one of the following that is not an anagram of a word meaning out of this world? flow under sexed Utah enviable blue icier blend",
         "options": [
-          "sexed Utah = exhausted. The words meaning out of this world are",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "SPACE / PACE",
+          "PLACE / PACE",
+          "TRACK / TACT",
+          "SITE / SET"
         ],
-        "correct": 0,
-        "reasoning": "sexed Utah = exhausted. The words meaning out of this world are: wonderful (flow under), unbelievable (enviable blue), incredible (icier blend);",
+        "correct": 1,
+        "reasoning": "PLACE (locality) becomes PACE (tempo/speed) when L is removed.",
         "image": null
       },
       {
@@ -1643,13 +1643,13 @@
         "q_num": 30,
         "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?",
         "options": [
-          "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "disobey",
+          "absorb",
+          "impact",
+          "clarify"
         ],
-        "correct": 0,
-        "reasoning": "40 socks. If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 per cent certain that he also has a pair of black socks he must take out a further two socks;",
+        "correct": 2,
+        "reasoning": "IMPINGE means to strike, collide, or have an effect (impact).",
         "image": null
       },
       {
@@ -1659,13 +1659,13 @@
         "q_num": 32,
         "question": "How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?",
         "options": [
-          "37 minutes",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "3 11/16",
+          "3 13/16",
+          "4 1/16",
+          "3 7/16"
         ],
-        "correct": 0,
-        "reasoning": "37 minutes: 12 noon less 37 minutes = 11.23, 11.23 less nine minutes = 11.14.10 am plus 74 minutes (2 × 37) = 11.14;",
+        "correct": 1,
+        "reasoning": "Two alternate sequences: First: 6 7/8, 5 5/8, 4 3/8 (-1 2/8 each). Second: 2 9/16, 3 3/16, 3 13/16 (+10/16 each).",
         "image": null
       },
       {
@@ -1675,13 +1675,13 @@
         "q_num": 33,
         "question": "Which two words are closest in meaning? conclave, medley, theme, conglomeration, dissertation, augury",
         "options": [
-          "medley, conglomeration",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "888, 890",
+          "882, 884",
+          "892, 894",
+          "888, 892"
         ],
         "correct": 0,
-        "reasoning": "medley, conglomeration;",
+        "reasoning": "The sequence alternates: ×3, +2, ×3, +2. 296 × 3 = 888, 888 + 2 = 890.",
         "image": null
       },
       {
@@ -1691,13 +1691,13 @@
         "q_num": 34,
         "question": "broke rage prose cute dared ? Which word is missing? palm hymn evil snow take",
         "options": [
-          "evil",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "jump",
+          "fast",
+          "take",
+          "sing"
         ],
-        "correct": 0,
-        "reasoning": "evil: when joined together each pair of words forms another word – brokerage, prosecute, daredevil;",
+        "correct": 2,
+        "reasoning": "All can be prefixed by PAR- to form valid English words: parable, parrot, parson, parking, partake.",
         "image": null
       }
     ],
@@ -1709,13 +1709,13 @@
         "q_num": 15,
         "question": "The following clue leads to which pair of rhyming words? measure bulk of grass fodder",
         "options": [
-          "weigh hay",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "53",
+          "57",
+          "61",
+          "55"
         ],
-        "correct": 0,
-        "reasoning": "weigh hay;",
+        "correct": 1,
+        "reasoning": "Odd positions sequence: 1, 15, 29, 43, 57 (+14 at each step).",
         "image": null
       },
       {
@@ -1725,13 +1725,13 @@
         "q_num": 18,
         "question": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm. What time is it now?",
         "options": [
-          "10 pm",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "disperse",
+          "detach",
+          "coalesce",
+          "isolate"
         ],
-        "correct": 0,
-        "reasoning": "10 pm: 12 noon = 12 noon, 1 pm = 12.43, 2 pm = 1.26, 3 pm = 2.09, 4 pm = 2.52, +6 hours = 10 pm;",
+        "correct": 2,
+        "reasoning": "COALESCE means to come together or merge into a single whole.",
         "image": null
       },
       {
@@ -1741,13 +1741,13 @@
         "q_num": 17,
         "question": "Which is the odd one out? femur, mandible, fibula, tibia, patella",
         "options": [
-          "mandible",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "MINIMUM",
+          "MAXIMUM",
+          "UNIONS",
+          "MUMMY"
         ],
         "correct": 0,
-        "reasoning": "mandible: it is the jaw bone, the rest are bones in the leg;",
+        "reasoning": "MINIMUM uses only the letters M, I, N, U.",
         "image": null
       },
       {
@@ -2192,13 +2192,13 @@
         "q_num": 6,
         "question": "Solve the anagrams to find a well-known saying. The number of letters in each word is shown. (**** ** ********)(**** *******) (asserting craft)(hint of antic)",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "A stitch in time saves nine",
+          "Better late than never",
+          "Actions speak louder than words",
+          "Look before you leap"
         ],
         "correct": 0,
-        "reasoning": "",
+        "reasoning": "The anagram unscrambles to the proverb: A STITCH IN TIME SAVES NINE.",
         "image": null
       },
       {
@@ -2208,13 +2208,13 @@
         "q_num": 8,
         "question": "0, 4, 2, 6, 3, 7, 3.5, ? What number should replace the question mark?",
         "options": [
-          "Tile 7 is incorrect, and should be replaced by tile B",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "equator, pole",
+          "meridian, parallel",
+          "meridian, pole",
+          "long, wide"
         ],
-        "correct": 0,
-        "reasoning": "Tile 7 is incorrect, and should be replaced by tile B;",
+        "correct": 1,
+        "reasoning": "Longitude lines are meridians; latitude lines are parallels.",
         "image": null
       },
       {
@@ -2224,13 +2224,13 @@
         "q_num": 9,
         "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. LONGITUDE (degree, tropics, meridian) LATITUDE (parallel, line, equinox)",
         "options": [
-          "meridian, parallel",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "glance",
+          "ignore",
+          "observe",
+          "overlook"
         ],
-        "correct": 0,
-        "reasoning": "meridian, parallel;",
+        "correct": 2,
+        "reasoning": "SCRUTINIZE means to examine or observe closely.",
         "image": null
       },
       {
@@ -2240,13 +2240,13 @@
         "q_num": 11,
         "question": "Which word in brackets is closest in meaning to the word in capitals? MONITOR (observe, order, meddle, intrude, conclude)",
         "options": [
-          "observe",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "5 added",
+          "12 added",
+          "3 added",
+          "8 added"
         ],
         "correct": 0,
-        "reasoning": "observe;",
+        "reasoning": "59 + 5 = 64 = 4³, forming the next smallest perfect cube.",
         "image": null
       },
       {
@@ -2256,13 +2256,13 @@
         "q_num": 13,
         "question": "Which two words are most opposite in meaning? liberty, frivolity, chastity, sobriety, irrationality, polarity",
         "options": [
-          "frivolity, sobriety",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "EDUCATE / DUCT",
+          "DERIVE / DRIVE",
+          "INFER / FIRE",
+          "LEAD / LOAD"
         ],
-        "correct": 0,
-        "reasoning": "frivolity, sobriety;",
+        "correct": 1,
+        "reasoning": "DERIVE (deduce) becomes DRIVE (propel) when the first E is removed.",
         "image": null
       }
     ],
@@ -2274,13 +2274,13 @@
         "q_num": 33,
         "question": "You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?",
         "options": [
-          "32",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "32 taken away",
+          "15 taken away",
+          "24 taken away",
+          "8 taken away"
         ],
         "correct": 0,
-        "reasoning": "32: the next cube number below 64 (4 × 4 × 4) is 27 (3 × 3 × 3). In order to construct a solid cube, therefore, with none left over, 59 – 27 = 32 blocks need to be taken away;",
+        "reasoning": "59 - 32 = 27 = 3³, forming the nearest smaller perfect solid cube.",
         "image": null
       },
       {
@@ -2290,13 +2290,13 @@
         "q_num": 36,
         "question": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced. FEUMOPXCTW",
         "options": [
+          "OUTCOME",
           "COMPUTE",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "COMPUTER",
+          "MOMENT"
         ],
-        "correct": 0,
-        "reasoning": "COMPUTE;",
+        "correct": 1,
+        "reasoning": "COMPUTE is a 7-letter word made using only the given letters C, O, M, P, U, T, E.",
         "image": null
       },
       {
@@ -2306,13 +2306,13 @@
         "q_num": 34,
         "question": "What word meaning DEDUCE becomes a word meaning PROPEL when a letter is removed?",
         "options": [
-          "DERIVE/DRIVE",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "EDUCATE / DUCT",
+          "DERIVE / DRIVE",
+          "INFER / FIRE",
+          "LEAD / LOAD"
         ],
-        "correct": 0,
-        "reasoning": "DERIVE/DRIVE;",
+        "correct": 1,
+        "reasoning": "DERIVE (deduce) becomes DRIVE (propel) when the first E is removed.",
         "image": null
       },
       {
@@ -2752,13 +2752,13 @@
         "q_num": 22,
         "question": "dopiness, uncloaking, dishwasher Which word below has a feature in common with all the words above? gallant, crossfire, whirlwind, assault",
         "options": [
-          "crossfire",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "cymbal",
+          "marimba",
+          "trombone",
+          "xylophone"
         ],
-        "correct": 0,
-        "reasoning": "crossfire: all words contain an embedded tree – do(pine)ss, uncl(oak)ing, dishw(ash)er, cross(fir)e;",
+        "correct": 2,
+        "reasoning": "Trombone is a brass wind instrument; all others are percussion instruments.",
         "image": null
       },
       {
@@ -2768,13 +2768,13 @@
         "q_num": 23,
         "question": "1, 101, 15, 4, 29, –93, 43, –190, ? What number should replace the question mark?",
         "options": [
-          "57",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "principle, principal",
+          "principal, principle",
+          "principal, principal",
+          "principle, principle"
         ],
-        "correct": 0,
-        "reasoning": "57: there are two alternate sequences: +14, –97;",
+        "correct": 1,
+        "reasoning": "The head of a school is a PRINCIPAL; a fundamental truth is a PRINCIPLE.",
         "image": null
       },
       {
@@ -2784,13 +2784,13 @@
         "q_num": 25,
         "question": "15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33 What three numbers are missing?",
         "options": [
-          "27, 9, 12",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "EAST, WEST",
+          "PAST, FUTURE",
+          "SAFE, HURT",
+          "TRUE, FALSE"
         ],
-        "correct": 0,
-        "reasoning": "27, 9, 12: the sequence progresses ÷3, +3, ×3, –3 repeated;",
+        "correct": 1,
+        "reasoning": "PURE AS TUFT unscrambles to PAST, FUTURE (opposites).",
         "image": null
       },
       {
@@ -2800,13 +2800,13 @@
         "q_num": 27,
         "question": "Using the four letters below only, create a seven-letter word. UMNI",
         "options": [
-          "minimum",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "MINIMUM",
+          "MAXIMUM",
+          "UNIONS",
+          "MUMMY"
         ],
         "correct": 0,
-        "reasoning": "minimum;",
+        "reasoning": "MINIMUM uses only the letters M, I, N, U.",
         "image": null
       },
       {
@@ -2816,13 +2816,13 @@
         "q_num": 30,
         "question": "Which word in brackets is closest in meaning to the word in capitals? FUSE (muzzle, explode, coalesce, immobilize, tighten)",
         "options": [
+          "disperse",
+          "detach",
           "coalesce",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "isolate"
         ],
-        "correct": 0,
-        "reasoning": "coalesce;",
+        "correct": 2,
+        "reasoning": "COALESCE means to come together or merge into a single whole.",
         "image": null
       }
     ],
@@ -2834,13 +2834,13 @@
         "q_num": 10,
         "question": "Arrange the words below into alphabetical order. acescence, acetamide, acerbated, acetified, acellular, acescency, acetabula, acerbates",
         "options": [
-          "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "acescence, acellular, acerbated, acerbates",
+          "acellular, acerbated, acerbates, acescence",
+          "acerbates, acerbated, acellular, acescence",
+          "acellular, acescence, acerbated, acerbates"
         ],
-        "correct": 0,
-        "reasoning": "acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified;",
+        "correct": 1,
+        "reasoning": "Alphabetical order: acellular, acerbated, acerbates, acescence.",
         "image": null
       },
       {
@@ -2850,13 +2850,13 @@
         "q_num": 18,
         "question": "bizarre is to outlandish as eccentric is to: eerie, quirky, esoteric, weird, curious",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "calm",
+          "ordinary",
+          "quirky",
+          "eerie"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 2,
+        "reasoning": "Bizarre is synonymous with outlandish; eccentric is synonymous with quirky.",
         "image": null
       },
       {
@@ -2866,13 +2866,13 @@
         "q_num": 13,
         "question": "Solve the anagram in brackets to correctly complete the quotation with a 10-letter word. ‘The difference between golf and (torn veg men) is that in golf you cannot improve your lie’ George Deukmejian",
         "options": [
-          "government",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "GOVERNOR",
+          "GOVERNMENT",
+          "MANAGEMENT",
+          "MONUMENT"
         ],
-        "correct": 0,
-        "reasoning": "government;",
+        "correct": 1,
+        "reasoning": "MEN GOVERN T unscrambles to GOVERNMENT.",
         "image": null
       },
       {
@@ -3316,13 +3316,13 @@
         "q_num": 2,
         "question": "Which is the odd one out? cymbal, marimba, vibraphone, trombone, glockenspiel",
         "options": [
+          "cymbal",
+          "marimba",
           "trombone",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "xylophone"
         ],
-        "correct": 0,
-        "reasoning": "trombone: the rest are percussion instruments;",
+        "correct": 2,
+        "reasoning": "Trombone is a brass wind instrument; all others are percussion instruments.",
         "image": null
       },
       {
@@ -3332,13 +3332,13 @@
         "q_num": 3,
         "question": "stationary, less, stationery, principal, fewer, principle Place the words above alongside their correct definition below: head of school fundamental truth standing still writing materials smaller in amount smaller in number",
         "options": [
-          "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "principal (head of school), principle (fundamental truth)",
+          "principle (head of school), principal (fundamental truth)",
+          "principal (head of school), principal (fundamental truth)",
+          "principle (head of school), principle (fundamental truth)"
         ],
         "correct": 0,
-        "reasoning": "head of school = principal, fundamental truth = principle, standing still = stationary, writing materials = stationery, smaller in amount = less, smaller in number = fewer (score 1 point if all answers are correct); 4 683: in the other numbers add the first and last digits to arrive at the middle digit; 5 PAST, FUTURE; 6 L; 7 D: to each arc, add a quarter of a circle clockwise; 8 ESCALATE, HEIGHTEN; 9 30, 26: there are two alternate sequences. Add 5 starting at 1. Subtract 5 starting at 50;",
+        "reasoning": "The head of a school is a PRINCIPAL; a fundamental truth or rule is a PRINCIPLE.",
         "image": null
       },
       {
@@ -3348,13 +3348,13 @@
         "q_num": 4,
         "question": "Which is the odd number out? 462 683 385 198 253 781 594",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "462",
+          "683",
+          "385",
+          "594"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 1,
+        "reasoning": "In all other numbers, middle digit = first + last digit (4+2=6, 3+5=8, 5+4=9). In 683, 6+3=9 != 8.",
         "image": null
       },
       {
@@ -3364,13 +3364,13 @@
         "q_num": 5,
         "question": "PURE AS TUFT is an anagram of which two words that are opposite in meaning?",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "EAST, WEST",
+          "PAST, FUTURE",
+          "SAFE, HURT",
+          "TRUE, FALSE"
         ],
-        "correct": 0,
-        "reasoning": "",
+        "correct": 1,
+        "reasoning": "PURE AS TUFT unscrambles to PAST, FUTURE (opposites).",
         "image": null
       },
       {
@@ -3380,13 +3380,13 @@
         "q_num": 9,
         "question": "1, 50, 6, 45, 11, 40, 16, 35, 21, ?, ? Which numbers should replace the question marks?",
         "options": [
-          "",
-          "None of the above",
-          "Cannot be determined",
-          "Opposite"
+          "30, 26",
+          "30, 25",
+          "25, 26",
+          "28, 24"
         ],
         "correct": 0,
-        "reasoning": "",
+        "reasoning": "Two interleaved sequences: (1, 6, 11, 16, 21, 26 with +5) and (50, 45, 40, 35, 30 with -5).",
         "image": null
       }
     ]
