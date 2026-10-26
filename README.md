@@ -1,11 +1,9 @@
 ---
-title: ITI Study Telegram Bot
+title: ITI Study Exam Portal
 emoji: 🎓
 colorFrom: blue
 colorTo: indigo
-sdk: gradio
-sdk_version: 4.44.1
-app_file: app.py
+sdk: static
 pinned: false
 license: mit
 ---

@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>منصة تدريب واختبارات ITI - IQ & English</title>
+  <!-- Google Fonts: Cairo -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            cairo: ['Cairo', 'sans-serif'],
+          },
+          colors: {
+            brand: {
+              50: '#f0fdf4',
+              500: '#22c55e',
+              600: '#16a34a',
+              700: '#15803d',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { font-family: 'Cairo', sans-serif; }
+    .custom-scroll::-webkit-scrollbar { width: 6px; height: 6px; }
+    .custom-scroll::-webkit-scrollbar-track { background: rgba(0,0,0,0.1); }
+    .custom-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 4px; }
+    /* Prevent image distortion */
+    .exam-img { max-height: 380px; object-fit: contain; }
+  </style>
+  <!-- Load Bank Data -->
+  <script src="bank_data.js"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col selection:bg-emerald-500 selection:text-white">
+
+  <!-- Top Navbar -->
+  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur sticky top-0 z-50 px-4 py-3">
+    <div class="max-w-4xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-3 cursor-pointer" onclick="goHome()">
+        <span class="text-3xl">🎓</span>
+        <div>
+          <h1 class="text-lg font-bold leading-tight bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">منصة اختبارات ITI</h1>
+          <p class="text-xs text-slate-400">IQ & English 2026</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <button id="navHomeBtn" onclick="goHome()" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-semibold text-slate-300 transition">
+          🏠 الرئيسية
+        </button>
+        <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          24/7 أونلاين
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="flex-1 max-w-4xl w-full mx-auto p-4 sm:p-6 flex flex-col">
+
+    <!-- SCREEN 1: HOME / MODEL SELECTOR -->
+    <div id="homeScreen" class="space-y-6">
+      
+      <!-- Welcome Banner -->
+      <div class="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-8 shadow-xl text-center space-y-3 relative overflow-hidden">
+        <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none"></div>
+        <div class="absolute -left-10 -top-10 w-40 h-40 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none"></div>
+        <span class="inline-block text-4xl mb-1">🚀</span>
+        <h2 class="text-2xl sm:text-3xl font-black text-white">معسكر الـ 48 ساعة لاجتياز اختبار ITI</h2>
+        <p class="text-slate-300 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
+          نماذج تدريبية تفاعلية تحاكي امتحان معهد تكنولوجيا المعلومات الحقيقي بالمللي مع الشرح الرياضي والقوانين لكل سؤال!
+        </p>
+      </div>
+
+      <!-- IQ Models Section -->
+      <div class="space-y-3">
+        <div class="flex items-center justify-between">
+          <h3 class="text-lg font-extrabold text-emerald-400 flex items-center gap-2">
+            <span>🧠</span> نماذج الـ IQ الواقعية (40 سؤالاً - 50 دقيقة)
+          </h3>
+          <span class="text-xs text-slate-400">توزيع طبق الأصل</span>
+        </div>
+        <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+          <button onclick="startModel('iq', 'iq_model_1', 'نموذج IQ (1)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (1)</div>
+            <div class="text-xs text-slate-400 mt-1">عناوين، سويتشات، وباترن</div>
+          </button>
+
+          <button onclick="startModel('iq', 'iq_model_2', 'نموذج IQ (2)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (2)</div>
+            <div class="text-xs text-slate-400 mt-1">قطارات وسرعة، مكسب وخسارة</div>
+          </button>
+
+          <button onclick="startModel('iq', 'iq_model_3', 'نموذج IQ (3)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (3)</div>
+            <div class="text-xs text-slate-400 mt-1">شجرة عائلة ووقت وعمل</div>
+          </button>
+
+          <button onclick="startModel('iq', 'iq_model_4', 'نموذج IQ (4)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (4)</div>
+            <div class="text-xs text-slate-400 mt-1">ساعات وتقويم ومصفوفات</div>
+          </button>
+
+          <button onclick="startModel('iq', 'iq_model_5', 'نموذج IQ (5)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (5)</div>
+            <div class="text-xs text-slate-400 mt-1">أعمار ومتوسطات وباترن</div>
+          </button>
+
+          <button onclick="startModel('iq', 'iq_model_6', 'نموذج IQ (6)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-emerald-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-emerald-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">📝</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-bold">40 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-emerald-300">نموذج IQ (6)</div>
+            <div class="text-xs text-slate-400 mt-1">منطق Ultimate ومسائل لفظية</div>
+          </button>
+        </div>
+      </div>
+
+      <!-- English Models Section -->
+      <div class="space-y-3">
+        <div class="flex items-center justify-between">
+          <h3 class="text-lg font-extrabold text-cyan-400 flex items-center gap-2">
+            <span>🇬🇧</span> نماذج الإنجليزي (English Models - 26 سؤالاً)
+          </h3>
+          <span class="text-xs text-slate-400">مواقف وجرامر</span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <button onclick="startModel('english', 'english_model_1', 'نموذج English (1)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-cyan-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-cyan-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">🗣️</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 font-bold">26 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-cyan-300">نموذج English (1)</div>
+            <div class="text-xs text-slate-400 mt-1">14 مواقف يومية وعملية + 12 جرامر ومفردات</div>
+          </button>
+
+          <button onclick="startModel('english', 'english_model_2', 'نموذج English (2)')" class="group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-cyan-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-cyan-500/10">
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-xl">🗣️</span>
+              <span class="text-xs px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 font-bold">26 سؤال</span>
+            </div>
+            <div class="font-bold text-white text-base group-hover:text-cyan-300">نموذج English (2)</div>
+            <div class="text-xs text-slate-400 mt-1">مواقف متقدمة وقواعد الأزمنة والروابط</div>
+          </button>
+        </div>
+      </div>
+
+      <!-- Special Practice Bank Section -->
+      <div class="space-y-3">
+        <h3 class="text-lg font-extrabold text-amber-400 flex items-center gap-2">
+          <span>💰</span> بنك المسائل التخصصية
+        </h3>
+        <button onclick="startSpecial('profit_loss', 'مسائل المكسب والخسارة (IndiaBIX)')" class="w-full group bg-slate-900 hover:bg-slate-850 border border-slate-800 hover:border-amber-500/50 rounded-xl p-4 text-right transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-amber-500/10 flex items-center justify-between">
+          <div class="space-y-1">
+            <div class="font-bold text-white text-base group-hover:text-amber-300">مسائل المكسب والخسارة (Profit & Loss)</div>
+            <div class="text-xs text-slate-400">22 مسألة بالخطوات والقوانين الرياضية الكاملة لضمان درجاتها</div>
+          </div>
+          <span class="text-2xl">📈</span>
+        </button>
+      </div>
+
+    </div>
+
+
+    <!-- SCREEN 2: EXAM QUIZ INTERFACE -->
+    <div id="quizScreen" class="hidden flex-1 flex flex-col space-y-4">
+      
+      <!-- Quiz Header & Progress -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 flex items-center justify-between">
+        <div>
+          <span id="quizTitle" class="text-xs font-bold text-emerald-400 block mb-0.5">نموذج IQ (1)</span>
+          <div class="text-sm font-black text-white">
+            السؤال <span id="qIndexText">1</span> من <span id="qTotalText">40</span>
+          </div>
+        </div>
+        <div class="flex items-center gap-4">
+          <!-- Timer -->
+          <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-sm font-mono font-bold text-amber-300">
+            <span>⏱️</span>
+            <span id="timerDisplay">50:00</span>
+          </div>
+          <!-- Score counter -->
+          <div class="text-xs text-slate-400">
+            الدرجة: <span id="currentScore" class="font-bold text-white">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
+        <div id="progressBar" class="bg-gradient-to-r from-emerald-500 to-cyan-500 h-full transition-all duration-300" style="width: 0%;"></div>
+      </div>
+
+      <!-- Question Card -->
+      <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 sm:p-7 space-y-5 shadow-xl flex-1 flex flex-col">
+        
+        <!-- Category Badge -->
+        <div class="flex items-center justify-between">
+          <span id="qCategory" class="px-2.5 py-1 rounded-md text-xs font-bold bg-slate-800 border border-slate-700 text-slate-300">
+            Category
+          </span>
+          <span id="statusTag" class="hidden px-2.5 py-0.5 rounded text-xs font-bold"></span>
+        </div>
+
+        <!-- Question Text -->
+        <h3 id="qText" class="text-base sm:text-lg font-bold text-white leading-relaxed dir-ltr text-left">
+          Question text goes here...
+        </h3>
+
+        <!-- Question Image (if any) -->
+        <div id="qImageContainer" class="hidden text-center py-2 bg-slate-950/60 rounded-xl border border-slate-800/80 p-2">
+          <img id="qImage" src="" alt="Exam Question Image" class="exam-img mx-auto rounded-lg shadow-md hover:scale-105 transition-transform cursor-pointer" onclick="openImageModal(this.src)">
+          <p class="text-[11px] text-slate-500 mt-1">اضغط على الصورة لتكبيرها</p>
+        </div>
+
+        <!-- Options Container -->
+        <div id="optionsContainer" class="space-y-2.5 pt-2">
+          <!-- Dynamically populated buttons -->
+        </div>
+
+        <!-- Helper "مش عارف (اشرحلي الحل)" Button -->
+        <div class="pt-2">
+          <button id="unknownBtn" onclick="revealExplanation()" class="w-full py-2.5 px-4 rounded-xl border border-amber-500/40 bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 text-sm font-bold flex items-center justify-center gap-2 transition duration-200">
+            <span>❓</span> مش عارف (اشرحلي الحل والقانون السريع)
+          </button>
+        </div>
+
+        <!-- Explanation Card (Hidden by default) -->
+        <div id="explanationCard" class="hidden border rounded-xl p-4 sm:p-5 space-y-3 mt-4">
+          <div class="flex items-center gap-2 text-sm font-extrabold" id="explTitle">
+            <span>💡</span> التفسير والشرح الدقيق (Reasoning):
+          </div>
+          <div id="explText" class="text-xs sm:text-sm text-slate-300 leading-relaxed whitespace-pre-line dir-auto">
+            Explanation text...
+          </div>
+          <div class="pt-2 flex justify-end">
+            <button onclick="nextQuestion()" class="px-6 py-2.5 rounded-xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 font-bold text-white text-sm shadow-lg shadow-emerald-500/20 flex items-center gap-2 transition">
+              <span>السؤال التالي</span>
+              <span>➡️</span>
+            </button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Quick Question Palette (1 to 40) -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-3">
+        <div class="text-xs text-slate-400 mb-2 font-bold">الانتقال السريع للأسئلة:</div>
+        <div id="paletteContainer" class="flex flex-wrap gap-1.5 max-h-24 overflow-y-auto custom-scroll">
+          <!-- Numbers generated dynamically -->
+        </div>
+      </div>
+
+    </div>
+
+
+    <!-- SCREEN 3: RESULTS SCREEN -->
+    <div id="resultsScreen" class="hidden space-y-6 text-center my-auto py-8">
+      <div class="bg-gradient-to-br from-slate-900 via-slate-850 to-slate-900 border border-slate-800 rounded-3xl p-8 max-w-md mx-auto shadow-2xl space-y-6">
+        <span class="text-6xl inline-block" id="resultEmoji">🎉</span>
+        <h2 class="text-2xl font-black text-white" id="resultHeader">نتيجة الاختبار</h2>
+        
+        <div class="py-4">
+          <div class="text-5xl font-black text-emerald-400" id="resultScore">35 / 40</div>
+          <div class="text-slate-400 text-sm mt-1" id="resultPercentage">نسبة النجاح: 87.5%</div>
+        </div>
+
+        <p class="text-sm text-slate-300 leading-relaxed" id="resultFeedback">
+          أداء ممتاز جداً! أنت جاهز تماماً لاجتياز الاختبار الحقيقي.
+        </p>
+
+        <div class="flex flex-col gap-2.5 pt-2">
+          <button onclick="restartCurrentModel()" class="w-full py-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 font-bold text-white text-sm transition">
+            🔄 إعادة المحاولة
+          </button>
+          <button onclick="goHome()" class="w-full py-3 rounded-xl bg-slate-800 hover:bg-slate-700 font-bold text-slate-300 text-sm transition">
+            🏠 العودة للقائمة الرئيسية
+          </button>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Image Modal for Full Zoom -->
+  <div id="imageModal" class="fixed inset-0 bg-black/90 z-50 hidden flex items-center justify-center p-4 backdrop-blur-sm cursor-pointer" onclick="closeImageModal()">
+    <img id="modalImg" src="" class="max-w-full max-h-[90vh] object-contain rounded-xl shadow-2xl">
+  </div>
+
+  <!-- Application Logic -->
+  <script>
+    let currentModelData = [];
+    let currentModelName = '';
+    let currentModelType = 'iq';
+    let currentIndex = 0;
+    let score = 0;
+    let answered = [];
+    let timerInterval = null;
+    let timeRemaining = 50 * 60; // in seconds
+
+    const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+
+    function goHome() {
+      clearInterval(timerInterval);
+      document.getElementById('quizScreen').classList.add('hidden');
+      document.getElementById('resultsScreen').classList.add('hidden');
+      document.getElementById('homeScreen').classList.remove('hidden');
+      window.scrollTo(0, 0);
+    }
+
+    function startModel(type, modelKey, title) {
+      if (!window.EXAM_DATA || !window.EXAM_DATA[type] || !window.EXAM_DATA[type][modelKey]) {
+        alert('بيانات النموذج غير محملة');
+        return;
+      }
+      currentModelData = window.EXAM_DATA[type][modelKey];
+      currentModelName = title;
+      currentModelType = type;
+      initExam();
+    }
+
+    function startSpecial(key, title) {
+      if (!window.EXAM_DATA || !window.EXAM_DATA[key]) {
+        alert('بيانات النموذج غير محملة');
+        return;
+      }
+      currentModelData = window.EXAM_DATA[key];
+      currentModelName = title;
+      currentModelType = 'iq';
+      initExam();
+    }
+
+    function initExam() {
+      currentIndex = 0;
+      score = 0;
+      answered = new Array(currentModelData.length).fill(null);
+
+      document.getElementById('homeScreen').classList.add('hidden');
+      document.getElementById('resultsScreen').classList.add('hidden');
+      document.getElementById('quizScreen').classList.remove('hidden');
+
+      document.getElementById('quizTitle').innerText = currentModelName;
+      document.getElementById('qTotalText').innerText = currentModelData.length;
+
+      // Set timer (50 min for IQ, 30 min for English)
+      timeRemaining = (currentModelType === 'english') ? 30 * 60 : 50 * 60;
+      startTimer();
+
+      renderQuestion(0);
+      renderPalette();
+      window.scrollTo(0, 0);
+    }
+
+    function startTimer() {
+      clearInterval(timerInterval);
+      updateTimerDisplay();
+      timerInterval = setInterval(() => {
+        timeRemaining--;
+        if (timeRemaining <= 0) {
+          clearInterval(timerInterval);
+          finishExam();
+        }
+        updateTimerDisplay();
+      }, 1000);
+    }
+
+    function updateTimerDisplay() {
+      const mins = Math.floor(timeRemaining / 60);
+      const secs = timeRemaining % 60;
+      document.getElementById('timerDisplay').innerText = 
+        `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+    }
+
+    function renderQuestion(index) {
+      currentIndex = index;
+      const q = currentModelData[index];
+      const total = currentModelData.length;
+
+      // Update counters & progress
+      document.getElementById('qIndexText').innerText = index + 1;
+      document.getElementById('currentScore').innerText = score;
+      document.getElementById('progressBar').style.width = `${((index + 1) / total) * 100}%`;
+      document.getElementById('qCategory').innerText = q.category || 'General';
+
+      // Question Text
+      document.getElementById('qText').innerHTML = q.question;
+
+      // Handle Image
+      const imgContainer = document.getElementById('qImageContainer');
+      const imgElem = document.getElementById('qImage');
+      if (q.image) {
+        imgElem.src = q.image.startsWith('images/') ? q.image : `images/${q.image}`;
+        imgContainer.classList.remove('hidden');
+      } else {
+        imgContainer.classList.add('hidden');
+      }
+
+      // Hide explanation card
+      document.getElementById('explanationCard').classList.add('hidden');
+      document.getElementById('statusTag').classList.add('hidden');
+
+      // Populate Options
+      const optionsContainer = document.getElementById('optionsContainer');
+      optionsContainer.innerHTML = '';
+
+      const isAnswered = (answered[index] !== null);
+
+      q.options.forEach((opt, idx) => {
+        const btn = document.createElement('button');
+        const letter = letters[idx];
+        btn.className = `w-full p-3 sm:p-3.5 rounded-xl border text-right font-semibold text-sm transition-all duration-150 flex items-center justify-between ` +
+          (isAnswered 
+            ? getAnsweredOptionStyle(index, idx, q.correct)
+            : `bg-slate-800/80 hover:bg-slate-800 border-slate-700/80 hover:border-emerald-500/50 text-white cursor-pointer hover:translate-x-1`);
+
+        btn.innerHTML = `
+          <div class="flex items-center gap-3">
+            <span class="w-7 h-7 rounded-lg bg-slate-900 border border-slate-700 flex items-center justify-center text-xs font-bold text-slate-300">${letter}</span>
+            <span class="dir-ltr text-left">${opt}</span>
+          </div>
+        `;
+
+        if (!isAnswered) {
+          btn.onclick = () => selectOption(idx);
+        }
+        optionsContainer.appendChild(btn);
+      });
+
+      // If already answered or viewed, show explanation
+      if (isAnswered) {
+        showExplanationContent(answered[index] === q.correct, answered[index] === 'unknown');
+      }
+
+      updatePaletteActive();
+    }
+
+    function getAnsweredOptionStyle(qIdx, optIdx, correctIdx) {
+      const userChoice = answered[qIdx];
+      if (optIdx === correctIdx) {
+        return 'bg-emerald-500/20 border-emerald-500 text-emerald-300 font-bold';
+      }
+      if (userChoice === optIdx && userChoice !== correctIdx) {
+        return 'bg-rose-500/20 border-rose-500 text-rose-300';
+      }
+      return 'bg-slate-900/40 border-slate-800 text-slate-500 opacity-60 cursor-not-allowed';
+    }
+
+    function selectOption(choiceIdx) {
+      if (answered[currentIndex] !== null) return;
+
+      const q = currentModelData[currentIndex];
+      const isCorrect = (choiceIdx === q.correct);
+      answered[currentIndex] = choiceIdx;
+
+      if (isCorrect) score++;
+
+      renderQuestion(currentIndex);
+      updatePaletteItem(currentIndex);
+    }
+
+    function revealExplanation() {
+      if (answered[currentIndex] === null) {
+        answered[currentIndex] = 'unknown';
+        updatePaletteItem(currentIndex);
+      }
+      renderQuestion(currentIndex);
+    }
+
+    function showExplanationContent(isCorrect, isUnknown) {
+      const q = currentModelData[currentIndex];
+      const explCard = document.getElementById('explanationCard');
+      const explTitle = document.getElementById('explTitle');
+      const explText = document.getElementById('explText');
+      const statusTag = document.getElementById('statusTag');
+
+      explCard.classList.remove('hidden');
+
+      if (isUnknown) {
+        explCard.className = 'border border-amber-500/40 bg-amber-500/10 rounded-xl p-4 sm:p-5 space-y-3 mt-4';
+        explTitle.innerHTML = `<span>🤔</span> الشرح والقانون السريع للحل:`;
+        statusTag.className = 'px-2.5 py-0.5 rounded text-xs font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30';
+        statusTag.innerText = 'شرح توضيحي';
+        statusTag.classList.remove('hidden');
+      } else if (isCorrect) {
+        explCard.className = 'border border-emerald-500/40 bg-emerald-500/10 rounded-xl p-4 sm:p-5 space-y-3 mt-4';
+        explTitle.innerHTML = `<span>✅</span> إجابة صحيحة! الله ينور:`;
+        statusTag.className = 'px-2.5 py-0.5 rounded text-xs font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30';
+        statusTag.innerText = 'صحيح';
+        statusTag.classList.remove('hidden');
+      } else {
+        explCard.className = 'border border-rose-500/40 bg-rose-500/10 rounded-xl p-4 sm:p-5 space-y-3 mt-4';
+        explTitle.innerHTML = `<span>❌</span> إجابة غير صحيحة! تعال نشوف الصح:`;
+        statusTag.className = 'px-2.5 py-0.5 rounded text-xs font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30';
+        statusTag.innerText = 'غير صحيح';
+        statusTag.classList.remove('hidden');
+      }
+
+      const corrLetter = letters[q.correct];
+      const corrAnswerText = q.options[q.correct];
+      const fullReasoning = q.reasoning || 'لا يوجد تعليل إضافي';
+
+      explText.innerHTML = `
+        <div class="mb-2"><b>الإجابة الصحيحة هي:</b> <span class="text-emerald-400 font-bold">[ ${corrLetter} ] ${corrAnswerText}</span></div>
+        <div>${fullReasoning}</div>
+      `;
+    }
+
+    function nextQuestion() {
+      if (currentIndex < currentModelData.length - 1) {
+        renderQuestion(currentIndex + 1);
+        window.scrollTo({ top: 100, behavior: 'smooth' });
+      } else {
+        finishExam();
+      }
+    }
+
+    function renderPalette() {
+      const palette = document.getElementById('paletteContainer');
+      palette.innerHTML = '';
+      currentModelData.forEach((_, idx) => {
+        const item = document.createElement('button');
+        item.id = `palette_${idx}`;
+        item.innerText = idx + 1;
+        item.className = 'w-7 h-7 rounded text-xs font-bold transition flex items-center justify-center ' + getPaletteItemStyle(idx);
+        item.onclick = () => renderQuestion(idx);
+        palette.appendChild(item);
+      });
+    }
+
+    function getPaletteItemStyle(idx) {
+      if (idx === currentIndex) return 'bg-white text-slate-900 ring-2 ring-emerald-400 font-black';
+      const ans = answered[idx];
+      if (ans === null) return 'bg-slate-800 text-slate-400 hover:bg-slate-700';
+      if (ans === 'unknown') return 'bg-amber-500/30 text-amber-300 border border-amber-500/40';
+      const correct = currentModelData[idx].correct;
+      if (ans === correct) return 'bg-emerald-500/30 text-emerald-300 border border-emerald-500/40';
+      return 'bg-rose-500/30 text-rose-300 border border-rose-500/40';
+    }
+
+    function updatePaletteItem(idx) {
+      const elem = document.getElementById(`palette_${idx}`);
+      if (elem) elem.className = 'w-7 h-7 rounded text-xs font-bold transition flex items-center justify-center ' + getPaletteItemStyle(idx);
+    }
+
+    function updatePaletteActive() {
+      currentModelData.forEach((_, idx) => updatePaletteItem(idx));
+    }
+
+    function finishExam() {
+      clearInterval(timerInterval);
+      document.getElementById('quizScreen').classList.add('hidden');
+      document.getElementById('resultsScreen').classList.remove('hidden');
+
+      const total = currentModelData.length;
+      const pct = Math.round((score / Math.max(1, total)) * 100);
+
+      document.getElementById('resultScore').innerText = `${score} / ${total}`;
+      document.getElementById('resultPercentage').innerText = `نسبة النجاح: ${pct}%`;
+
+      const emoji = document.getElementById('resultEmoji');
+      const feedback = document.getElementById('resultFeedback');
+
+      if (pct >= 80) {
+        emoji.innerText = '🏆';
+        feedback.innerText = 'ما شاء الله! مستوى عبقري وجاهزية 100% لاجتياز اختبار ITI من المرة الأولى!';
+      } else if (pct >= 60) {
+        emoji.innerText = '👏';
+        feedback.innerText = 'مستوى جيد جداً! راجع الأسئلة اللي وقفت معاك وجرب نموذج تاني لتثبيت السرعة.';
+      } else {
+        emoji.innerText = '💪';
+        feedback.innerText = 'استمر في المحاولة ولا تقلق! السر في معرفة الأنماط والتكرار.';
+      }
+    }
+
+    function restartCurrentModel() {
+      initExam();
+    }
+
+    function openImageModal(src) {
+      document.getElementById('modalImg').src = src;
+      document.getElementById('imageModal').classList.remove('hidden');
+    }
+
+    function closeImageModal() {
+      document.getElementById('imageModal').classList.add('hidden');
+    }
+  </script>
+</body>
+</html>
