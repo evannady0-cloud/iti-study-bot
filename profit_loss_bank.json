@@ -1,6 +1,6 @@
 [
   {
-    "id": 1001,
+    "id": 338,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
     "options": [
@@ -10,10 +10,10 @@
       "12%"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nCost Price (C.P.) = Rs. (4700 + 800) = Rs. 5500. Selling Price (S.P.) = Rs. 5800. Gain = (S.P.) - (C.P.) = Rs.(5800 - 5500) = Rs. 300. Gain % = 300 x 100 % = 5 5/5500% 11"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• سعر التكلفة الإجمالي (Cost Price) = <code>4700 + 800 = 5500</code> روبية.\n• سعر البيع (Selling Price) = 5800 روبية.\n• الربح = <code>5800 - 5500 = 300</code> روبية.\n• نسبة الربح = <code>(300 ÷ 5500) × 100 = 60 ÷ 11 = 5 5/11%</code>."
   },
   {
-    "id": 1002,
+    "id": 339,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
     "options": [
@@ -23,10 +23,10 @@
       "25"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nLet C.P. of each article be Re. 1 C.P. of x articles = Rs. x . S.P. of x articles = Rs. 20. Profit = Rs. (20 - x ). 20 - x x 100 = 25 x 2000 - 100 x = 25 x 125 x = 2000 x = 16. Video Explanation: https://youtu.be/sidqvjUoZxY"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• تكلفة 20 سلعة = سعر بيع x سلعة.\n• لنفرض تكلفة السلعة الواحدة = 1 روبية، إذن تكلفة 20 سلعة = 20 روبية = سعر بيع x سلعة.\n• تكلفة x سلعة = x روبية.\n• الربح في x سلعة = <code>20 - x</code>.\n• نسبة الربح = <code>[(20 - x) ÷ x] × 100 = 25%</code>\n• <code>(20 - x) ÷ x = 1/4 => 80 - 4x = x => 5x = 80 => x = 16</code>."
   },
   {
-    "id": 1003,
+    "id": 340,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "If selling price is doubled, the profit triples. Find the profit percent.",
     "options": [
@@ -36,10 +36,10 @@
       "120"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nLet C.P. be Rs. x and S.P. be Rs. y . Then, 3( y - x ) = (2 y - x ) y = 2 x . Profit = Rs. ( y - x ) = Rs. (2 x - x ) = Rs. x . Profit % = x x 100 % = 100% x Video Explanation: https://youtu.be/dPzF10mGsWE"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• لنفرض سعر التكلفة = CP وسعر البيع = SP، والربح الأصلي <code>P = SP - CP</code>.\n• إذا تضاعف سعر البيع إلى 2SP، يصبح الربح الجديد <code>2SP - CP = 3P</code>.\n• <code>2SP - CP = 3(SP - CP) = 3SP - 3CP => SP = 2CP</code>.\n• بما أن سعر البيع ضعف التكلفة، فإن الربح = <code>2CP - CP = CP</code> (الربح يساوي 100% من التكلفة)."
   },
   {
-    "id": 1004,
+    "id": 341,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
     "options": [
@@ -49,10 +49,10 @@
       "250%"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nLet C.P.= Rs. 100. Then, Profit = Rs. 320, S.P. = Rs. 420. New C.P. = 125% of Rs. 100 = Rs. 125 New S.P. = Rs. 420. Profit = Rs. (420 - 125) = Rs. 295. Required percentage = 295 x 100 % = 1475 % = 70% (approximately). 420 21 Video Explanation: https://youtu.be/bQA8SB8ycbw"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• لنفرض سعر التكلفة CP = 100، إذن الربح = 320، وسعر البيع SP = <code>100 + 320 = 420</code>.\n• زادت التكلفة بنسبة 25% فأصبحت التكلفة الجديدة = 125 مع ثبات سعر البيع عند 420.\n• الربح الجديد = <code>420 - 125 = 295</code>.\n• نسبة الربح منسوبة إلى <b>سعر البيع</b> = <code>(295 ÷ 420) × 100 ≈ 70%</code>."
   },
   {
-    "id": 1005,
+    "id": 342,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
     "options": [
@@ -62,10 +62,10 @@
       "6"
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\nC.P. of 6 toffees = Re. 1 S.P. of 6 toffees = 120% of Re. 1 = Rs. 6 5 For Rs. 6 , toffees sold = 6. 5 For Re. 1, toffees sold = 6 x 5 = 5. 6 Video Explanation: https://youtu.be/7wKrnZ0LKA8"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• تكلفة 6 قطع حلوى = 1 روبية => تكلفة القطعة الواحدة = <code>1/6</code> روبية.\n• لتحقيق ربح 20%، يجب أن يكون سعر بيع القطعة الواحدة = <code>(1/6) × 1.20 = 1/5</code> روبية.\n• لبيع ما قيمته 1 روبية، عدد القطع = <code>1 ÷ (1/5) = 5 قطع</code>."
   },
   {
-    "id": 1006,
+    "id": 343,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
     "options": [
@@ -75,10 +75,10 @@
       "Data inadequate"
     ],
     "correct": 0,
-    "reasoning": "💡 Solution:\nLet C.P. be Rs. x . Then, 1920 - x x 100 = x - 1280 x 100 x x 1920 - x = x - 1280 2 x = 3200 x = 1600 Required S.P. = 125% of Rs. 1600 = Rs. 125 x 1600 = Rs 2000. 100 Video Explanation: https://youtu.be/0tTd5TwCspY"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• بما أن نسبة الربح عند البيع بـ 1920 تساوي نسبة الخسارة عند البيع بـ 1280، فإن سعر التكلفة يقع في المنتصف تماماً:\n<code>CP = (1920 + 1280) ÷ 2 = 3200 ÷ 2 = 1600</code> روبية.\n• لتحقيق ربح 25%:\n<code>سعر البيع = 1600 × 1.25 = 2000 روبية</code>."
   },
   {
-    "id": 1007,
+    "id": 344,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
     "options": [
@@ -88,10 +88,10 @@
       "Rs. 88.25"
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\nC.P. = Rs. 100 x 392 = Rs. 1000 x 392 = Rs. 320 122.5 1225 Profit = Rs. (392 - 320) = Rs. 72. Video Explanation: https://youtu.be/a36nJFgh5yk"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• نسبة الربح المتوقعة = 22.5% وسعر البيع الإجمالي = 392 روبية.\n• <code>سعر التكلفة = 392 ÷ 1.225 = 320 روبية</code>.\n• مقدار الربح = <code>392 - 320 = 72 روبية</code>."
   },
   {
-    "id": 1008,
+    "id": 345,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
     "options": [
@@ -101,10 +101,10 @@
       "Rs. 1202"
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\nS.P. = 85% of Rs. 1400 = Rs. 85 x 1400 = Rs. 1190 100 Video Explanation: https://youtu.be/jn0XIafQvAc"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• سعر التكلفة = 1400 روبية، ونسبة الخسارة = 15%.\n• <code>سعر البيع = 1400 × (1 - 0.15) = 1400 × 0.85 = 1190 روبية</code>."
   },
   {
-    "id": 1009,
+    "id": 346,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
     "options": [
@@ -114,10 +114,10 @@
       "6.5"
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\nCost Price of 1 toy = Rs. 375 = Rs. 31.25 12 Selling Price of 1 toy = Rs. 33 So, Gain = Rs. (33 - 31.25) = Rs. 1.75 Profit % = 1.75 x 100 % = 28 % = 5.6% 31.25 5 Video Explanation: https://youtu.be/MhswuvDVWzo"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• تكلفة الدستة = 375 روبية => تكلفة اللعبة الواحدة = <code>375 ÷ 12 = 31.25</code> روبية.\n• باع اللعبة الواحدة بـ 33 روبية => مقدار الربح في اللعبة = <code>33 - 31.25 = 1.75</code> روبية.\n• نسبة الربح = <code>(1.75 ÷ 31.25) × 100 = 5.6%</code>."
   },
   {
-    "id": 1010,
+    "id": 347,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
     "options": [
@@ -127,10 +127,10 @@
       "44%"
     ],
     "correct": 3,
-    "reasoning": "💡 Solution:\nSuppose, number of articles bought = L.C.M. of 6 and 5 = 30. C.P. of 30 articles = Rs. 5 x 30 = Rs. 25. 6 S.P. of 30 articles = Rs. 6 x 30 = Rs. 36. 5 Gain % = 11 x 100 % = 44%. 25"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• اشترى 6 سلع بـ 5 روبيات => تكلفة السلعة = <code>5/6</code> روبية.\n• باع 5 سلع بـ 6 روبيات => سعر بيع السلعة = <code>6/5</code> روبية.\n• نسبة الربح = <code>[(6/5 - 5/6) ÷ (5/6)] × 100 = (11/30 ÷ 25/30) × 100 = (11 ÷ 25) × 100 = 44%</code>."
   },
   {
-    "id": 1011,
+    "id": 348,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
     "options": [
@@ -140,10 +140,10 @@
       "Rs. 60"
     ],
     "correct": 3,
-    "reasoning": "💡 Solution:\n(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls) C.P. of 12 balls = S.P. of 17 balls = Rs.720. C.P. of 1 ball = Rs. 720 = Rs. 60. 12"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• خسارة بيع 17 كرة تساوي تكلفة 5 كرات:\n<code>17 × CP - 17 × SP = 5 × CP</code>\n<code>12 × CP = 17 × SP = 720 روبية</code>\n<code>تكلفة الكرة الواحدة = 720 ÷ 12 = 60 روبية</code>."
   },
   {
-    "id": 1012,
+    "id": 349,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
     "options": [
@@ -153,10 +153,10 @@
       "Rs. 25,800"
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\n85 : 18700 = 115 : x x = 18700 x 115 = 25300. 85 Hence, S.P. = Rs. 25,300."
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• البيع بـ 18,700 يمثل 85% من التكلفة (خسارة 15%):\n<code>سعر التكلفة = 18,700 ÷ 0.85 = 22,000 روبية</code>.\n• للبيع بربح 15%:\n<code>سعر البيع المطلوب = 22,000 × 1.15 = 25,300 روبية</code>."
   },
   {
-    "id": 1013,
+    "id": 350,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
     "options": [
@@ -166,10 +166,10 @@
       "15 % loss"
     ],
     "correct": 0,
-    "reasoning": "💡 Solution:\nC.P. of 1 orange = Rs. 350 = Rs. 3.50 100 S.P. of 1 orange = Rs. 48 = Rs. 4 12 Gain% = 0.50 x 100 % = 100 % = 14 2/3%.50 7 7"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• تكلفة 100 برتقالة = 350 روبية => تكلفة البرتقالة = <code>3.50</code> روبية.\n• باع الدستة (12 برتقالة) بـ 48 روبية => سعر بيع البرتقالة = <code>48 ÷ 12 = 4.00</code> روبيات.\n• الربح في البرتقالة = <code>4.00 - 3.50 = 0.50</code> روبية.\n• نسبة الربح = <code>(0.50 ÷ 3.50) × 100 = 1/7 × 100 = 14 2/7% gain</code>."
   },
   {
-    "id": 1014,
+    "id": 351,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
     "options": [
@@ -179,10 +179,10 @@
       "None of these"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nC.P. of 1 st transistor = Rs. 100 x 840 = Rs. 700. 120 C.P. of 2 nd transistor = Rs. 100 x 960 = Rs. 1000 96 So, total C.P. = Rs. (700 + 1000) = Rs. 1700. Total S.P. = Rs. (840 + 960) = Rs. 1800. Gain % = 100 x 100 % = 5 15/1700% 17"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• الجهاز الأول: بيع بـ 840 بربح 20% => تكلفته = <code>840 ÷ 1.2 = 700</code> روبية.\n• الجهاز الثاني: بيع بـ 960 بخسارة 4% => تكلفته = <code>960 ÷ 0.96 = 1000</code> روبية.\n• التكلفة الكلية = <code>700 + 1000 = 1700</code> روبية، والبيع الكلي = <code>840 + 960 = 1800</code> روبية.\n• الربح الإجمالي = <code>1800 - 1700 = 100</code> روبية.\n• نسبة الربح الكلية = <code>(100 ÷ 1700) × 100 = 100 ÷ 17 = 5 15/17% gain</code>."
   },
   {
-    "id": 1015,
+    "id": 352,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
     "options": [
@@ -193,10 +193,10 @@
       "None of these"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nC.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600. S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680. Gain = 80 x 100 % = 5%. 1600"
+    "reasoning": "💰 <b>الخطوات الرياضية والقانون:</b>\n• تكلفة 26 كجم بـ 20 روبية = <code>26 × 20 = 520</code> روبية.\n• تكلفة 30 كجم بـ 36 روبية = <code>30 × 36 = 1080</code> روبية.\n• التكلفة الإجمالية لـ 56 كجم = <code>520 + 1080 = 1600</code> روبية.\n• سعر بيع الخليط (56 كجم) بـ 30 روبية = <code>56 × 30 = 1680</code> روبية.\n• الربح = <code>1680 - 1600 = 80</code> روبية.\n• نسبة الربح = <code>(80 ÷ 1600) × 100 = 5%</code>."
   },
   {
-    "id": 1016,
+    "id": 353,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A shopkeeper sells some articles at the profit of 25% on the original price. What is the exact amount of profit? To find the answer, which of the following information given in Statements I and II is/are necessary? I. Sale price of the article II. Number of articles sold",
     "options": [
@@ -207,10 +207,10 @@
       "None of these"
     ],
     "correct": 3,
-    "reasoning": "💡 Solution:\nGain = 25% of C.P. In order to find gain, we must know the sale price of each article and the number of articles sold. Correct answer is (D)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• لمعرفة القيمة النقدية الدقيقة للربح (Exact amount of profit)، نحتاج معرفة سعر بيع السلعة (المعطى I) لحساب ربح السلعة الواحدة، ونحتاج معرفة عدد السلع المباعة (المعطى II) لحساب إجمالي الربح.\n• إذن كلاهما معاً ضروريان للحل: Both I and II are necessary."
   },
   {
-    "id": 1017,
+    "id": 354,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A shopkeeper sells some toys at Rs. 250 each. What percent profit does he make? To find the answer, which of the following information given in Statements I and II is/are necessary? I. Number of toys sold. II. Cost price of each toy.",
     "options": [
@@ -221,10 +221,10 @@
       "None of these"
     ],
     "correct": 1,
-    "reasoning": "💡 Solution:\nS.P. = Rs. 250 each. To find gain percent, we must know the C.P. of each. Correct answer is (B)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• سعر بيع اللعبة الواحدة معروف (250 روبية).\n• لحساب النسبة المئوية للربح (Percent profit)، نحتاج فقط معرفة سعر تكلفة اللعبة الواحدة (المعطى II).\n• عدد اللعب المباعة (المعطى I) غير ضروري على الإطلاق لحساب النسبة المئوية.\n• إذن المعطى الثاني وحده كافٍ: Only II is necessary."
   },
   {
-    "id": 1018,
+    "id": 355,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "A man mixes two types of rice (X and Y) and sells the mixture at the rate of Rs. 17 per kg. Find his profit percentage. I. The rate of X is Rs. 20 per kg. II. The rate of Y is Rs. 13 per kg.",
     "options": [
@@ -235,10 +235,10 @@
       "Both I and II are necessary to answer"
     ],
     "correct": 3,
-    "reasoning": "💡 Solution:\nThe ratio, in which X and Y are mixed, is not given. So, both I and II together cannot give the answer. Correct answer is (D)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• نعلم سعر بيع الخليط (17 روبية/كجم) وسعر الصنفين X و Y (20 و 13).\n• لحساب نسبة الربح، من الضروري معرفة نسبة أو كميات خلط الصنفين معاً، وهذا المعطى غير موجود في العبارتين I و II.\n• إذن المعطيان معاً غير كافيين: Both I and II are not sufficient to answer."
   },
   {
-    "id": 1019,
+    "id": 356,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "By selling a product with 20% profit, how much profit was earned? I. The difference between cost and selling price is Rs. 40. II. The selling price is 120 percent of the cost price.",
     "options": [
@@ -249,10 +249,10 @@
       "Both I and II are necessary to answer"
     ],
     "correct": 0,
-    "reasoning": "💡 Solution:\nGain = 20% I. Profit = (S.P.) - (C.P.) = Rs. 40. Thus, I give the answer. But, II does not give the answer. Correct answer is (A)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• المعطى الأول ينص على أن الفرق بين سعر البيع والتكلفة هو 40 روبية، والفرق بين البيع والتكلفة هو تعريف الربح بذاته! إذن الربح = 40 روبية مباشرة من المعطى I وحده.\n• المعطى الثاني يكرر فقط أن الربح 20% دون إعطاء قيمة نقدية.\n• إذن المعطى I وحده كافٍ: I alone sufficient."
   },
   {
-    "id": 1020,
+    "id": 357,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "By selling an article what is the profit percent gained? I. 5% discount is given on list price. II. If discount is not given, 20% profit is gained. III. The cost price of the articles is Rs. 5000.",
     "options": [
@@ -263,10 +263,10 @@
       "None of these"
     ],
     "correct": 0,
-    "reasoning": "💡 Solution:\nI. Let the list price be Rs. x . Then, S.P. = 95% of Rs. x = Rs. x x 95 = Rs. 19 x 100 20 II. When S.P. = Rs. x and gain = 20%. Then, C.P. = Rs. 100 x x = Rs. 5 x 120 6 Gain = 19 x - 5 x = 57 x - 50 x = 7 x 20 6 60 60 Gain % = 7 x x 6 x 100 % = 14%. 60 5 x Thus, I and II only give the answer. Correct answer is (A)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• من العبارة I: الخصم 5% على سعر القائمة (SP = 0.95 MP).\n• من العبارة II: إذا لم يكن هناك خصم يكون الربح 20% (MP = 1.20 CP).\n• بالتعويض: <code>SP = 0.95 × 1.20 CP = 1.14 CP</code>، أي أن نسبة الربح مع الخصم = 14%.\n• تمكنا من إيجاد النسبة بالعبارتين I و II معاً دون الحاجة للتكلفة الفعلية (المعطى III).\n• إذن الإجابة: Only I and II."
   },
   {
-    "id": 1021,
+    "id": 358,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "What was the percentage of discount given? I. 23.5% profit was earned by selling an almirah for Rs. 12,350. II. If there were no discount, the earned profit would have been 30%. III. The cost price of the almirah was Rs. 10,000.",
     "options": [
@@ -277,10 +277,10 @@
       "None of these"
     ],
     "correct": 0,
-    "reasoning": "💡 Solution:\nI. S.P. = Rs. 12350, Gain = 23.5% C.P. = Rs. 100 x 12350 = Rs. 10,000. 123.5 II. M.P. = 130% of C.P. = 130% of Rs. 10,000 = Rs. 13,000. From I and II, discount = Rs. (13000 - 12350) = Rs. 650. Discount % = 650 x 100 % = 5%. 13000 Thus, I and II give the answer. II and III can not give the answer. Because we require profit percentage with discount and profit percentage without discount. So II and III are not sufficient. Since III gives C.P. = Rs. 10,000, I and III give the answer. Therefore, I and II [or] I and III give the answer. Correct answer is (E)."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• من العبارة I: البيع بـ 12,350 بربح 23.5% يعطي التكلفة = 10,000 روبية.\n• من العبارة II: بدون خصم يكون الربح 30%، فيكون سعر القائمة = 13,000 روبية.\n• من I و II معاً نجد الخصم = <code>13,000 - 12,350 = 650</code>، ونسبته = <code>(650 ÷ 13000) × 100 = 5%</code>.\n• إذن العبارتان I و II كافيتان تماماً لتحديد النسبة المئوية للخصم: Only I and II."
   },
   {
-    "id": 1022,
+    "id": 359,
     "category": "Quantitative: Profit & Loss (IndiaBIX)",
     "question": "What is the percent profit earned by the shopkeeper on selling the articles in his shop? I. Labeled price of the articles sold was 130% of the cost price. II. Cost price of each article was Rs. 550. III. A discount of 10% on labeled price was offered.",
     "options": [
@@ -291,6 +291,6 @@
       "Question cannot be answer even with information in all the three statements."
     ],
     "correct": 2,
-    "reasoning": "💡 Solution:\nI. Let C.P. be Rs. x . Then, M.P. = 130% of x = Rs. 13 x . 10 III. S.P. = 90% of M.P. Thus, I and III give, S.P. = Rs. 90 x 13 x = Rs. 117 x 100 10 100 Gain = Rs. 117 x - x = Rs. 17 x 100 100 Thus, from I and III, gain % can be obtained. Clearly, II is redundant."
+    "reasoning": "💰 <b>تحليل كفاية المعطيات (Data Sufficiency):</b>\n• من العبارة I: السعر المعلن 130% من التكلفة (MP = 1.30 CP).\n• من العبارة III: خصم 10% على السعر المعلن (SP = 0.90 MP = <code>0.90 × 1.30 CP = 1.17 CP</code>).\n• إذن نسبة الربح = 17%، والعبارتان I و III كافيتان تماماً لحساب النسبة دون الحاجة للمبلغ المالي في II."
   }
 ]

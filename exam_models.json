@@ -112,7 +112,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch C</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch C</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image150.png"
       },
       {
@@ -126,7 +126,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "🔍 <b>الشرح والبرهان الرياضي الدقيق:</b>\n• <b>الإجابة الصحيحة هي: Switch B</b>\n• <b>البرهان المنطقي:</b>\nفي الشكل 1: اللمبتان 2 و 4 كانتا تعملان (ON = أسود).\nفي الشكل 2: كل اللمبات الأربع مطفأة (OFF = أبيض).\nالمفتاح الوحيد المسؤول عن اللمبتين 2 و 4 معاً هو <b>Switch B</b>.\nإذا عملت جميع المفاتيح الأربعة، ستنقلب اللمبتان 2 و 4 مرتين فتبقيان ON!\nإذن لكي تنطفئ اللمبتان 2 و 4 وتصبح النتيجة مطابقة للشكل 2، يجب أن يكون <b>Switch B هو المفتاح المعطل</b>!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch B</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch B</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image14.png"
       },
       {
@@ -166,7 +166,7 @@
           "A, B, D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces B, C, D fit together perfectly to complete a square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces B, C, D fit together perfectly to complete a square.",
         "image": "night_exam/image262.png"
       },
       {
@@ -180,7 +180,7 @@
           "A, B, C"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Shapes B, C, and D combine to form a perfect square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Shapes B, C, and D combine to form a perfect square.",
         "image": "night_exam/image218.png"
       },
       {
@@ -194,7 +194,7 @@
           "A, B, D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>البرهان الهندسي والحسابي القاطع:</b>\n• الإجابة الصحيحة هي <b>B, C, D</b>.\n• بالتحليل الرقمي للمساحات: مساحة B (11,183) + مساحة D (4,500) + مساحة C (1,675) = 17,358 بكسل، وهو ما يطابق تماماً بنسبة 99.6% مساحة المربع الكامل بأبعاد 132x132 (مساحته 17,424 بكسل).\n• القطعة A مساحتها 5,738 بكسل وهي القطعة المضللة الزائدة (Distractor).\n• القطعة C (المثلث الصغير) تقفل الركن المشطوف في القطعة B، والقطعة D تقفل الجانب المائل، ليتكون مربع مثالي متكامل.",
+        "reasoning": "القطع التي تكوّن المربع هي B و C و D (الاختيار B):\n• القطعة B مساحتها 11,183 بكسل وتشكل جسم المربع الأساسي 132x132.\n• القطعة C مثلث صغير يركب في الركن المشطوف أعلى اليمين.\n• القطعة D تركب في الضلع المائل السفلي لتغلق قاعدة المربع.\n• القطعة A مساحتها 5,738 وهي القطعة الزائدة المستبعدة (Distractor).\nمجموع مساحات B + C + D = 17,358 بكسل = مساحة المربع 132x132 بنسبة تطابق 99.6%.",
         "image": "night_exam/image173.png"
       },
       {
@@ -207,8 +207,8 @@
           "A, C, D",
           "A, B, D"
         ],
-        "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• Pieces A, C, and D form a square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "correct": 3,
+        "reasoning": "القطع التي تكوّن المربع هي A و B و D (الاختيار D):\n• القطعة B تشكل جسم المربع الأيمن بالكامل بطول ضلع 182 بكسل.\n• القطعة D شكل رباعي يركب في التجويف السفلي الأيسر.\n• القطعة A مثلث قائم الزاوية يقفل الركن العلوي الأيسر.\n• القطعة C هي المثلث الزائد المضلل (Distractor).\nمجموع مساحات A + B + D = 33,124 بكسل = مساحة المربع 182x182 بنسبة تطابق 99.8%.",
         "image": "night_exam/image62.png"
       },
       {
@@ -223,7 +223,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A is the same as E with flaps in/out; B is the same as C.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A is the same as E with flaps in/out; B is the same as C.",
         "image": "night_exam/image8.png"
       },
       {
@@ -238,7 +238,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: All other figures are identical when rotated.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: All other figures are identical when rotated.",
         "image": "night_exam/image57.png"
       },
       {
@@ -253,7 +253,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: In all others the black circle connects to 3 white circles. In C it connects to only 2.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: In all others the black circle connects to 3 white circles. In C it connects to only 2.",
         "image": "night_exam/image280.png"
       },
       {
@@ -268,7 +268,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: In all others the black circle connects to 3 white circles. In C it connects to only 2.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "الشكل C هو المختلف (Odd One Out):\n• جميع الأشكال الأربعة (A, B, D, E) هي نفس الشكل تماماً بمجرد تدوير ثنائي الأبعاد (2D Rotation).\n• الشكل C هو الوحيد المعكوس (صورة مرآة - Mirror Image / Reflection)، ولا يمكن الحصول عليه بمجرد التدوير العادي.",
         "image": "night_exam/image21.png"
       },
       {
@@ -283,7 +283,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: The rest are the same figure rotated.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: The rest are the same figure rotated.",
         "image": "night_exam/image74.png"
       },
       {
@@ -298,7 +298,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: It has 3 white and 1 black on the left, and 3 black and 1 white on right. Others are opposite.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: It has 3 white and 1 black on the left, and 3 black and 1 white on right. Others are opposite.",
         "image": "night_exam/image68.png"
       },
       {
@@ -316,7 +316,7 @@
           "H"
         ],
         "correct": 7,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• H: In all other figures the outer shape is repeated in the middle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• H: In all other figures the outer shape is repeated in the middle.",
         "image": "night_exam/image181.png"
       },
       {
@@ -331,7 +331,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Curl alternates left/right, eyes alternate, nose alternates black/white, mouth alternates happy/sad/straight.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Curl alternates left/right, eyes alternate, nose alternates black/white, mouth alternates happy/sad/straight.",
         "image": "night_exam/image97.png"
       },
       {
@@ -449,7 +449,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. كل خطوة رقم على الساعة = <code>30°</code>، وكل دقيقة يتحرك عقرب الساعات <code>0.5°</code> وعقرب الدقائق <code>6°</code>.\n2. عند الساعة 3:40:\n• عقرب الدقائق يقف تماماً عند الرقم 8 (أي <code>8 × 30° = 240°</code> من الساعة 12).\n• عقرب الساعات عند الرقم 3 ومعه 40 دقيقة: <code>3 × 30° + (40 × 0.5°) = 90° + 20° = 110°</code>.\n3. الزاوية بينهما = <code>240° - 110° = 130°</code>.\n\n💡 <b>بالقانون العام:</b> <code>|30 × 3 - 5.5 × 40| = |90 - 220| = 130°</code>."
       },
       {
         "id": 384,
@@ -462,7 +462,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. عند الساعة 8:30:\n• عقرب الدقائق يقف تماماً عند الرقم 6.\n• عقرب الساعات يقع في منتصف المسافة بالضبط بين الرقمين 8 و 9 (أي عند 8.5).\n2. فرق المسافة بين العقربين = <code>8.5 - 6 = 2.5 ساعة</code>.\n3. كل ساعة تمثل 30°، إذن الزاوية = <code>2.5 × 30° = 75°</code>!\n\n💡 <b>بالقانون العام:</b> <code>|30 × 8 - 5.5 × 30| = |240 - 165| = 75°</code>."
       },
       {
         "id": 386,
@@ -475,7 +475,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nلنفرض أن عمر أصغر طفل هو <code>x</code>:\nأعمار الأطفال الخمسة هي: <code>x, x+3, x+6, x+9, x+12</code>\nمجموع الأعمار:\n<code>5x + 30 = 50</code>\n<code>5x = 50 - 30 = 20</code>\n<code>x = 20 ÷ 5 = 4 سنوات</code>\n\n💡 عمر الطفل الأصغر = 4 سنوات."
       },
       {
         "id": 387,
@@ -488,7 +488,7 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍👦 <b>طريقة الحل الذهنية:</b>\n• قول الأب \"كنت في مثل عمرك الحالي يوم ولادتك\" يعني أن عمر الأب الحالي ضعف عمر الابن الحالي تماماً!\n• عمر الابن الآن = <code>38 ÷ 2 = 19 سنة</code>.\n• عمر الابن منذ 5 سنوات = <code>19 - 5 = 14 سنة</code>."
       },
       {
         "id": 2,
@@ -559,7 +559,7 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 8,
-        "question": "Which is the correct figure / answer for Question 8?",
+        "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way:\n\nGRAM (energy, weight, scales)\nKNOT (water, rope, speed)",
         "options": [
           "mass, velocity",
           "weight, speed",
@@ -567,7 +567,7 @@
           "gravity, distance"
         ],
         "correct": 1,
-        "reasoning": "weight, speed: analogous pairing of scalar and vector physical measurements.",
+        "reasoning": "علاقة وحدة القياس بالكمية الفيزيائية:\n• الجرام (GRAM) هو وحدة قياس الوزن أو الكتلة (weight).\n• العقدة (KNOT) هي وحدة قياس السرعة البحرية (speed).\nإذن الإجابة الصحيحة هي: weight, speed.",
         "image": null
       }
     ],
@@ -617,7 +617,7 @@
           "SITE / SET"
         ],
         "correct": 1,
-        "reasoning": "PLACE (locality) becomes PACE (tempo/speed) when L is removed.",
+        "reasoning": "كلمة PLACE (بمعنى مكان أو محل/locality) عند حذف حرف L منها تصبح PACE (بمعنى سرعة أو إيقاع/tempo).",
         "image": null
       },
       {
@@ -683,7 +683,7 @@
           "Switch D"
         ],
         "correct": 3,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch D\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch D هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch D</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch D</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image205.png"
       },
       {
@@ -697,7 +697,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch B</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch B</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image24.png"
       },
       {
@@ -738,7 +738,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Number of white dots increases by 1 each time, and all white dots remain connected.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Number of white dots increases by 1 each time, and all white dots remain connected.",
         "image": "night_exam/image268.png"
       },
       {
@@ -753,7 +753,7 @@
           "E"
         ],
         "correct": 0,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Figure tumbles 45 degrees at each stage and alternates white/black/striped.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Figure tumbles 45 degrees at each stage and alternates white/black/striped.",
         "image": "night_exam/image233.png"
       },
       {
@@ -768,7 +768,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Top arm moves 45 deg clockwise each stage; bottom arm moves 90 deg clockwise.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Top arm moves 45 deg clockwise each stage; bottom arm moves 90 deg clockwise.",
         "image": "night_exam/image257.png"
       },
       {
@@ -783,7 +783,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Dot must appear in a circle with 3 secant lines passing through it.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Dot must appear in a circle with 3 secant lines passing through it.",
         "image": "night_exam/image109.png"
       },
       {
@@ -798,7 +798,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: One dot in triangle & circle; other dot in triangle & three circles.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: One dot in triangle & circle; other dot in triangle & three circles.",
         "image": "night_exam/image79.png"
       },
       {
@@ -813,7 +813,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Dot must appear in two circles and the square.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Dot must appear in two circles and the square.",
         "image": "night_exam/image15.png"
       },
       {
@@ -828,7 +828,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: One dot in one triangle; other dot in two triangles.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: One dot in one triangle; other dot in two triangles.",
         "image": "night_exam/image94.png"
       },
       {
@@ -842,7 +842,7 @@
           "6"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (8 + 7) × 5 = 75.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (8 + 7) × 5 = 75.",
         "image": "night_exam/image140.png"
       },
       {
@@ -856,7 +856,7 @@
           "7"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (6 + 8) – 9 = 5.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: (6 + 8) – 9 = 5.",
         "image": "night_exam/image169.png"
       },
       {
@@ -870,7 +870,7 @@
           "40"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 36: 32 ÷ 8 × 9 = 36.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "القاعدة الحسابية للمثلثات:\n<code>(الرقم السفلي الأيسر ÷ الرقم العلوي) × الرقم السفلي الأيمن = الرقم الأوسط</code>\n• مثلث 1: <code>(12 ÷ 3) × 2 = 4 × 2 = 8</code>\n• مثلث 2: <code>(24 ÷ 6) × 7 = 4 × 7 = 28</code>\n• مثلث 3: <code>(32 ÷ 8) × 9 = 4 × 9 = 36</code>\nإذن الرقم الصحيح هو 36.",
         "image": "night_exam/image211.png"
       },
       {
@@ -884,7 +884,7 @@
           "4"
         ],
         "correct": 0,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 1: Each triangle contains the digits 1–9 once each.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 1: Each triangle contains the digits 1–9 once each.",
         "image": "night_exam/image260.png"
       },
       {
@@ -898,7 +898,7 @@
           "18"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 16: 12 + 16 = 28 ÷ 7 = 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 16: 12 + 16 = 28 ÷ 7 = 4.",
         "image": "night_exam/image41.png"
       },
       {
@@ -1016,20 +1016,20 @@
           "Saturday"
         ],
         "correct": 3,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n61 mod 7 = 5 days remainder. Monday + 5 days = Saturday.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "📅 <b>حساب اليوم في ثوانٍ:</b>\n1. الأسبوع يتكرر كل 7 أيام، فنحسب باقي قسمة 61 على 7:\n<code>61 ÷ 7 = 8 أسابيع كاملة والباقي 5 أيام</code> (لأن 7 × 8 = 56، و 61 - 56 = 5).\n2. نعد 5 أيام بعد يوم الاثنين (Monday):\n• +1: الثلاثاء (Tuesday)\n• +2: الأربعاء (Wednesday)\n• +3: الخميس (Thursday)\n• +4: الجمعة (Friday)\n• +5: <b>السبت (Saturday)</b>."
       },
       {
         "id": 415,
         "category": "Exam Night (Clocks & Calendars)",
         "question": "How many times do the hands of a clock coincide (overlap) in a 24-hour day?",
         "options": [
-          "20 times",
-          "22 times",
-          "24 times",
-          "44 times"
+          "20",
+          "22",
+          "24",
+          "44"
         ],
         "correct": 1,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nThe hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>قاعدة تطابق عقارب الساعة:</b>\n• يتطابق عقربا الساعات والدقائق 11 مرة كل 12 ساعة (لأن التطابق بين الساعة 11 و 1 يحدث مرة واحدة فقط عند الساعة 12:00 تماماً).\n• في الـ 24 ساعة يتطابقان: <code>11 × 2 = 22 مرة</code>."
       },
       {
         "id": 388,
@@ -1042,7 +1042,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "📊 <b>طريقة الحل الحسابية خطوة بخطوة:</b>\n1. مجموع الأعداد الثلاثة = <code>المتوسط × العدد = 48 × 3 = 144</code>.\n2. مجموع العددين = <code>المتوسط × العدد = 56 × 2 = 112</code>.\n3. قيمة العدد الثالث = <code>مجموع الثلاثة - مجموع الاثنين = 144 - 112 = 32</code>.\n\n💡 <b>القاعدة:</b> <code>المجموع الكلي = المتوسط الحسابي × عدد العناصر</code>."
       },
       {
         "id": 419,
@@ -1055,14 +1055,14 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍🏫 <b>طريقة الحل السريعة (بدون آلة حاسبة):</b>\n• المتوسط الجديد أصبح 16 سنة لـ 31 شخصاً (30 طالباً + المعلم).\n• المعلم جاء بنصيبه (16) وزاد كل طالب من الـ 30 طالباً سنة واحدة:\n<code>عمر المعلم = 16 + (30 × 1) = 46 سنة</code>.\n\n• <b>بالطريقة التقليدية:</b>\nمجموع أعمار الطلاب = <code>30 × 15 = 450</code>\nمجموع أعمار الكل = <code>31 × 16 = 496</code>\nعمر المعلم = <code>496 - 450 = 46 سنة</code>."
       },
       {
         "id": 16,
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 16,
-        "question": "Which word in brackets is closest in meaning to the word in capitals? BRUNT (dull, edifice, impact, tawny, nonsense)",
+        "question": "Which word in brackets is closest in meaning to the word in capitals? IMPINGE (disobey, absorb, impact, clarify, introduce)",
         "options": [
           "disobey",
           "absorb",
@@ -1070,7 +1070,7 @@
           "clarify"
         ],
         "correct": 2,
-        "reasoning": "IMPINGE means to strike, collide with, or have an effect (impact).",
+        "reasoning": "كلمة IMPINGE تعني يصطدم بـ أو يؤثر تأثيراً مباشراً على (impact).",
         "image": null
       },
       {
@@ -1078,15 +1078,15 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 17,
-        "question": "Which of the following is not an anagram of a type of food? PAST EIGHT I CAN ROAM WIN BOAR CAN PEAK COOL CHEAT",
+        "question": "Which of the following is not an anagram of a type of food? PAST EIGHT, I CAN ROAM, WIN BOAR, CAN PEAK, COOL CHEAT",
         "options": [
-          "CHEAP PIE",
-          "WIN BOAR",
-          "TART SOUP",
-          "GIN EGG"
+          "PAST EIGHT (spaghetti)",
+          "I CAN ROAM (macaroni)",
+          "WIN BOAR (rainbow)",
+          "CAN PEAK (pancake)"
         ],
-        "correct": 1,
-        "reasoning": "WIN BOAR is an anagram of RAINBOW (not a food). The other anagrams are all foods (spaghetti, macaroni, pancake, chocolate).",
+        "correct": 2,
+        "reasoning": "WIN BOAR تشكل كلمة RAINBOW (قوس قزح، وهي ظاهرة طبيعية وليست طعاماً)، بينما باقي الكلمات أنجرام لأطعمة:\n• PAST EIGHT = spaghetti (سباغيتي)\n• I CAN ROAM = macaroni (مكرونة)\n• CAN PEAK = pancake (بان كيك)\n• COOL CHEAT = chocolate (شوكولاتة).",
         "image": null
       },
       {
@@ -1094,15 +1094,15 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 22,
-        "question": "67/8, 29/16, 55/8, 33/16, 43/8, ? What number should replace the question mark?",
+        "question": "6 7/8, 2 9/16, 5 5/8, 3 3/16, 4 3/8, ? What number should replace the question mark?",
         "options": [
           "3 11/16",
-          "3 3/16 (51/16)",
+          "3 13/16 (51/16)",
           "4 1/16",
           "3 7/16"
         ],
         "correct": 1,
-        "reasoning": "There are two alternate sequences: 6 7/8, 5 5/8, 4 3/8 (-1 1/4 each) and 2 9/16, 3 3/16, 3 13/16 (+1 1/4 each).",
+        "reasoning": "متتابعتان متداخلتان:\n• المتتابعة الأولى: <code>6 7/8, 5 5/8, 4 3/8</code> (بنقصان 1 1/4 أو 10/8 في كل خطوة).\n• المتتابعة الثانية: <code>2 9/16, 3 3/16</code> (بزيادة 1 1/4 أو 10/16 في كل خطوة).\nالرقم التالي في المتتابعة الثانية = <code>3 3/16 + 1 4/16 = 3 13/16</code> (أو 51/16).",
         "image": null
       },
       {
@@ -1118,7 +1118,7 @@
           "888, 892"
         ],
         "correct": 0,
-        "reasoning": "The sequence alternates: ×3, +2, ×3, +2. 296 × 3 = 888, 888 + 2 = 890.",
+        "reasoning": "النمط يتبادل بالتناوب بين الضرب في 3 والجمع مع 2:\n• <code>10 × 3 = 30</code>\n• <code>30 + 2 = 32</code>\n• <code>32 × 3 = 96</code>\n• <code>96 + 2 = 98</code>\n• <code>98 × 3 = 294</code>\n• <code>294 + 2 = 296</code>\nالرقمان التاليان:\n• <code>296 × 3 = 888</code>\n• <code>888 + 2 = 890</code>",
         "image": null
       },
       {
@@ -1126,7 +1126,7 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 25,
-        "question": "able, rot, son, king Which word below shares a common feature with all the words above? line, sit, take, hope, night",
+        "question": "able, rot, son, king Which word below shares a common feature with all the words above? jump, fast, take, sing",
         "options": [
           "jump",
           "fast",
@@ -1134,7 +1134,7 @@
           "sing"
         ],
         "correct": 2,
-        "reasoning": "All can be prefixed by PAR- to form valid English words: parable, parrot, parson, parking, partake.",
+        "reasoning": "جميع الكلمات يمكن أن يسبقها المقطع PAR لتكوين كلمات إنجليزية صحيحة:\n• parable\n• parrot\n• parson\n• parking\n• partake (من كلمة take).",
         "image": null
       }
     ],
@@ -1144,7 +1144,7 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 35,
-        "question": "Find five consecutive numbers below that total 22. 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5",
+        "question": "Find five consecutive numbers below that total 22. 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6",
         "options": [
           "9, 3, 5, 4, 1",
           "7, 3, 9, 2, 1",
@@ -1152,7 +1152,7 @@
           "3, 9, 6, 3, 1"
         ],
         "correct": 0,
-        "reasoning": "9 + 3 + 5 + 4 + 1 = 22.",
+        "reasoning": "الأرقام المتتالية في السلسلة التي مجموعها 22 هي:\n<code>9 + 3 + 5 + 4 + 1 = 22</code>.",
         "image": null
       },
       {
@@ -1162,13 +1162,13 @@
         "q_num": 4,
         "question": "ligno- is to wood as vitro- is to wool, glass, stone, water, paper?",
         "options": [
-          "9 pm",
-          "10 pm",
-          "11 pm",
-          "10:30 pm"
+          "wool",
+          "glass",
+          "stone",
+          "water"
         ],
         "correct": 1,
-        "reasoning": "In 4 hours the watch lost 4 × 17 = 68 minutes (1h 8m), showing 2:52 pm at 4:00 pm. Six hours later, the actual time is 10:00 pm.",
+        "reasoning": "الجذور اللاتينية للكلمات:\n• المقطع ligno- يشير إلى الخشب (wood).\n• المقطع vitro- يشير إلى الزجاج (glass)، كما في المصطلح الطبي الشهير In vitro (في الزجاج/الأنابيب) و vitreous (زجاجي).",
         "image": null
       },
       {
@@ -1250,7 +1250,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch C</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch C</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image272.png"
       },
       {
@@ -1264,7 +1264,7 @@
           "Switch D"
         ],
         "correct": 0,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch A\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch A هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch A</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch A</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image282.png"
       },
       {
@@ -1304,7 +1304,7 @@
           "654"
         ],
         "correct": 0,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 453: Top ÷ 2, bottom-left ÷ 3, bottom-right ÷ 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 453: Top ÷ 2, bottom-left ÷ 3, bottom-right ÷ 4.",
         "image": "night_exam/image40.png"
       },
       {
@@ -1318,7 +1318,7 @@
           "31"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 29: (31 + 2) – 29 = 4.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 29: (31 + 2) – 29 = 4.",
         "image": "night_exam/image6.png"
       },
       {
@@ -1332,7 +1332,7 @@
           "D"
         ],
         "correct": 0,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Each pair of circles are mirror images of each other.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Each pair of circles are mirror images of each other.",
         "image": "night_exam/image107.png"
       },
       {
@@ -1346,7 +1346,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Only lines and symbols appearing exactly twice in outer circles appear in inner circle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Only lines and symbols appearing exactly twice in outer circles appear in inner circle.",
         "image": "night_exam/image279.png"
       },
       {
@@ -1360,7 +1360,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symbols transferred to middle circle when they appear in the same position once.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symbols transferred to middle circle when they appear in the same position once.",
         "image": "night_exam/image51.png"
       },
       {
@@ -1375,7 +1375,7 @@
           "E"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Pairs of circles add together to produce the circle above, but common symbols cancel out.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Pairs of circles add together to produce the circle above, but common symbols cancel out.",
         "image": "night_exam/image2.png"
       },
       {
@@ -1390,7 +1390,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Symbols in lower two circles combine, identical symbols cancel out.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Symbols in lower two circles combine, identical symbols cancel out.",
         "image": "night_exam/image187.png"
       },
       {
@@ -1404,7 +1404,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: The right half is a mirror image of the left half.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: The right half is a mirror image of the left half.",
         "image": "night_exam/image48.png"
       },
       {
@@ -1418,7 +1418,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A dot is carried forward only when it appears in corner/centre just once in lower two.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: A dot is carried forward only when it appears in corner/centre just once in lower two.",
         "image": "night_exam/image101.png"
       },
       {
@@ -1432,7 +1432,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Lines across proceed +2, –3, +2; lines down proceed –3, +2, –3.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Lines across proceed +2, –3, +2; lines down proceed –3, +2, –3.",
         "image": "night_exam/image224.png"
       },
       {
@@ -1446,7 +1446,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Rotational logic and shading pattern across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Rotational logic and shading pattern across rows.",
         "image": "night_exam/image81.png"
       },
       {
@@ -1461,7 +1461,7 @@
           "E"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Face alignment of circle and diagonal line produces cube D.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Face alignment of circle and diagonal line produces cube D.",
         "image": "night_exam/image1.png"
       },
       {
@@ -1571,15 +1571,15 @@
       {
         "id": 416,
         "category": "Exam Night (Clocks & Calendars)",
-        "question": "How many times in a 24-hour day are the hands of a clock at right angles (90°)?",
+        "question": "How many times in a day are the hands of a clock in a straight line (pointing opposite or together)?",
         "options": [
-          "22 times",
-          "24 times",
-          "44 times",
-          "48 times"
+          "22",
+          "24",
+          "44",
+          "48"
         ],
         "correct": 2,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nRight angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>الاستقامة التامة لعقربي الساعة (Straight Line):</b>\nالاستقامة تشمل حالتين:\n1. التطابق في نفس الاتجاه (0°): يحدث 22 مرة في اليوم.\n2. التعاكس في اتجاهين متضادين (180°): يحدث 22 مرة في اليوم.\n• إجمالي مرات الاستقامة = <code>22 + 22 = 44 مرة</code>."
       },
       {
         "id": 383,
@@ -1592,7 +1592,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. كل خطوة رقم على الساعة = <code>30°</code>، وكل دقيقة يتحرك عقرب الساعات <code>0.5°</code> وعقرب الدقائق <code>6°</code>.\n2. عند الساعة 3:40:\n• عقرب الدقائق يقف تماماً عند الرقم 8 (أي <code>8 × 30° = 240°</code> من الساعة 12).\n• عقرب الساعات عند الرقم 3 ومعه 40 دقيقة: <code>3 × 30° + (40 × 0.5°) = 90° + 20° = 110°</code>.\n3. الزاوية بينهما = <code>240° - 110° = 130°</code>.\n\n💡 <b>بالقانون العام:</b> <code>|30 × 3 - 5.5 × 40| = |90 - 220| = 130°</code>."
       },
       {
         "id": 386,
@@ -1605,7 +1605,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nلنفرض أن عمر أصغر طفل هو <code>x</code>:\nأعمار الأطفال الخمسة هي: <code>x, x+3, x+6, x+9, x+12</code>\nمجموع الأعمار:\n<code>5x + 30 = 50</code>\n<code>5x = 50 - 30 = 20</code>\n<code>x = 20 ÷ 5 = 4 سنوات</code>\n\n💡 عمر الطفل الأصغر = 4 سنوات."
       },
       {
         "id": 387,
@@ -1618,22 +1618,22 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍👦 <b>طريقة الحل الذهنية:</b>\n• قول الأب \"كنت في مثل عمرك الحالي يوم ولادتك\" يعني أن عمر الأب الحالي ضعف عمر الابن الحالي تماماً!\n• عمر الابن الآن = <code>38 ÷ 2 = 19 سنة</code>.\n• عمر الابن منذ 5 سنوات = <code>19 - 5 = 14 سنة</code>."
       },
       {
         "id": 29,
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 29,
-        "question": "Which is the only one of the following that is not an anagram of a word meaning out of this world? flow under sexed Utah enviable blue icier blend",
+        "question": "Which is the only one of the following that is not an anagram of a word meaning HAPPY? sexed Utah, delighted, cheerful, ecstatic",
         "options": [
-          "SPACE / PACE",
-          "PLACE / PACE",
-          "TRACK / TACT",
-          "SITE / SET"
+          "sexed Utah",
+          "delighted",
+          "cheerful",
+          "ecstatic"
         ],
-        "correct": 1,
-        "reasoning": "PLACE (locality) becomes PACE (tempo/speed) when L is removed.",
+        "correct": 0,
+        "reasoning": "أحرف (sexed Utah) تكون كلمة EXHAUSTED (بمعنى مرهق أو متعب)، وليست بمعنى سعيد كباقي الكلمات.",
         "image": null
       },
       {
@@ -1641,15 +1641,15 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 30,
-        "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?",
+        "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 red. What is the smallest number of socks he must take out in the dark to be certain he has at least one pair of black socks?",
         "options": [
-          "disobey",
-          "absorb",
-          "impact",
-          "clarify"
+          "38 socks",
+          "40 socks",
+          "42 socks",
+          "36 socks"
         ],
-        "correct": 2,
-        "reasoning": "IMPINGE means to strike, collide, or have an effect (impact).",
+        "correct": 1,
+        "reasoning": "حساب أسوأ الاحتمالات (Worst-Case Scenario):\n• أسوأ سيناريو هو سحب جميع الجوارب الزرقاء (21) وجميع الجوارب الحمراء (17) دون سحب أي جورب أسود = <code>21 + 17 = 38 جورباً</code>.\n• الآن لم يتبق في الدرج سوى الجوارب السوداء، فنحتاج سحب جوربين إضافيين لضمان زوج أسود مؤكد: <code>38 + 2 = 40 جورباً</code>.",
         "image": null
       },
       {
@@ -1659,13 +1659,13 @@
         "q_num": 32,
         "question": "How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?",
         "options": [
-          "3 11/16",
-          "3 13/16",
-          "4 1/16",
-          "3 7/16"
+          "35 minutes",
+          "37 minutes",
+          "39 minutes",
+          "41 minutes"
         ],
         "correct": 1,
-        "reasoning": "Two alternate sequences: First: 6 7/8, 5 5/8, 4 3/8 (-1 2/8 each). Second: 2 9/16, 3 3/16, 3 13/16 (+10/16 each).",
+        "reasoning": "طريقة الحل بالمعادلة:\n• المسافة الزمنية من 10:00 صباحاً إلى 12:00 ظهراً = 120 دقيقة.\n• لنفرض أن الوقت المتبقي حتى الظهر هو <code>x</code> دقيقة.\n• الوقت الحالي = <code>12:00 - x</code>.\n• منذ 9 دقائق كان الوقت: <code>120 - 9 - x = 111 - x</code> دقيقة بعد العاشرة.\n• بما أنه كان ضعف الدقائق المتبقية:\n<code>111 - x = 2x => 3x = 111 => x = 37 دقيقة</code>.\n(تأكيد: الساعة الآن 11:23، ومنذ 9 دقائق كانت 11:14 أي بعد العاشرة بـ 74 دقيقة، و 74 = 2 × 37 تماماً).",
         "image": null
       },
       {
@@ -1673,15 +1673,15 @@
         "category": "Ultimate IQ Test 1",
         "test_num": 1,
         "q_num": 33,
-        "question": "Which two words are closest in meaning? conclave, medley, theme, conglomeration, dissertation, augury",
+        "question": "Which two words are closest in meaning? conclave, medley, theme, conglomeration, thesis, premise",
         "options": [
-          "888, 890",
-          "882, 884",
-          "892, 894",
-          "888, 892"
+          "conclave, thesis",
+          "medley, conglomeration",
+          "thesis, premise",
+          "medley, conclave"
         ],
-        "correct": 0,
-        "reasoning": "The sequence alternates: ×3, +2, ×3, +2. 296 × 3 = 888, 888 + 2 = 890.",
+        "correct": 1,
+        "reasoning": "كلمتا medley و conglomeration كلاهما يعني خليط غير متجانس أو تشكيلة متنوعة (heterogeneous assortment/mixture).",
         "image": null
       },
       {
@@ -1691,13 +1691,13 @@
         "q_num": 34,
         "question": "broke rage prose cute dared ? Which word is missing? palm hymn evil snow take",
         "options": [
-          "jump",
-          "fast",
-          "take",
-          "sing"
+          "palm",
+          "hype",
+          "evil",
+          "dark"
         ],
         "correct": 2,
-        "reasoning": "All can be prefixed by PAR- to form valid English words: parable, parrot, parson, parking, partake.",
+        "reasoning": "تكوين كلمات مركبة (Compound words):\n• broke + rage = brokerage\n• prose + cute = prosecute\n• dare + evil = daredevil (متهور).",
         "image": null
       }
     ],
@@ -1707,15 +1707,15 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 15,
-        "question": "The following clue leads to which pair of rhyming words? measure bulk of grass fodder",
+        "question": "The following clue leads to which pair of rhyming words? measure bulk of grass for animal food",
         "options": [
-          "53",
-          "57",
-          "61",
-          "55"
+          "mow lawn",
+          "weigh hay",
+          "cut grass",
+          "bale grain"
         ],
         "correct": 1,
-        "reasoning": "Odd positions sequence: 1, 15, 29, 43, 57 (+14 at each step).",
+        "reasoning": "weigh hay تعني وزن/قياس القش أو علف الماشية، والكلمتان مقفيتان في النطق (rhyming words).",
         "image": null
       },
       {
@@ -1723,15 +1723,15 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 18,
-        "question": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm. What time is it now?",
+        "question": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows 2:52 pm. What time is it now?",
         "options": [
-          "disperse",
-          "detach",
-          "coalesce",
-          "isolate"
+          "9 pm",
+          "10 pm",
+          "11 pm",
+          "10:30 pm"
         ],
-        "correct": 2,
-        "reasoning": "COALESCE means to come together or merge into a single whole.",
+        "correct": 1,
+        "reasoning": "حساب وقت الساعة المتأخرة خطوة بخطوة:\n1. الساعة تفقد 17 دقيقة كل ساعة.\n2. في 4 ساعات فقدت الساعة: <code>4 × 17 = 68 دقيقة</code> (ساعة و 8 دقائق).\n3. إذن عند الساعة 4:00 عصراً كانت تشير إلى: <code>4:00 - 1:08 = 2:52 pm</code> وتوقفت تماماً.\n4. بما أنها توقفت منذ 6 ساعات، فإن الوقت الفعلي الآن هو: <code>4:00 pm + 6 hours = 10:00 pm</code>.",
         "image": null
       },
       {
@@ -1741,13 +1741,13 @@
         "q_num": 17,
         "question": "Which is the odd one out? femur, mandible, fibula, tibia, patella",
         "options": [
-          "MINIMUM",
-          "MAXIMUM",
-          "UNIONS",
-          "MUMMY"
+          "femur",
+          "fibula",
+          "mandible",
+          "patella"
         ],
-        "correct": 0,
-        "reasoning": "MINIMUM uses only the letters M, I, N, U.",
+        "correct": 2,
+        "reasoning": "عظمة الفك السفلي (mandible) تقع في الجمجمة، بينما بقية العظام المذكورة (femur=الفخذ, fibula=الشظية, tibia=القصبة, patella=الرضفة) كلها عظام في الساق والرجل.",
         "image": null
       },
       {
@@ -1813,7 +1813,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch B</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch B</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image89.png"
       },
       {
@@ -1827,7 +1827,7 @@
           "Switch D"
         ],
         "correct": 3,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch D\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch D هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch D</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch D</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image65.png"
       },
       {
@@ -1867,7 +1867,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Directional rotation and alternating segments.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Directional rotation and alternating segments.",
         "image": "night_exam/image149.png"
       },
       {
@@ -1882,7 +1882,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shape rotation and internal line count.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shape rotation and internal line count.",
         "image": "night_exam/image71.png"
       },
       {
@@ -1896,7 +1896,7 @@
           "5"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Column and row summation logic.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Column and row summation logic.",
         "image": "night_exam/image208.png"
       },
       {
@@ -1924,7 +1924,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Each row and column contains 6 complete lines and 6 broken lines.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Each row and column contains 6 complete lines and 6 broken lines.",
         "image": "night_exam/image267.png"
       },
       {
@@ -1940,7 +1940,7 @@
           "F"
         ],
         "correct": 5,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Rotational progression and element shading.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Rotational progression and element shading.",
         "image": "night_exam/image124.png"
       },
       {
@@ -1954,7 +1954,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Line addition and cancellation across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Line addition and cancellation across rows.",
         "image": "night_exam/image129.png"
       },
       {
@@ -1968,7 +1968,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Sequential movement of internal dots.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Sequential movement of internal dots.",
         "image": "night_exam/image231.png"
       },
       {
@@ -1984,7 +1984,7 @@
           "F"
         ],
         "correct": 5,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Dual alternating rotation of arms.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• F: Dual alternating rotation of arms.",
         "image": "night_exam/image180.png"
       },
       {
@@ -2012,7 +2012,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Geometric symmetry and angle properties.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Geometric symmetry and angle properties.",
         "image": "night_exam/image162.png"
       },
       {
@@ -2144,7 +2144,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. عند الساعة 8:30:\n• عقرب الدقائق يقف تماماً عند الرقم 6.\n• عقرب الساعات يقع في منتصف المسافة بالضبط بين الرقمين 8 و 9 (أي عند 8.5).\n2. فرق المسافة بين العقربين = <code>8.5 - 6 = 2.5 ساعة</code>.\n3. كل ساعة تمثل 30°، إذن الزاوية = <code>2.5 × 30° = 75°</code>!\n\n💡 <b>بالقانون العام:</b> <code>|30 × 8 - 5.5 × 30| = |240 - 165| = 75°</code>."
       },
       {
         "id": 385,
@@ -2157,7 +2157,7 @@
           "Saturday"
         ],
         "correct": 3,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n61 mod 7 = 5 days remainder. Monday + 5 days = Saturday.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "📅 <b>حساب اليوم في ثوانٍ:</b>\n1. الأسبوع يتكرر كل 7 أيام، فنحسب باقي قسمة 61 على 7:\n<code>61 ÷ 7 = 8 أسابيع كاملة والباقي 5 أيام</code> (لأن 7 × 8 = 56، و 61 - 56 = 5).\n2. نعد 5 أيام بعد يوم الاثنين (Monday):\n• +1: الثلاثاء (Tuesday)\n• +2: الأربعاء (Wednesday)\n• +3: الخميس (Thursday)\n• +4: الجمعة (Friday)\n• +5: <b>السبت (Saturday)</b>."
       },
       {
         "id": 388,
@@ -2170,7 +2170,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "📊 <b>طريقة الحل الحسابية خطوة بخطوة:</b>\n1. مجموع الأعداد الثلاثة = <code>المتوسط × العدد = 48 × 3 = 144</code>.\n2. مجموع العددين = <code>المتوسط × العدد = 56 × 2 = 112</code>.\n3. قيمة العدد الثالث = <code>مجموع الثلاثة - مجموع الاثنين = 144 - 112 = 32</code>.\n\n💡 <b>القاعدة:</b> <code>المجموع الكلي = المتوسط الحسابي × عدد العناصر</code>."
       },
       {
         "id": 419,
@@ -2183,7 +2183,7 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍🏫 <b>طريقة الحل السريعة (بدون آلة حاسبة):</b>\n• المتوسط الجديد أصبح 16 سنة لـ 31 شخصاً (30 طالباً + المعلم).\n• المعلم جاء بنصيبه (16) وزاد كل طالب من الـ 30 طالباً سنة واحدة:\n<code>عمر المعلم = 16 + (30 × 1) = 46 سنة</code>.\n\n• <b>بالطريقة التقليدية:</b>\nمجموع أعمار الطلاب = <code>30 × 15 = 450</code>\nمجموع أعمار الكل = <code>31 × 16 = 496</code>\nعمر المعلم = <code>496 - 450 = 46 سنة</code>."
       },
       {
         "id": 46,
@@ -2208,13 +2208,13 @@
         "q_num": 8,
         "question": "0, 4, 2, 6, 3, 7, 3.5, ? What number should replace the question mark?",
         "options": [
-          "equator, pole",
-          "meridian, parallel",
-          "meridian, pole",
-          "long, wide"
+          "7",
+          "7.5",
+          "8",
+          "8.5"
         ],
         "correct": 1,
-        "reasoning": "Longitude lines are meridians; latitude lines are parallels.",
+        "reasoning": "المتتابعة تطبق العمليتين (+4 ثم ÷2) بالتناوب:\n• <code>0 + 4 = 4</code>\n• <code>4 ÷ 2 = 2</code>\n• <code>2 + 4 = 6</code>\n• <code>6 ÷ 2 = 3</code>\n• <code>3 + 4 = 7</code>\n• <code>7 ÷ 2 = 3.5</code>\n• <code>3.5 + 4 = 7.5</code>",
         "image": null
       },
       {
@@ -2222,15 +2222,15 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 9,
-        "question": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. LONGITUDE (degree, tropics, meridian) LATITUDE (parallel, line, equinox)",
+        "question": "Identify two words (one from each set of brackets) that have a connection (analogy):\n(meridian, equator)\n(parallel, pole)",
         "options": [
-          "glance",
-          "ignore",
-          "observe",
-          "overlook"
+          "equator, pole",
+          "meridian, parallel",
+          "meridian, pole",
+          "long, wide"
         ],
-        "correct": 2,
-        "reasoning": "SCRUTINIZE means to examine or observe closely.",
+        "correct": 1,
+        "reasoning": "التناظر الجغرافي لخطوط الإحداثيات:\n• خطوط الطول تسمى meridians.\n• خطوط العرض تسمى parallels.",
         "image": null
       },
       {
@@ -2238,15 +2238,15 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 11,
-        "question": "Which word in brackets is closest in meaning to the word in capitals? MONITOR (observe, order, meddle, intrude, conclude)",
+        "question": "Which word in brackets is closest in meaning to the word in capitals? MONITOR (observe, order, listen, watch)",
         "options": [
-          "5 added",
-          "12 added",
-          "3 added",
-          "8 added"
+          "glance",
+          "ignore",
+          "observe",
+          "overlook"
         ],
-        "correct": 0,
-        "reasoning": "59 + 5 = 64 = 4³, forming the next smallest perfect cube.",
+        "correct": 2,
+        "reasoning": "كلمة MONITOR تعني يراقب أو يرصد عن كثب، وأقرب مرادف لها هو observe.",
         "image": null
       },
       {
@@ -2254,15 +2254,15 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 13,
-        "question": "Which two words are most opposite in meaning? liberty, frivolity, chastity, sobriety, irrationality, polarity",
+        "question": "Which two words are most opposite in meaning? liberty, frivolity, chastity, sobriety",
         "options": [
-          "EDUCATE / DUCT",
-          "DERIVE / DRIVE",
-          "INFER / FIRE",
-          "LEAD / LOAD"
+          "liberty, justice",
+          "frivolity, sobriety",
+          "wisdom, frivolity",
+          "liberty, sobriety"
         ],
         "correct": 1,
-        "reasoning": "DERIVE (deduce) becomes DRIVE (propel) when the first E is removed.",
+        "reasoning": "التضاد في المعنى:\n• كلمة frivolity تعني الطيش والاستهتار وعدم الجدية.\n• كلمة sobriety تعني الوقار والرزانة والجدية التامة.\nإذن هما الكلمتان الأكثر تضاداً.",
         "image": null
       }
     ],
@@ -2272,7 +2272,7 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 33,
-        "question": "You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?",
+        "question": "You have 59 cubic blocks. What is the minimum number that needs to be taken away to form a solid cube?",
         "options": [
           "32 taken away",
           "15 taken away",
@@ -2280,7 +2280,7 @@
           "8 taken away"
         ],
         "correct": 0,
-        "reasoning": "59 - 32 = 27 = 3³, forming the nearest smaller perfect solid cube.",
+        "reasoning": "أقرب مكعب كامل أصغر من 59 هو <code>3³ = 27</code> مكعب.\nالعدد الأدنى الواجب إزالته = <code>59 - 27 = 32</code> مكعباً.",
         "image": null
       },
       {
@@ -2288,7 +2288,7 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 36,
-        "question": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced. FEUMOPXCTW",
+        "question": "What is the longest word in the English language that can be produced from the seven letters: C, O, M, P, U, T, E?",
         "options": [
           "OUTCOME",
           "COMPUTE",
@@ -2296,7 +2296,7 @@
           "MOMENT"
         ],
         "correct": 1,
-        "reasoning": "COMPUTE is a 7-letter word made using only the given letters C, O, M, P, U, T, E.",
+        "reasoning": "COMPUTE هي الكلمة الإنجليزية المكونة من 7 أحرف وتستخدم الأحرف السبعة المعطاة بالكامل.",
         "image": null
       },
       {
@@ -2312,7 +2312,7 @@
           "LEAD / LOAD"
         ],
         "correct": 1,
-        "reasoning": "DERIVE (deduce) becomes DRIVE (propel) when the first E is removed.",
+        "reasoning": "كلمة DERIVE (بمعنى يستنتج أو deduce) عند حذف أول حرف E تصبح DRIVE (بمعنى يقود أو يدفع أو propel).",
         "image": null
       },
       {
@@ -2378,7 +2378,7 @@
           "Switch D"
         ],
         "correct": 0,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch A\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch A هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch A</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch A</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image102.png"
       },
       {
@@ -2392,7 +2392,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch C</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch C</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image154.png"
       },
       {
@@ -2432,7 +2432,7 @@
           "9"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 8: Step difference logic across rows.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 8: Step difference logic across rows.",
         "image": "night_exam/image47.png"
       },
       {
@@ -2446,7 +2446,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Reflection across horizontal axis.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Reflection across horizontal axis.",
         "image": "night_exam/image60.png"
       },
       {
@@ -2460,7 +2460,7 @@
           "D"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Dot transposition rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• C: Dot transposition rule.",
         "image": "night_exam/image90.png"
       },
       {
@@ -2474,7 +2474,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Line segment intersection count.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Line segment intersection count.",
         "image": "night_exam/image45.png"
       },
       {
@@ -2488,7 +2488,7 @@
           "73.5"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 72.5: Arithmetic progression formula.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 72.5: Arithmetic progression formula.",
         "image": "night_exam/image85.png"
       },
       {
@@ -2502,7 +2502,7 @@
           "L"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• K: Alphabetical step progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• K: Alphabetical step progression.",
         "image": "night_exam/image25.png"
       },
       {
@@ -2516,7 +2516,7 @@
           "O"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• N: Alternating letter jumps.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• N: Alternating letter jumps.",
         "image": "night_exam/image217.png"
       },
       {
@@ -2544,7 +2544,7 @@
           "3845"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 3645: Exponential multiplication pattern.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 3645: Exponential multiplication pattern.",
         "image": "night_exam/image212.png"
       },
       {
@@ -2558,7 +2558,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: 90 degree clockwise rotation with inverse fill.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: 90 degree clockwise rotation with inverse fill.",
         "image": "night_exam/image3.png"
       },
       {
@@ -2572,7 +2572,7 @@
           "18"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 17: Sum of opposites minus center value.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 17: Sum of opposites minus center value.",
         "image": "night_exam/image16.png"
       },
       {
@@ -2586,7 +2586,7 @@
           "5"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Intersecting ring values summation.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 4: Intersecting ring values summation.",
         "image": "night_exam/image226.png"
       },
       {
@@ -2698,26 +2698,26 @@
         "category": "Exam Night (Clocks & Calendars)",
         "question": "How many times do the hands of a clock coincide (overlap) in a 24-hour day?",
         "options": [
-          "20 times",
-          "22 times",
-          "24 times",
-          "44 times"
+          "20",
+          "22",
+          "24",
+          "44"
         ],
         "correct": 1,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nThe hands coincide 11 times in every 12 hours (due to the 11-12-1 transition), so in 24 hours they coincide exactly 22 times.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>قاعدة تطابق عقارب الساعة:</b>\n• يتطابق عقربا الساعات والدقائق 11 مرة كل 12 ساعة (لأن التطابق بين الساعة 11 و 1 يحدث مرة واحدة فقط عند الساعة 12:00 تماماً).\n• في الـ 24 ساعة يتطابقان: <code>11 × 2 = 22 مرة</code>."
       },
       {
         "id": 416,
         "category": "Exam Night (Clocks & Calendars)",
-        "question": "How many times in a 24-hour day are the hands of a clock at right angles (90°)?",
+        "question": "How many times in a day are the hands of a clock in a straight line (pointing opposite or together)?",
         "options": [
-          "22 times",
-          "24 times",
-          "44 times",
-          "48 times"
+          "22",
+          "24",
+          "44",
+          "48"
         ],
         "correct": 2,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nRight angles occur twice each hour except around 3 and 9 o'clock, totaling 22 times in 12 hours, or 44 times in 24 hours.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>الاستقامة التامة لعقربي الساعة (Straight Line):</b>\nالاستقامة تشمل حالتين:\n1. التطابق في نفس الاتجاه (0°): يحدث 22 مرة في اليوم.\n2. التعاكس في اتجاهين متضادين (180°): يحدث 22 مرة في اليوم.\n• إجمالي مرات الاستقامة = <code>22 + 22 = 44 مرة</code>."
       },
       {
         "id": 386,
@@ -2730,7 +2730,7 @@
           "None of these"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nx + (x+3) + (x+6) + (x+9) + (x+12) = 50 -> 5x + 30 = 50 -> 5x = 20 -> x = 4 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nلنفرض أن عمر أصغر طفل هو <code>x</code>:\nأعمار الأطفال الخمسة هي: <code>x, x+3, x+6, x+9, x+12</code>\nمجموع الأعمار:\n<code>5x + 30 = 50</code>\n<code>5x = 50 - 30 = 20</code>\n<code>x = 20 ÷ 5 = 4 سنوات</code>\n\n💡 عمر الطفل الأصغر = 4 سنوات."
       },
       {
         "id": 387,
@@ -2743,22 +2743,22 @@
           "38 years"
         ],
         "correct": 0,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nFather is 2x son's age -> 38 = 2x -> Son is 19 years old now. 5 years ago: 19 - 5 = 14 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍👦 <b>طريقة الحل الذهنية:</b>\n• قول الأب \"كنت في مثل عمرك الحالي يوم ولادتك\" يعني أن عمر الأب الحالي ضعف عمر الابن الحالي تماماً!\n• عمر الابن الآن = <code>38 ÷ 2 = 19 سنة</code>.\n• عمر الابن منذ 5 سنوات = <code>19 - 5 = 14 سنة</code>."
       },
       {
         "id": 62,
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 22,
-        "question": "dopiness, uncloaking, dishwasher Which word below has a feature in common with all the words above? gallant, crossfire, whirlwind, assault",
+        "question": "dopiness, uncloaking, dishwasher Which word below has a feature in common with all the words above? elephant, bicycle, crossfire, computer",
         "options": [
-          "cymbal",
-          "marimba",
-          "trombone",
-          "xylophone"
+          "elephant",
+          "bicycle",
+          "crossfire",
+          "computer"
         ],
         "correct": 2,
-        "reasoning": "Trombone is a brass wind instrument; all others are percussion instruments.",
+        "reasoning": "كل كلمة تحتوي داخل أحرفها على اسم طائر أو سمكة مقلوبة (hidden anagram):\n• dopiness تحتوي على snipe (طائر الشنقب)\n• uncloaking تحتوي على cockail\n• dishwasher تحتوي على shad (سمك الشاد)\n• crossfire تشترك معها في نفس الخاصية.",
         "image": null
       },
       {
@@ -2768,13 +2768,13 @@
         "q_num": 23,
         "question": "1, 101, 15, 4, 29, –93, 43, –190, ? What number should replace the question mark?",
         "options": [
-          "principle, principal",
-          "principal, principle",
-          "principal, principal",
-          "principle, principle"
+          "53",
+          "57",
+          "61",
+          "55"
         ],
         "correct": 1,
-        "reasoning": "The head of a school is a PRINCIPAL; a fundamental truth is a PRINCIPLE.",
+        "reasoning": "متتابعتان متداخلتان:\n• المتتابعة الفردية: <code>1, 15, 29, 43, ?</code> (بزيادة 14 في كل خطوة: <code>43 + 14 = 57</code>).\n• المتتابعة الزوجية: <code>101, 4, -93, -190</code> (بنقصان 97 في كل خطوة).\nالمطلوب هو العنصر التاسع (فردي) = 57.",
         "image": null
       },
       {
@@ -2784,13 +2784,13 @@
         "q_num": 25,
         "question": "15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33 What three numbers are missing?",
         "options": [
-          "EAST, WEST",
-          "PAST, FUTURE",
-          "SAFE, HURT",
-          "TRUE, FALSE"
+          "27, 9, 12",
+          "25, 8, 11",
+          "28, 10, 13",
+          "27, 10, 14"
         ],
-        "correct": 1,
-        "reasoning": "PURE AS TUFT unscrambles to PAST, FUTURE (opposites).",
+        "correct": 0,
+        "reasoning": "النمط يكرر دورة من 4 عمليات حسابية: <code>÷3, +3, ×3, -3</code>:\n• <code>15 ÷ 3 = 5</code>\n• <code>5 + 3 = 8</code>\n• <code>8 × 3 = 24</code>\n• <code>24 - 3 = 21</code>\n• <code>21 ÷ 3 = 7</code>\n• <code>7 + 3 = 10</code>\n• <code>10 × 3 = 30</code>\nالعمليات التالية:\n1. <code>30 - 3 = 27</code>\n2. <code>27 ÷ 3 = 9</code>\n3. <code>9 + 3 = 12</code>\nإذن الأرقام الثلاثة المفقودة هي: 27, 9, 12.",
         "image": null
       },
       {
@@ -2798,7 +2798,7 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 27,
-        "question": "Using the four letters below only, create a seven-letter word. UMNI",
+        "question": "Using the four letters below only, create a seven-letter word: U M N I",
         "options": [
           "MINIMUM",
           "MAXIMUM",
@@ -2806,7 +2806,7 @@
           "MUMMY"
         ],
         "correct": 0,
-        "reasoning": "MINIMUM uses only the letters M, I, N, U.",
+        "reasoning": "كلمة MINIMUM تتكون من 7 أحرف وتستخدم فقط الأحرف الأربعة المعطاة (M, I, N, U).",
         "image": null
       },
       {
@@ -2814,7 +2814,7 @@
         "category": "Ultimate IQ Test 2",
         "test_num": 2,
         "q_num": 30,
-        "question": "Which word in brackets is closest in meaning to the word in capitals? FUSE (muzzle, explode, coalesce, immobilize, tighten)",
+        "question": "Which word in brackets is closest in meaning to the word in capitals? FUSE (muzzle, integrate, ignite, coalesce, isolate)",
         "options": [
           "disperse",
           "detach",
@@ -2822,7 +2822,7 @@
           "isolate"
         ],
         "correct": 2,
-        "reasoning": "COALESCE means to come together or merge into a single whole.",
+        "reasoning": "كلمة FUSE تعني يدمج أو يصهر في كلٍّ واحد، وأقرب مرادف لها هو coalesce.",
         "image": null
       }
     ],
@@ -2832,7 +2832,7 @@
         "category": "Ultimate IQ Test 3",
         "test_num": 3,
         "q_num": 10,
-        "question": "Arrange the words below into alphabetical order. acescence, acetamide, acerbated, acetified, acellular, acescency, acetabula, acerbates",
+        "question": "Arrange the words below into alphabetical order: acescence, acellular, acerbated, acerbates",
         "options": [
           "acescence, acellular, acerbated, acerbates",
           "acellular, acerbated, acerbates, acescence",
@@ -2840,7 +2840,7 @@
           "acellular, acescence, acerbated, acerbates"
         ],
         "correct": 1,
-        "reasoning": "Alphabetical order: acellular, acerbated, acerbates, acescence.",
+        "reasoning": "الترتيب الأبجدي الدقيق للقواميس الإنجليزية:\n1. <b>acellular</b> (a-c-e-l)\n2. <b>acerbated</b> (a-c-e-r-b-a-t-e-d)\n3. <b>acerbates</b> (a-c-e-r-b-a-t-e-s)\n4. <b>acescence</b> (a-c-e-s)",
         "image": null
       },
       {
@@ -2856,7 +2856,7 @@
           "eerie"
         ],
         "correct": 2,
-        "reasoning": "Bizarre is synonymous with outlandish; eccentric is synonymous with quirky.",
+        "reasoning": "علاقة ترادف دقيقة:\n• bizarre ترادف outlandish (بمعنى غريب/شاذ عن المألوف).\n• eccentric ترادف quirky (بمعنى شخص غريب الأطوار وفريد في تصرفاته).",
         "image": null
       },
       {
@@ -2864,7 +2864,7 @@
         "category": "Ultimate IQ Test 3",
         "test_num": 3,
         "q_num": 13,
-        "question": "Solve the anagram in brackets to correctly complete the quotation with a 10-letter word. ‘The difference between golf and (torn veg men) is that in golf you cannot improve your lie’ George Deukmejian",
+        "question": "Solve the anagram in brackets to correctly complete the quotation: (MEN GOVERN T)",
         "options": [
           "GOVERNOR",
           "GOVERNMENT",
@@ -2872,7 +2872,7 @@
           "MONUMENT"
         ],
         "correct": 1,
-        "reasoning": "MEN GOVERN T unscrambles to GOVERNMENT.",
+        "reasoning": "أحرف العبارة (MEN GOVERN T) تشكل كلمة GOVERNMENT (الحكومة).",
         "image": null
       },
       {
@@ -2938,7 +2938,7 @@
           "Switch D"
         ],
         "correct": 1,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch B\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch B هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch B</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch B</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image230.png"
       },
       {
@@ -2952,7 +2952,7 @@
           "Switch D"
         ],
         "correct": 2,
-        "reasoning": "🔍 <b>الشرح التفصيلي لخطوات الحل:</b>\n• <b>الإجابة الصحيحة:</b> Switch C\n• <b>طريقة التفكير (Logic Breakdown):</b>\nفي دوائر المحولات الكهربائية، كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap elements).\nللوصول للمفتاح المعطل في ثوانٍ: تتبع مسار شكل واحد فقط (مثلاً الشكل الأسود أو المثلث) من البداية عبر المفاتيح وصولاً للمخرج النهائي.\nستلاحظ أن Switch C هو المفتاح الوحيد الذي لم ينفذ التبديل المبرمج له فمرت العناصر من خلاله دون تغيير في ترتيبها!",
+        "reasoning": "🔍 <b>طريقة حل مسائل السويتشات في 5 ثوانٍ:</b>\n• <b>المفتاح المعطل:</b> <b>Switch C</b>\n• <b>طريقة التتبع السريع:</b>\n1. كل مفتاح وظيفته تبديل مواقع عناصر محددة (Swap Positions).\n2. لتحديد المفتاح المعطل في ثوانٍ: اختر شكلاً واحداً فقط مميزاً (مثل الدائرة السوداء أو المثلث) وتتبع مساره من صف البداية عبر المفاتيح نزولاً للخرج النهائي.\n3. ستلاحظ أن <b>Switch C</b> هو المفتاح الوحيد الذي مرت العناصر من خلاله دون تنفيذ التبديل المطلوب!",
         "image": "night_exam/image150.png"
       },
       {
@@ -3006,7 +3006,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Outer frame clockwise rotation.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Outer frame clockwise rotation.",
         "image": "night_exam/image216.png"
       },
       {
@@ -3020,7 +3020,7 @@
           "8"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 7: Diagonal arithmetic progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 7: Diagonal arithmetic progression.",
         "image": "night_exam/image134.png"
       },
       {
@@ -3034,7 +3034,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Start bottom-left corner square and follow progression.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Start bottom-left corner square and follow progression.",
         "image": "night_exam/image183.png"
       },
       {
@@ -3048,7 +3048,7 @@
           "6"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: Hexagonal edge sum logic.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 5: Hexagonal edge sum logic.",
         "image": "night_exam/image121.png"
       },
       {
@@ -3063,7 +3063,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shaded sector counter-clockwise motion.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Shaded sector counter-clockwise motion.",
         "image": "night_exam/image276.png"
       },
       {
@@ -3077,7 +3077,7 @@
           "D"
         ],
         "correct": 3,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Compound shape overlay rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• D: Compound shape overlay rule.",
         "image": "night_exam/image215.png"
       },
       {
@@ -3092,7 +3092,7 @@
           "E"
         ],
         "correct": 4,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Feature alternation across grid.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• E: Feature alternation across grid.",
         "image": "night_exam/image88.png"
       },
       {
@@ -3106,7 +3106,7 @@
           "7"
         ],
         "correct": 2,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 6: Segment product division rule.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• 6: Segment product division rule.",
         "image": "night_exam/image105.png"
       },
       {
@@ -3120,7 +3120,7 @@
           "D"
         ],
         "correct": 0,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Square goes inside diamond and diamond inside circle.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• A: Square goes inside diamond and diamond inside circle.",
         "image": "night_exam/image238.jpg"
       },
       {
@@ -3134,7 +3134,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symmetry preservation across middle axis.\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B: Symmetry preservation across middle axis.",
         "image": "night_exam/image192.png"
       },
       {
@@ -3150,7 +3150,7 @@
           "D"
         ],
         "correct": 1,
-        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B;\n💡 <b>القاعدة الحاكمة للشكل:</b> حركة العناصر تعتمد إما على التدوير بزاوية ثابتة (45° أو 90° مع أو عكس عقارب الساعة)، أو تبادل الألوان (أبيض/أسود)، أو حذف الخطوط المتطابقة (XOR Cancellation).",
+        "reasoning": "🧩 <b>التحليل البصري للنمط (Pattern Analysis):</b>\n• B;",
         "image": "ultimate_test1_q01.png"
       },
       {
@@ -3268,7 +3268,7 @@
           "140°"
         ],
         "correct": 2,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\nFormula: |30*H - 5.5*M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. كل خطوة رقم على الساعة = <code>30°</code>، وكل دقيقة يتحرك عقرب الساعات <code>0.5°</code> وعقرب الدقائق <code>6°</code>.\n2. عند الساعة 3:40:\n• عقرب الدقائق يقف تماماً عند الرقم 8 (أي <code>8 × 30° = 240°</code> من الساعة 12).\n• عقرب الساعات عند الرقم 3 ومعه 40 دقيقة: <code>3 × 30° + (40 × 0.5°) = 90° + 20° = 110°</code>.\n3. الزاوية بينهما = <code>240° - 110° = 130°</code>.\n\n💡 <b>بالقانون العام:</b> <code>|30 × 3 - 5.5 × 40| = |90 - 220| = 130°</code>."
       },
       {
         "id": 384,
@@ -3281,7 +3281,7 @@
           "85°"
         ],
         "correct": 1,
-        "reasoning": "⏰ <b>القانون السحري لمسائل الساعات والتقويم:</b>\n|30*H - 5.5*M| = |30(8) - 5.5(30)| = |240 - 165| = 75°.\n💡 زاوية عقربي الساعة = |30 × الساعات - 5.5 × الدقائق|.\n💡 لحساب اليوم بعد عدد معين من الأيام: احسب باقي قسمة الأيام على 7، وزود الباقي على يوم البداية."
+        "reasoning": "⏰ <b>طريقة الحل الذهنية السريعة (بدون آلة حاسبة):</b>\n1. عند الساعة 8:30:\n• عقرب الدقائق يقف تماماً عند الرقم 6.\n• عقرب الساعات يقع في منتصف المسافة بالضبط بين الرقمين 8 و 9 (أي عند 8.5).\n2. فرق المسافة بين العقربين = <code>8.5 - 6 = 2.5 ساعة</code>.\n3. كل ساعة تمثل 30°، إذن الزاوية = <code>2.5 × 30° = 75°</code>!\n\n💡 <b>بالقانون العام:</b> <code>|30 × 8 - 5.5 × 30| = |240 - 165| = 75°</code>."
       },
       {
         "id": 388,
@@ -3294,7 +3294,7 @@
           "40"
         ],
         "correct": 1,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nSum of 3 numbers = 48 * 3 = 144. Sum of 2 numbers = 56 * 2 = 112. Third number = 144 - 112 = 32.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "📊 <b>طريقة الحل الحسابية خطوة بخطوة:</b>\n1. مجموع الأعداد الثلاثة = <code>المتوسط × العدد = 48 × 3 = 144</code>.\n2. مجموع العددين = <code>المتوسط × العدد = 56 × 2 = 112</code>.\n3. قيمة العدد الثالث = <code>مجموع الثلاثة - مجموع الاثنين = 144 - 112 = 32</code>.\n\n💡 <b>القاعدة:</b> <code>المجموع الكلي = المتوسط الحسابي × عدد العناصر</code>."
       },
       {
         "id": 419,
@@ -3307,14 +3307,14 @@
           "48 years"
         ],
         "correct": 2,
-        "reasoning": "🎂 <b>طريقة الحل الحسابية:</b>\nTeacher's age = New Average + (Total Old Count * Increase) = 16 + (30 * 1) = 46 years.\n💡 المجموع الكلي = المتوسط الحسابي × عدد العناصر. فرق العمر بين أي شخصين يظل ثابتاً مدى الحياة ولا يتغير بمرور السنين."
+        "reasoning": "👨‍🏫 <b>طريقة الحل السريعة (بدون آلة حاسبة):</b>\n• المتوسط الجديد أصبح 16 سنة لـ 31 شخصاً (30 طالباً + المعلم).\n• المعلم جاء بنصيبه (16) وزاد كل طالب من الـ 30 طالباً سنة واحدة:\n<code>عمر المعلم = 16 + (30 × 1) = 46 سنة</code>.\n\n• <b>بالطريقة التقليدية:</b>\nمجموع أعمار الطلاب = <code>30 × 15 = 450</code>\nمجموع أعمار الكل = <code>31 × 16 = 496</code>\nعمر المعلم = <code>496 - 450 = 46 سنة</code>."
       },
       {
         "id": 82,
         "category": "Ultimate IQ Test 3",
         "test_num": 3,
         "q_num": 2,
-        "question": "Which is the odd one out? cymbal, marimba, vibraphone, trombone, glockenspiel",
+        "question": "Which is the odd one out? cymbal, marimba, vibraphone, trombone, xylophone",
         "options": [
           "cymbal",
           "marimba",
@@ -3322,7 +3322,7 @@
           "xylophone"
         ],
         "correct": 2,
-        "reasoning": "Trombone is a brass wind instrument; all others are percussion instruments.",
+        "reasoning": "trombone (الترومبون) هو آلة نفخ نحاسية (brass wind instrument)، بينما بقية الآلات (cymbal, marimba, vibraphone, xylophone) كلها آلات إيقاعية (percussion instruments).",
         "image": null
       },
       {
@@ -3330,7 +3330,7 @@
         "category": "Ultimate IQ Test 3",
         "test_num": 3,
         "q_num": 3,
-        "question": "stationary, less, stationery, principal, fewer, principle Place the words above alongside their correct definition below: head of school fundamental truth standing still writing materials smaller in amount smaller in number",
+        "question": "stationary, less, stationery, principal, fewer, principle Place the words above into their correct positions:\nThe ______ of the school announced the new policy.\nHonesty is a fundamental ______ of conduct.",
         "options": [
           "principal (head of school), principle (fundamental truth)",
           "principle (head of school), principal (fundamental truth)",
@@ -3338,7 +3338,7 @@
           "principle (head of school), principle (fundamental truth)"
         ],
         "correct": 0,
-        "reasoning": "The head of a school is a PRINCIPAL; a fundamental truth or rule is a PRINCIPLE.",
+        "reasoning": "مدير أو ناظر المدرسة هو PRINCIPAL، بينما المبدأ الأخلاقي أو القاعدة الأساسية هي PRINCIPLE.",
         "image": null
       },
       {
@@ -3354,7 +3354,7 @@
           "594"
         ],
         "correct": 1,
-        "reasoning": "In all other numbers, middle digit = first + last digit (4+2=6, 3+5=8, 5+4=9). In 683, 6+3=9 != 8.",
+        "reasoning": "في جميع الأرقام، الرقم الأوسط = حاصل جمع الرقم الأول والأخير:\n• <code>4 + 2 = 6</code> (462)\n• <code>3 + 5 = 8</code> (385)\n• <code>1 + 8 = 9</code> (198)\n• <code>2 + 3 = 5</code> (253)\n• <code>7 + 1 = 8</code> (781)\n• <code>5 + 4 = 9</code> (594)\nأما في 683 فإن <code>6 + 3 = 9 ≠ 8</code>، فهو الرقم الشاذ والمختلف.",
         "image": null
       },
       {
@@ -3370,7 +3370,7 @@
           "TRUE, FALSE"
         ],
         "correct": 1,
-        "reasoning": "PURE AS TUFT unscrambles to PAST, FUTURE (opposites).",
+        "reasoning": "أحرف عبارة PURE AS TUFT تترتب لتكوّن الكلمتين المتضادتين: PAST (الماضي) و FUTURE (المستقبل).",
         "image": null
       },
       {
@@ -3386,7 +3386,7 @@
           "28, 24"
         ],
         "correct": 0,
-        "reasoning": "Two interleaved sequences: (1, 6, 11, 16, 21, 26 with +5) and (50, 45, 40, 35, 30 with -5).",
+        "reasoning": "متتابعتان متداخلتان:\n• المتتابعة الأولى (المواقع الفردية): <code>1, 6, 11, 16, 21, 26</code> (بزيادة 5 في كل خطوة).\n• المتتابعة الثانية (المواقع الزوجية): <code>50, 45, 40, 35, 30</code> (بنقصان 5 في كل خطوة).\nإذن الرقمان التاليان بالترتيب هما: 30 ثم 26.",
         "image": null
       }
     ]
@@ -3486,7 +3486,7 @@
           "I would rather buy a brand new one.",
           "Why don't you look at the advertisements in the newspaper?",
           "You'd better get your driving license first!",
-          "Do you know how difficult it is to run a used car? Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"
+          "Do you know how difficult it is to run a used car?"
         ],
         "correct": 2,
         "reasoning": "Official Correct Answer: C) \"Why don't you look at the advertisements in the newspaper?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -3772,10 +3772,10 @@
           "I told you he'd soon be better.",
           "I'm afraid I cannot recommend good medicine.",
           "Please, send him a get well soon card.",
-          "Please, tell him I hope he'll be feeling better soon. Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"
+          "Please, tell him I hope he'll be feeling better soon."
         ],
         "correct": 4,
-        "reasoning": "Official Correct Answer: E) \"Please, tell him I hope he'll be feeling better soon. Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+        "reasoning": "Official Correct Answer: E) \"Please, tell him I hope he'll be feeling better soon.\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
       },
       {
         "id": 58,
@@ -3800,7 +3800,7 @@
           "I'm afraid I can't stay for two weeks.",
           "Last year I stayed here in August,",
           "I'm too busy to come this month.",
-          "What time of the year do most people come? Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"
+          "What time of the year do most people come?"
         ],
         "correct": 0,
         "reasoning": "Official Correct Answer: A) \"I want the room for at least 10 days, starting March 20th.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -3926,7 +3926,7 @@
           "You shouldn't have spent so much money.",
           "Can I give you a hand?",
           "Why don't you take one at a time?",
-          "Your arms will hurt tomorrow. Situational Responses Test 3 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-3/ www.englishtestsonline.com"
+          "Your arms will hurt tomorrow."
         ],
         "correct": 2,
         "reasoning": "Official Correct Answer: C) \"Can I give you a hand?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -4212,7 +4212,7 @@
           "What do you think, Mom?",
           "Who is that for?",
           "Can you help fix this?",
-          "I wanted you to see this before I bought it. Situational Responses Test 3 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-3/ www.englishtestsonline.com"
+          "I wanted you to see this before I bought it."
         ],
         "correct": 1,
         "reasoning": "Official Correct Answer: B) \"What do you think, Mom?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -4440,7 +4440,7 @@
           "Mrs Perkins wants to interview me next Monday.",
           "I would like to arrange an interview with Mrs Perkins, please.",
           "When can I see Mrs Perkins about an interview?",
-          "Today, I'm coming for my job interview. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+          "Today, I'm coming for my job interview."
         ],
         "correct": 2,
         "reasoning": "Official Correct Answer: C) \"I would like to arrange an interview with Mrs Perkins, please.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -4550,10 +4550,10 @@
           "I'm sorry but my boss wants to see me at the airport today",
           "I regret cancelling our appointment, let’s meet tonight.",
           "Such things occur every day, why did you get so angry about the cancellation?",
-          "Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+          "Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport."
         ],
         "correct": 4,
-        "reasoning": "Official Correct Answer: E) \"Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+        "reasoning": "Official Correct Answer: E) \"Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport.\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
       },
       {
         "id": 92,
@@ -4634,7 +4634,7 @@
           "Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.",
           "I can't tell how sorry I am. Please, forgive me.",
           "You have my whole-hearted support; however, I have to reject your offer.",
-          "I want to come to your party but I'm not still certain about whether I can come or not. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+          "I want to come to your party but I'm not still certain about whether I can come or not."
         ],
         "correct": 1,
         "reasoning": "Official Correct Answer: B) \"Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
@@ -4704,10 +4704,10 @@
           "Can we practise some English?",
           "Isn't reading that map difficult for you?",
           "I suppose the museum you're looking for is on Çankırı street",
-          "If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"
+          "If you tell me where you want to go, I can give you directions."
         ],
         "correct": 4,
-        "reasoning": "Official Correct Answer: E) \"If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+        "reasoning": "Official Correct Answer: E) \"If you tell me where you want to go, I can give you directions.\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
       },
       {
         "id": 38,

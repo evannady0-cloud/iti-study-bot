@@ -678,7 +678,7 @@ export const fullExamBank = {
       id: 47,
       category: "English Situations (Test 1)",
       question: "A friend of yours wants to buy a second-hand car but doesn't know how to find one and asks for help. So you say:",
-      options: ["Don't you think you’ve chosen a rather expensive type of car?", "I would rather buy a brand new one.", "Why don't you look at the advertisements in the newspaper?", "You'd better get your driving license first!", "Do you know how difficult it is to run a used car? Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"],
+      options: ["Don't you think you’ve chosen a rather expensive type of car?", "I would rather buy a brand new one.", "Why don't you look at the advertisements in the newspaper?", "You'd better get your driving license first!", "Do you know how difficult it is to run a used car?"],
       correct: 2,
       reasoning: "Official Correct Answer: C) \"Why don't you look at the advertisements in the newspaper?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -758,9 +758,9 @@ export const fullExamBank = {
       id: 57,
       category: "English Situations (Test 1)",
       question: "You learn from his mother that Peter is ill. You say to her:",
-      options: ["Why can't he come to the match tonight?", "I told you he'd soon be better.", "I'm afraid I cannot recommend good medicine.", "Please, send him a get well soon card.", "Please, tell him I hope he'll be feeling better soon. Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"],
+      options: ["Why can't he come to the match tonight?", "I told you he'd soon be better.", "I'm afraid I cannot recommend good medicine.", "Please, send him a get well soon card.", "Please, tell him I hope he'll be feeling better soon."],
       correct: 4,
-      reasoning: "Official Correct Answer: E) \"Please, tell him I hope he'll be feeling better soon. Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      reasoning: "Official Correct Answer: E) \"Please, tell him I hope he'll be feeling better soon.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
     {
       id: 58,
@@ -774,7 +774,7 @@ export const fullExamBank = {
       id: 59,
       category: "English Situations (Test 1)",
       question: "You are reserving a room in a hotel. The receptionist asks you for the dates. You reply:",
-      options: ["I want the room for at least 10 days, starting March 20th.", "I'm afraid I can't stay for two weeks.", "Last year I stayed here in August,", "I'm too busy to come this month.", "What time of the year do most people come? Situational Responses Test 1 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-1/ www.englishtestsonline.com"],
+      options: ["I want the room for at least 10 days, starting March 20th.", "I'm afraid I can't stay for two weeks.", "Last year I stayed here in August,", "I'm too busy to come this month.", "What time of the year do most people come?"],
       correct: 0,
       reasoning: "Official Correct Answer: A) \"I want the room for at least 10 days, starting March 20th.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -846,7 +846,7 @@ export const fullExamBank = {
       id: 68,
       category: "English Situations (Test 3)",
       question: "Your mother has just got back from shopping. She has several bags in her arms and is having trouble carrying them. You offer to help by saying:",
-      options: ["Let me open the bags.", "You shouldn't have spent so much money.", "Can I give you a hand?", "Why don't you take one at a time?", "Your arms will hurt tomorrow. Situational Responses Test 3 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-3/ www.englishtestsonline.com"],
+      options: ["Let me open the bags.", "You shouldn't have spent so much money.", "Can I give you a hand?", "Why don't you take one at a time?", "Your arms will hurt tomorrow."],
       correct: 2,
       reasoning: "Official Correct Answer: C) \"Can I give you a hand?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -926,7 +926,7 @@ export const fullExamBank = {
       id: 78,
       category: "English Situations (Test 3)",
       question: "You have been taking sewing classes and have just made your first article of clothing. You show it to your mother and say:",
-      options: ["I told you I wouldn't be able to manage.", "What do you think, Mom?", "Who is that for?", "Can you help fix this?", "I wanted you to see this before I bought it. Situational Responses Test 3 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-responses-test-3/ www.englishtestsonline.com"],
+      options: ["I told you I wouldn't be able to manage.", "What do you think, Mom?", "Who is that for?", "Can you help fix this?", "I wanted you to see this before I bought it."],
       correct: 1,
       reasoning: "Official Correct Answer: B) \"What do you think, Mom?\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -966,7 +966,7 @@ export const fullExamBank = {
       id: 83,
       category: "English Situations (Advanced)",
       question: "You are telephoning about a job advertisement you have seen in the newspaper. You would like to arrange an interview with the director. Her name is Mrs Perkins. You say;",
-      options: ["I want to see Mrs Perkins on Thursday morning at 10 o'clock, ok?", "Mrs Perkins wants to interview me next Monday.", "I would like to arrange an interview with Mrs Perkins, please.", "When can I see Mrs Perkins about an interview?", "Today, I'm coming for my job interview. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"],
+      options: ["I want to see Mrs Perkins on Thursday morning at 10 o'clock, ok?", "Mrs Perkins wants to interview me next Monday.", "I would like to arrange an interview with Mrs Perkins, please.", "When can I see Mrs Perkins about an interview?", "Today, I'm coming for my job interview."],
       correct: 2,
       reasoning: "Official Correct Answer: C) \"I would like to arrange an interview with Mrs Perkins, please.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -1030,9 +1030,9 @@ export const fullExamBank = {
       id: 91,
       category: "English Situations (Advanced)",
       question: "You arrange to meet a friend of yours tonight. Unexpectedly, your boss goes abroad and you're requested to give him a lift to the airport. You call your friend and say:",
-      options: ["I'm afraid we can't arrange an appointment for tonight as I will go abroad.", "I'm sorry but my boss wants to see me at the airport today", "I regret cancelling our appointment, let’s meet tonight.", "Such things occur every day, why did you get so angry about the cancellation?", "Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"],
+      options: ["I'm afraid we can't arrange an appointment for tonight as I will go abroad.", "I'm sorry but my boss wants to see me at the airport today", "I regret cancelling our appointment, let’s meet tonight.", "Such things occur every day, why did you get so angry about the cancellation?", "Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport."],
       correct: 4,
-      reasoning: "Official Correct Answer: E) \"Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      reasoning: "Official Correct Answer: E) \"Sorry for not keeping my promise for the night, but I must accompany my boss on his way to the airport.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
     {
       id: 92,
@@ -1078,7 +1078,7 @@ export const fullExamBank = {
       id: 97,
       category: "English Situations (Advanced)",
       question: "You've been invited to a party given by the history club of your school. In fact, you’re very pleased to be invited by them since you’re not a member of the club. But on the same day, you're going to celebrate your brother's graduation from university with your family. You want to refuse the invitation kindly. You say:",
-      options: ["Much to my regret, I will be unable to attend your party since I'll be out of town for business.", "Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.", "I can't tell how sorry I am. Please, forgive me.", "You have my whole-hearted support; however, I have to reject your offer.", "I want to come to your party but I'm not still certain about whether I can come or not. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"],
+      options: ["Much to my regret, I will be unable to attend your party since I'll be out of town for business.", "Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.", "I can't tell how sorry I am. Please, forgive me.", "You have my whole-hearted support; however, I have to reject your offer.", "I want to come to your party but I'm not still certain about whether I can come or not."],
       correct: 1,
       reasoning: "Official Correct Answer: B) \"Owing to a prior plan, I'm afraid I won't be able to attend your party. But thank you very much all the same.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     },
@@ -1118,9 +1118,9 @@ export const fullExamBank = {
       id: 102,
       category: "English Situations (Advanced)",
       question: "You see some foreigners in the street. You think they are tourists. They're carefully studying on a map and really look confused. You know your city very well and want to be of some assistance. You go near them and say:",
-      options: ["Do you like our country?", "Can we practise some English?", "Isn't reading that map difficult for you?", "I suppose the museum you're looking for is on Çankırı street", "If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com"],
+      options: ["Do you like our country?", "Can we practise some English?", "Isn't reading that map difficult for you?", "I suppose the museum you're looking for is on Çankırı street", "If you tell me where you want to go, I can give you directions."],
       correct: 4,
-      reasoning: "Official Correct Answer: E) \"If you tell me where you want to go, I can give you directions. Situational Expression Advanced Level Test - Quiz (Online Exercise With Answers) 2 By visiting the link below, you can access the online version of this test and see the most recent updates. https://www.englishtestsonline.com/situational-expression-advanced-level-test-quiz-online-exercise-with-answers-2/ www.englishtestsonline.com\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
+      reasoning: "Official Correct Answer: E) \"If you tell me where you want to go, I can give you directions.\"\nالرد الأكثر ملاءمة وسياقية وأدباً في هذا الموقف."
     }
   ]
 };
