@@ -6301,5 +6301,393 @@
     ],
     "correct": 2,
     "reasoning": "👨‍🏫 <b>طريقة الحل السريعة (بدون آلة حاسبة):</b>\n• المتوسط الجديد أصبح 16 سنة لـ 31 شخصاً (30 طالباً + المعلم).\n• المعلم جاء بنصيبه (16) وزاد كل طالب من الـ 30 طالباً سنة واحدة:\n<code>عمر المعلم = 16 + (30 × 1) = 46 سنة</code>.\n\n• <b>بالطريقة التقليدية:</b>\nمجموع أعمار الطلاب = <code>30 × 15 = 450</code>\nمجموع أعمار الكل = <code>31 × 16 = 496</code>\nعمر المعلم = <code>496 - 450 = 46 سنة</code>."
+  },
+  {
+    "id": 501,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "In a school cohort of 169 students, the ratio of boys to girls is 8:5. How many boys are there in the cohort?",
+    "options": [
+      "91",
+      "104",
+      "112",
+      "65"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 104 (الاختيار B)</b>\n\n🔍 <b>طريقة الحل السريع في 5 ثوانٍ:</b>\n1. <b>مجموع أجزاء النسبة:</b> <code>8 + 5 = 13 جزءاً</code>.\n2. <b>قيمة الجزء الواحد:</b> <code>169 ÷ 13 = 13 طالباً</code>.\n3. <b>عدد الأولاد (نسبتهم 8):</b> <code>8 × 13 = 104 أولاد</code>.\n• <i>(لو طُلب عدد البنات: 5 × 13 = 65 بنتاً)</i>.\n✅ <b>التأكيد: 104 + 65 = 169 طالباً.</b>"
+  },
+  {
+    "id": 502,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "The average age of 30 students in a class is 18 years. When the teacher's age is added, the average age of the entire group increases to 19 years. What is the age of the teacher?",
+    "options": [
+      "37 years",
+      "45 years",
+      "49 years",
+      "52 years"
+    ],
+    "correct": 2,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 49 سنة (الاختيار C)</b>\n\n🔍 <b>قاعدة المجموع القديم والمجموع الجديد:</b>\n1. <b>مجموع أعمار الطلاب الـ 30:</b> <code>30 × 18 = 540 سنة</code>.\n2. <b>مجموع الأعمار بعد إضافة المعلم (أصبحوا 31 شخصاً بمتوسط 19):</b>\n   <code>31 × 19 = 589 سنة</code>.\n3. <b>عمر المعلم = المجموع الجديد - المجموع القديم:</b>\n   <code>589 - 540 = 49 سنة</code>.\n\n⚡ <b>طريقة ذهنية في ثانيتين:</b>\nالمعلم دخل برصيد 19 سنة + رفع كل طالب من الـ 30 سنة كاملة (19 + 30 = 49)!"
+  },
+  {
+    "id": 503,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "You purchased an item priced at $1,500 and paid a 20% deposit upfront. What is the remaining balance due at final payment?",
+    "options": [
+      "$1,100",
+      "$1,200",
+      "$1,300",
+      "$1,350"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: $1,200 (الاختيار B)</b>\n\n🔍 <b>طريقة الحل المباشر:</b>\n• بما أنك دفعت <b>20%</b> مقدماً (Deposit)، فإن النسبة المتبقية هي <b>80%</b>.\n• <b>المبلغ المتبقي:</b> <code>$1,500 × 0.80 = $1,200</code>.\n\n• <i>أو بطريقة الطرح:</i>\n  - قيمة المقدم المدفوع: <code>1,500 × 0.20 = $300</code>.\n  - المبلغ المتبقي: <code>1,500 - 300 = $1,200</code>."
+  },
+  {
+    "id": 504,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "True or False: If an object weighing 600 kg has its weight increased by 25%, its new weight becomes 700 kg.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: False (خطأ)</b>\n\n🔍 <b>البرهان الحسابي:</b>\n• نسبة الزيادة <b>25%</b> تعادل الربع (1/4).\n• <b>قيمة الزيادة:</b> <code>600 ÷ 4 = 150 كجم</code>.\n• <b>الوزن الجديد الصحيح:</b> <code>600 + 150 = 750 كجم</code>.\n• العبارة تدعي أن الوزن الجديد هو 700 كجم، إذن العبارة <b>خاطئة (False)</b> تماماً."
+  },
+  {
+    "id": 505,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Which of the following mathematical expressions results in a value DIFFERENT from the other three?\n\nA) 8 + 6 × 2 - 4\nB) (8 + 6) × 2 - 12\nC) 24 ÷ 2 + 8 - 4\nD) 4 × 5 - 2 × 3",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "reasoning": "💡 <b>الإجابة الصحيحة: D (الاختيار D)</b>\n\n🔍 <b>تطبيق أولويات العمليات (BODMAS / PEMDAS):</b>\n• <b>التعبير A:</b> الضرب أولاً (6 × 2 = 12) ➔ <code>8 + 12 - 4 = 16</code>\n• <b>التعبير B:</b> الأقواس أولاً (8 + 6 = 14) ➔ <code>14 × 2 - 12 = 28 - 12 = 16</code>\n• <b>التعبير C:</b> القسمة أولاً (24 ÷ 2 = 12) ➔ <code>12 + 8 - 4 = 16</code>\n• <b>التعبير D:</b> الضربان أولاً (20 و 6) ➔ <code>20 - 6 = 14</code> ⬅️ <b>قيمة مختلفة!</b>\n\n✅ التعبيرات A و B و C ناتجها 16، بينما D ناتجه 14."
+  },
+  {
+    "id": 506,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Calculate the exact value of the expression:\n\n18 - 3 × (4 + 2) ÷ 9 + 5",
+    "options": [
+      "15",
+      "21",
+      "17",
+      "25"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 21 (الاختيار B)</b>\n\n🔍 <b>خطوات الحل حسب قواعد PEMDAS الصارمة:</b>\n1. <b>الأقواس (Parentheses):</b> <code>(4 + 2) = 6</code>\n   المسألة تصبح: <code>18 - 3 × 6 ÷ 9 + 5</code>\n2. <b>الضرب والقسمة (من اليسار لليمين):</b>\n   - <code>3 × 6 = 18</code>\n   - <code>18 ÷ 9 = 2</code>\n   المسألة تصبح: <code>18 - 2 + 5</code>\n3. <b>الجمع والطرح (من اليسار لليمين):</b>\n   - <code>18 - 2 = 16</code>\n   - <code>16 + 5 = 21</code>."
+  },
+  {
+    "id": 507,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "What is the value of: 30 - 10 ÷ 2 + 3 × 4 ?",
+    "options": [
+      "22",
+      "37",
+      "40",
+      "16"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 37 (الاختيار B)</b>\n\n🔍 <b>خطوات الحل:</b>\n1. <b>القسمة والضرب أولاً:</b>\n   - <code>10 ÷ 2 = 5</code>\n   - <code>3 × 4 = 12</code>\n2. <b>المسألة تصبح:</b> <code>30 - 5 + 12</code>\n3. <b>الحساب من اليسار لليمين:</b>\n   - <code>30 - 5 = 25</code>\n   - <code>25 + 12 = 37</code>.\n\n⚠️ <i>تحذير: لا تطرح 30 - 10 قبل القسمة!</i>"
+  },
+  {
+    "id": 508,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Five students (Adam, Ben, Carl, Dan, Eric) attended school:\n• Two students wore black shoes, and three wore white shoes.\n• Only students wearing a white shirt were allowed to enter the laboratory.\n• Adam and Carl wore the exact same uniform combination.\n• Ben was absent from the lab because he wore a blue shirt.\n• Dan wore black shoes and a white shirt.\n• Eric wore white shoes and a blue shirt.\n\nWho entered the laboratory while wearing white shoes?",
+    "options": [
+      "Dan",
+      "Adam and Carl",
+      "Ben and Eric",
+      "Eric only"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Adam and Carl (الاختيار B)</b>\n\n🔍 <b>طريقة الحل بالاستبعاد المنطقي (Elimination):</b>\n1. <b>دخول المعمل:</b> يشترط قميصاً أبيض.\n   - Ben و Eric ارتديا قميصاً أزرق ⬅️ <i>مستبعدان من دخول المعمل</i>.\n   - إذن الذين دخلوا المعمل بقميص أبيض هم: <b>(Adam, Carl, Dan)</b>.\n2. <b>توزيع الأحذية:</b> يوجد حذاءان أسودان و 3 بيضاء.\n   - Dan يرتدي حذاءً أسود (1 من 2).\n   - Eric يرتدي حذاءً أبيض (1 من 3).\n3. <b>Adam و Carl:</b> يرتديان نفس الزي بالضبط.\n   - لو ارتديا حذاءً أسود، لأصبح عدد الأحذية السوداء 3 (وهذا يناقض الشرط لأن الأسود اثنان فقط).\n   - إذن حتماً ارتدى كل من <b>Adam و Carl حذاءً أبيض</b> ودخلا المعمل بقميص أبيض!"
+  },
+  {
+    "id": 509,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Four professionals (Doctor, Lawyer, Engineer, Accountant) are seated at a table:\n1. The Engineer sits directly opposite the Accountant.\n2. The Doctor sits to the immediate left of Alan, who is wearing a red tie.\n3. David is wearing a blue suit and is NOT the Accountant.\n4. Charles is the Lawyer.\n5. Brian is the fourth guest.\n\nWhat is David's profession?",
+    "options": [
+      "Doctor",
+      "Engineer",
+      "Accountant",
+      "Lawyer"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Engineer (الاختيار B)</b>\n\n🔍 <b>الاستنتاج في 15 ثانية:</b>\n• المهن الأربعة: (Doctor, Lawyer, Engineer, Accountant).\n• الأشخاص: (Alan, Brian, Charles, David).\n1. من الشرط (4): Charles هو المحامي (Lawyer).\n2. من الشرط (3): David <b>ليس المحاسب</b>، وليس المحامي بالطبع.\n   - إذن David إما طبيب (Doctor) أو مهندس (Engineer).\n3. الطبيب يجلس بجوار Alan (مرتدي ربطة العنق الحمراء)، و David يجلس مقابلاً للمحاسب ومرتدياً بدلة زرقاء.\n4. بتطابق مواقع الجلوس على الطاولة الرباعية، نجد أن <b>David هو المهندس (Engineer)</b>."
+  },
+  {
+    "id": 510,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "A rare butterfly genus is studied across four countries: Thailand, Brazil, Cuba, and Peru:\n• Red-winged butterflies are found ONLY in Brazil and Peru.\n• Blue-winged butterflies are found in Cuba and Peru, but NEVER in Brazil.\n• Species Z is blue-winged and is native exclusively to an island nation.\n\nIn which country is Species Z definitively found?",
+    "options": [
+      "Thailand",
+      "Brazil",
+      "Cuba",
+      "Peru"
+    ],
+    "correct": 2,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Cuba (الاختيار C)</b>\n\n🔍 <b>الاستبعاد المباشر في ثانيتين:</b>\n• المعطى الأساسي: النوع Z أجنحته زرقاء وموطنه <b>دولة جزرية (Island nation)</b>.\n• من بين الدول المذكورة (تايلاند، البرازيل، كوبا، بيرو): <b>كوبا (Cuba)</b> هي الدولة الجزرية الوحيدة!\n• الشرط الثاني يؤكد أن الفراشات الزرقاء موجودة في كوبا.\n✅ إذن النوع Z موجود في <b>كوبا</b> حتماً."
+  },
+  {
+    "id": 511,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Find the EXACT matching address without ANY spelling, numeric, or punctuation errors:\n\nTarget: \"Prof. Maximilian V. Montgomery, Suite 408, 1729 Kensington Blvd, Cambridge, MA 02138\"",
+    "options": [
+      "Prof. Maximillian V. Montgomery, Suite 408, 1729 Kensington Blvd, Cambridge, MA 02138",
+      "Prof. Maximilian V. Montgomery, Suite 408, 1729 Kensington Blvd, Cambridge, MA 02138",
+      "Prof. Maximilian V. Montgomery, Suite 480, 1729 Kensington Blvd, Cambridge, MA 02138",
+      "Prof. Maximilian V. Montgomery, Suite 408, 1729 Kensington Blvd, Cambridge, MA 02183"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: B (الاختيار B)</b>\n\n🔍 <b>مواضع الفخاخ الشائعة وكشفها:</b>\n• <b>الاختيار B:</b> مطابق للهدف 100% حرفاً ورقماً.\n• <b>الاختيار A:</b> خطأ إملائي بزيادة حرف 'l' في كلمة (Maximillian).\n• <b>الاختيار C:</b> خطأ في رقم الجناح (Suite 480 بدلاً من 408).\n• <b>الاختيار D:</b> تبديل آخر رقمين في الـ ZIP Code (02183 بدلاً من 02138)."
+  },
+  {
+    "id": 512,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Which two codes are completely IDENTICAL?\n\n1) XZ-9041-KR-77B\n2) XZ-9014-KR-77B\n3) XZ-9041-KR-77B\n4) XZ-9041-RK-77B",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 1 and 3 (الاختيار B)</b>\n\n🔍 <b>مقارنة الأكواد:</b>\n• الكود (1): <code>XZ-9041-KR-77B</code>\n• الكود (3): <code>XZ-9041-KR-77B</code> ⬅️ <b>مطابق للكود (1) بنسبة 100%</b>.\n• الكود (2) به تبديل في الأرقام (9014 بدلاً من 9041).\n• الكود (4) به تبديل في الحروف (RK بدلاً من KR)."
+  },
+  {
+    "id": 513,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "On a balance scale:\n• 2 Squares and 1 Circle balance 1 Triangle.\n• 1 Triangle balances 4 Circles.\nHow many Circles balance 1 Square?",
+    "options": [
+      "1 Circle",
+      "1.5 Circles",
+      "2 Circles",
+      "3 Circles"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 1.5 Circles (دائرة ونصف - الاختيار B)</b>\n\n🔍 <b>طريقة الحل كمعادلات جبرية بسيطة:</b>\n• المعادلة 1: <code>2 مربع + 1 دائرة = 1 مثلث</code>\n• المعادلة 2: <code>1 مثلث = 4 دوائر</code>\n• بالتعويض عن المثلث في المعادلة الأولى:\n  <code>2 مربع + 1 دائرة = 4 دوائر</code>\n  <code>2 مربع = 3 دوائر</code>\n  <code>1 مربع = 3 ÷ 2 = 1.5 دائرة</code> 🎯."
+  },
+  {
+    "id": 514,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "If 3 Cylinders balance 6 Spheres, and 2 Spheres balance 4 Cubes, how many Cubes are needed to balance 1 Cylinder?",
+    "options": [
+      "2 Cubes",
+      "3 Cubes",
+      "4 Cubes",
+      "6 Cubes"
+    ],
+    "correct": 2,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 4 Cubes (الاختيار C)</b>\n\n🔍 <b>خطوات التناسب:</b>\n1. <code>3 أسطوانات = 6 كرات</code> ⬅️ بالقسمة على 3: <b>1 أسطوانة = 2 كرة</b>.\n2. المعطى الثاني: <b>2 كرة = 4 مكعبات</b>.\n3. بالتعويض المباشر:\n   <b>1 أسطوانة = 4 مكعبات</b> 🎯."
+  },
+  {
+    "id": 515,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "When an unfolded cube net has a straight line of four squares with symbols [Star, Circle, Square, Cross], which symbol is directly OPPOSITE the Star when folded into a cube?",
+    "options": [
+      "Circle",
+      "Square",
+      "Cross",
+      "Cannot be determined"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Square (المربع - الاختيار B)</b>\n\n🔍 <b>القاعدة الذهبية لفردة المكعب (Cube Net):</b>\n• في أي شريط مستقيم من مربعات المكعب: <b>أي وجهين يفصل بينهما وجه واحد فقط هما وجهان متقابلان (Opposite Faces)!</b>\n• الشريط مرتب كالتالي: [Star, Circle, Square, Cross]:\n  - الوجه 1 (Star) يفصل بينه وبين الوجه 3 (Square) وجه واحد (Circle).\n  - إذن <b>الوجه المقابل للـ Star هو Square</b> مباشرة!\n  - وبالمثل: الوجه المقابل للـ Circle هو Cross."
+  },
+  {
+    "id": 516,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "If two opposite faces of a standard die always sum to 7, which of the following face combinations CANNOT appear simultaneously on any view of the die?",
+    "options": [
+      "1, 2, 3",
+      "2, 3, 5",
+      "1, 3, 6",
+      "2, 4, 6"
+    ],
+    "correct": 2,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 1, 3, 6 (الاختيار C)</b>\n\n🔍 <b>قاعدة النرد والمكعبات:</b>\n• بما أن مجموع كل وجهين متقابلين = 7:\n  - الوجه 1 يقابل الوجه 6 (1 + 6 = 7).\n  - الوجه 2 يقابل الوجه 5 (2 + 5 = 7).\n  - الوجه 3 يقابل الوجه 4 (3 + 4 = 7).\n• <b>النتيجة المنطقية:</b> يستحيل أن يظهر وجهان متقابلان معاً في نفس الرؤية للمكعب!\n• الاختيار C يحتوي على الرقمين <b>(1 و 6)</b> معاً، وهما وجهان متقابلان، لذلك يستحيل رؤيتهما معاً."
+  },
+  {
+    "id": 517,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Five interlocking gears (A, B, C, D, E) are arranged in a straight sequence. If Gear A rotates CLOCKWISE, in which direction does Gear E rotate?",
+    "options": [
+      "Clockwise",
+      "Counter-clockwise",
+      "It remains stationary",
+      "Cannot be determined"
+    ],
+    "correct": 0,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Clockwise (مع عقارب الساعة - الاختيار A)</b>\n\n🔍 <b>قاعدة التروس المتعاشقة الفردية والزوجية:</b>\n• كل ترسين متجاورين يدوران في <b>عكس الاتجاه</b>:\n  - Gear A: <b>Clockwise</b> (مع)\n  - Gear B: Counter-clockwise (عكس)\n  - Gear C: Clockwise (مع)\n  - Gear D: Counter-clockwise (عكس)\n  - Gear E: <b>Clockwise (مع عقارب الساعة)</b> 🎯.\n\n⚡ <b>القاعدة السريعة في ثانية واحدة:</b>\nإذا كان رقم الترس فردياً (1، 3، 5...) ⬅️ يدور في <b>نفس اتجاه الترس الأول</b> (Clockwise)!"
+  },
+  {
+    "id": 518,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Pulley wheel A is connected to Pulley wheel B by a CROSSED belt (in the shape of a figure 8). If Wheel A rotates clockwise, how does Wheel B rotate?",
+    "options": [
+      "Clockwise",
+      "Counter-clockwise",
+      "At twice the speed clockwise",
+      "It does not rotate"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Counter-clockwise (عكس عقارب الساعة - الاختيار B)</b>\n\n🔍 <b>قواعد سيور البكرات (Belts & Pulleys):</b>\n1. <b>السير المفتوح/المستقيم (Open Belt):</b> تنقل الحركة في <b>نفس الاتجاه</b> (Clockwise ➔ Clockwise).\n2. <b>السير المتقاطع (Crossed Belt - شكل 8):</b> يعكس اتجاه الحركة ليصبح في <b>عكس الاتجاه</b> (Clockwise ➔ Counter-clockwise)!\n✅ إذن تدور البكرة B عكس عقارب الساعة."
+  },
+  {
+    "id": 519,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "What number replaces the question mark in the sequence?\n\n3, 20, 6, 17, 9, 14, 12, ?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "15"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 11 (الاختيار B)</b>\n\n🔍 <b>متتابعتان متداخلتان (Interleaved Sequences):</b>\nلاحظ تذبذب الأرقام صعوداً وهبوطاً، إذن نقسمها لمتتابعتين متبادلتين:\n• <b>المتتابعة الأولى (الخانات الفردية 1، 3، 5، 7):</b>\n  <code>3, 6, 9, 12</code> ⬅️ تزيد بمقدار (+3).\n• <b>المتتابعة الثانية (الخانات الزوجية 2، 4، 6، 8):</b>\n  <code>20, 17, 14, ?</code> ⬅️ تنقص بمقدار (-3).\n\n📌 الرقم المجهول يقع في الخانة الثامنة:\n<code>14 - 3 = 11</code>."
+  },
+  {
+    "id": 520,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "What is the next number in the series?\n\n2, 6, 14, 26, 42, ?",
+    "options": [
+      "58",
+      "62",
+      "64",
+      "66"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 62 (الاختيار B)</b>\n\n🔍 <b>نمط الفرق بمضاعفات الـ 4 (تسريب اليوم):</b>\nاحسب الفروق بين الحدود المتتالية:\n• <code>6 - 2 = 4</code>  (+4 = 4 × 1)\n• <code>14 - 6 = 8</code>  (+8 = 4 × 2)\n• <code>26 - 14 = 12</code> (+12 = 4 × 3)\n• <code>42 - 26 = 16</code> (+16 = 4 × 4)\n\n📌 الخطوة التالية هي إضافة المضاعف الخامس (4 × 5 = 20):\n<code>42 + 20 = 62</code> 🎯."
+  },
+  {
+    "id": 521,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Find the missing number:\n\n100, 97.25, 91.75, 83.5, ?",
+    "options": [
+      "70.5",
+      "71.5",
+      "72.5",
+      "73.5"
+    ],
+    "correct": 2,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 72.5 (الاختيار C)</b>\n\n🔍 <b>طريقة حل المتتابعة في 10 ثوانٍ:</b>\nالمتتابعة تطرح مضاعفات متزايدة للرقم 2.75 في كل خطوة:\n• <code>100 - 97.25 = 2.75</code> (طرحنا 2.75 × 1)\n• <code>97.25 - 91.75 = 5.50</code> (طرحنا 2.75 × 2)\n• <code>91.75 - 83.50 = 8.25</code> (طرحنا 2.75 × 3)\n• <b>الخطوة القادمة:</b> نطرح المضاعف الرابع: <code>2.75 × 4 = 11.00</code>\n<code>83.5 - 11.0 = 72.5</code> 🎯."
+  },
+  {
+    "id": 522,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "If CAT is coded as 24 (C=3, A=1, T=20), and DOG is coded as 26 (D=4, O=15, G=7), what is the code value for BIRD?",
+    "options": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 34 (الاختيار B)</b>\n\n🔍 <b>قاعدة مجموع ترتيب الحروف الأبجدية (Alphabetical Sum):</b>\n• B = 2\n• I = 9\n• R = 18\n• D = 4\n\n📌 <b>المجموع:</b> <code>2 + 9 + 18 + 4 = 34</code> 🎯."
+  },
+  {
+    "id": 523,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "If IN is coded as 46, and ACT is coded as 72, what is the code for GO?",
+    "options": [
+      "44",
+      "48",
+      "52",
+      "64"
+    ],
+    "correct": 0,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 44 (الاختيار A)</b>\n\n🔍 <b>اكتشاف الشفرة:</b>\n• كلمة <b>IN</b>: (I=9, N=14) ➔ المجموع = 23. طول الكلمة = حرفان. <code>23 × 2 = 46</code>.\n• كلمة <b>ACT</b>: (A=1, C=3, T=20) ➔ المجموع = 24. طول الكلمة = 3 أحرف. <code>24 × 3 = 72</code>.\n• القاعدة: <b>(مجموع أرقام الحروف) × (عدد حروف الكلمة)</b>.\n\n📌 تطبيقها على كلمة <b>GO</b>:\n- G = 7, O = 15 ➔ المجموع = <code>7 + 15 = 22</code>.\n- عدد الحروف = 2.\n- القيمة = <code>22 × 2 = 44</code> 🎯."
+  },
+  {
+    "id": 524,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "In a certain cipher, A=26, B=25, C=24 ... Z=1 (Reverse alphabet). What is the total sum for the word ZEN?",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "correct": 0,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 38 (الاختيار A)</b>\n\n🔍 <b>الترقيم العكسي للحروف (قيمة الحرف = 27 - ترتيبه العادي):</b>\n• <b>Z:</b> الترتيب 26 ➔ قيمته العكسية = <code>27 - 26 = 1</code>.\n• <b>E:</b> الترتيب 5 ➔ قيمته العكسية = <code>27 - 5 = 22</code>.\n• <b>N:</b> الترتيب 14 ➔ قيمته العكسية = <code>27 - 14 = 15</code>.\n\n📌 <b>المجموع:</b> <code>1 + 22 + 15 = 38</code> 🎯."
+  },
+  {
+    "id": 525,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "In the following 3x3 number grid, what number should replace the question mark?\n\n[ 4,  9,  2 ]\n[ 3,  5,  7 ]\n[ 8,  1,  ? ]",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 6 (الاختيار B)</b>\n\n🔍 <b>قاعدة المربع السحري (Magic Square):</b>\nمجموع أرقام كل صف وكل عمود وكل قطر دايماً ثابت ويساوي <b>15</b>!\n• الصف الأول: <code>4 + 9 + 2 = 15</code>\n• الصف الثاني: <code>3 + 5 + 7 = 15</code>\n• الصف الثالث: <code>8 + 1 + ? = 15</code>\n  <code>9 + ? = 15 ➔ ? = 6</code>.\n\n✅ <b>التأكيد بالعمود الأخير:</b> <code>2 + 7 + 6 = 15</code>."
+  },
+  {
+    "id": 526,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "In a geometric transformation involving dots at hexagon vertices across 3 columns:\n• If a vertex dot color is identical in all three figures, it cancels out (becomes empty).\n• If a vertex has 2 of one color and 1 of the other, the majority color remains.\nIf the top-right vertex in three figures has: (Black, White, White), what appears in the final result?",
+    "options": [
+      "Black dot",
+      "White dot",
+      "Empty vertex",
+      "Two dots"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: White dot (دائرة بيضاء - الاختيار B)</b>\n\n🔍 <b>تطبيق قاعدة الأغلبية (Majority Rule):</b>\n• المعطى في الرأس: (دائرة سوداء، دائرة بيضاء، دائرة بيضاء).\n• عدد الدوائر البيضاء = 2.\n• عدد الدوائر السوداء = 1.\n• الأغلبية هي للون <b>الأبيض</b> (2 > 1)، إذن ينتقل للرأس النهائي <b>دائرة بيضاء (White dot)</b>.\n• <i>(الإلغاء يحدث فقط لو كانت الدوائر الثلاث كلها بيضاء أو كلها سوداء).</i>"
+  },
+  {
+    "id": 527,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "Which geometric shape is the odd one out?\n\nHeptagon, Triangle, Hexagon, Cube, Pentagon",
+    "options": [
+      "Triangle",
+      "Cube",
+      "Heptagon",
+      "Pentagon"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: Cube (المكعب - الاختيار B)</b>\n\n🔍 <b>التصنيف الهندسي للأبعاد (2D vs 3D):</b>\n• <b>المكعب (Cube):</b> مجسم ثلاثي الأبعاد (3D Solid).\n• <b>باقي الأشكال (Heptagon, Triangle, Hexagon, Pentagon):</b> كلها مضلعات مستوية ثنائية الأبعاد (2D Polygons)."
+  },
+  {
+    "id": 528,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "A train running at a speed of 72 km/h crosses a 200-meter-long platform in 25 seconds. What is the length of the train?",
+    "options": [
+      "250 meters",
+      "300 meters",
+      "350 meters",
+      "400 meters"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 300 متر (الاختيار B)</b>\n\n🔍 <b>طريقة الحل السريع لقوانين القطارات:</b>\n1. <b>تحويل السرعة من كم/س إلى م/ث (الضرب في 5/18):</b>\n   <code>72 × (5 / 18) = 20 م/ث</code>.\n2. <b>المسافة الكلية المقطوعة = السرعة × الزمن:</b>\n   <code>20 م/ث × 25 ثانية = 500 متر</code>.\n3. <b>المسافة الكلية = (طول القطار + طول الرصيف):</b>\n   <code>طول القطار = 500 - 200 = 300 متر</code> 🎯."
+  },
+  {
+    "id": 529,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "A can finish a task in 10 days, and B can finish the same task in 15 days. How many days will they take to complete the task working together?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7.5 days",
+      "8 days"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 6 أيام (الاختيار B)</b>\n\n🔍 <b>قانون الضرب على الجمع السريع:</b>\n<code>الزمن المشترك = (A × B) ÷ (A + B)</code>\n\n• <code>(10 × 15) ÷ (10 + 15) = 150 ÷ 25 = 6 أيام</code> 🎯.\n✅ ينهيان العمل معاً في 6 أيام بالضبط."
+  },
+  {
+    "id": 530,
+    "category": "Exam Night (تسريبات ليلة الامتحان 2026)",
+    "question": "A bag contains 4 red balls, 5 blue balls, and 6 green balls. If one ball is drawn at random, what is the probability that it is NEITHER red NOR green?",
+    "options": [
+      "1/5",
+      "1/3",
+      "4/15",
+      "2/5"
+    ],
+    "correct": 1,
+    "reasoning": "💡 <b>الإجابة الصحيحة: 1/3 (الاختيار B)</b>\n\n🔍 <b>طريقة الحل في 5 ثوانٍ:</b>\n1. <b>العدد الكلي للكرات في الكيس:</b> <code>4 + 5 + 6 = 15 كرة</code>.\n2. المطلوب: الكرة المسحوبة <b>ليست حمراء وليست خضراء</b>.\n   - إذن يجب أن تكون الكرة <b>زرقاء</b> حتماً!\n3. <b>عدد الكرات الزرقاء = 5</b>.\n4. <b>الاحتمال المطلوب:</b> <code>5 ÷ 15 = 1/3</code> 🎯."
   }
 ]

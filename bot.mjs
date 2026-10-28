@@ -207,6 +207,9 @@ async function sendQuestion(chatId) {
             { text: '📝 نموذج IQ (6)', callback_data: 'mode_iq_model_6' }
           ],
           [
+            { text: '🎯 نموذج IQ (7) تسريبات ليلة الامتحان', callback_data: 'mode_iq_model_7' }
+          ],
+          [
             { text: '🇬🇧 نموذج English (1)', callback_data: 'mode_english_model_1' },
             { text: '🇬🇧 نموذج English (2)', callback_data: 'mode_english_model_2' }
           ],
@@ -349,6 +352,9 @@ async function pollUpdates() {
                     { text: '📝 نموذج IQ (4)', callback_data: 'mode_iq_model_4' },
                     { text: '📝 نموذج IQ (5)', callback_data: 'mode_iq_model_5' },
                     { text: '📝 نموذج IQ (6)', callback_data: 'mode_iq_model_6' }
+                  ],
+                  [
+                    { text: '🎯 نموذج IQ (7) تسريبات ليلة الامتحان', callback_data: 'mode_iq_model_7' }
                   ],
                   [
                     { text: '🇬🇧 نموذج English (1)', callback_data: 'mode_english_model_1' },
